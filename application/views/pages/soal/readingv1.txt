@@ -1,0 +1,700 @@
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1
+        "soal" => "‎What is the major pint that the author is making in this passage? ...........‎",
+        "pilihan" => [
+            "A.‎Niagara Falls can be viewed from either the ‎American side or the Canadian side.",
+            "B.A trip to the United States isn't complete ‎without a visite to Niagara Falls.‎",
+            "C.‎Niagara Falls has had an interesting history.‎",
+            "D.‎It has been necessary to protect Niagara Falls ‎from the many tourists who go there.‎",
+        ],
+        "jawaban" => "D.‎It has been necessary to protect Niagara Falls ‎from the many tourists who go there.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2
+        "soal" => "‎The word "flock" in the first paragraph could the best replaced by ...........‎",
+        "pilihan" => [
+            "A.‎Come by plane.",
+            "B.‎Come in large numbers.",
+            "C.‎Come out of boredom.‎",
+            "D.‎Come without knowing that they will see.‎",
+        ],
+        "jawaban" => "B.‎Come in large numbers.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3
+        "soal" => "‎Aaccording to the passage, which of the following best describes Niagara Falls? ...........‎",
+        "pilihan" => [
+            "A.‎Niagara Falls consists of two rivers, one canadian and the other American",
+            "B.‎American falls is considerably higher than Horseshoe Falls.",
+            "C.The Niagara River has two falls, one in Canada and the one in the United Stated.‎",
+            "D.‎Although the Niagara River flows through the United States and Canada, the falls are only in the ‎United States.‎",
+        ],
+        "jawaban" => "C.The Niagara River has two falls, one in Canada and the one in the United Stated.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => ‎4
+        "soal" => "A "streamer" in “and it is quite popular activity to take a <b>streamer</b> ‎out onto river and right up to the base of the falls for the close up view” is probably ...........",
+        "pilihan" => [
+            "A.A bus",
+            "B.A boat",
+            "C.A walkway",
+            "D.A park",
+        ],
+        "jawaban" => "B.A boat",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => ‎5
+        "soal" => "The Expression "right up"in “and it is quite popular activity to take a streamer ‎out onto river and <b>right up</b> to the base of the falls for the close up view” could best be replaces by ...........‎",
+        "pilihan" => [
+            "A.Turn to the right.‎",
+            "B.Follow correct procedures.‎",
+            "C.‎travel upstream.",
+            "D.All the way up.‎",
+        ],
+        "jawaban" => "D.All the way up.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6
+        "soal" => "The passage implies that tourists prefer to ...........‎",
+        "pilihan" => [
+            "A.Visit Niagara Falls during warmer weather",
+            "B.See the falls from a great distance",
+            "C.‎Take a ride over the falls",
+            "D.Come to Niagara Falls for a winter vacation",
+        ],
+        "jawaban" => "A.Visit Niagara Falls during warmer weather",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => ‎7
+        "soal" => "According to the passage, why was Niagara Park created? ...........‎",
+        "pilihan" => [
+            "A.‎‎To encourage tourists to visit Niagara Falls.‎",
+            "B.To show off the natural beauty of Niagara ‎Falls.‎",
+            "C.‎To protect the area around Niagara Falls.‎",
+            "D.To force Canada to open Queen Victoria Park.‎",
+        ],
+        "jawaban" => "C.‎To protect the area around Niagara Falls.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8
+        "soal" => "‎The word "<b>jurisdiction</b>" in With the ‎area surrounding the falls under the <b>jurisdiction</b> of goverment agencies  is closest in meaning to ...........‎",
+        "pilihan" => [
+            "A.‎View",
+            "B.Assistance",
+            "C.Taxation",
+            "D.Control‎",
+        ],
+        "jawaban" => "D.Control‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9
+        "soal" => "‎The word "pristine" in “appropriate steps could be ‎taken to preserve the <b>pristine</b> beauty of the area” is closest in meaning to ...........‎",
+        "pilihan" => [
+            "A.‎‎Pure and natural",
+            "B.Highly developed",
+            "C.Well-regulated",
+            "D.Overused",
+        ],
+        "jawaban" => "A.‎‎Pure and natural",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10
+        "soal" => "‎The paragraph following the passage most probalby discusses ...........‎",
+        "pilihan" => [
+            "A.Aditional ways to observe the falls.‎",
+            "B.Steps take by givernment to protect the falls.‎",
+            "C.A detailed decription of the division of the falls between the united states and canada.‎",
+            "D.Further problems that are destroying the area around the falls.‎‎",
+        ],
+        "jawaban" => "B.Steps take by givernment to protect the falls.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11
+        "soal" => "The purpose of this passage is to ...........‎",
+        "pilihan" => [
+            "A.Explain why there is confussion today over peppers.‎",
+            "B.Provide the scientific classification of various types of peppers.‎",
+            "C.Demonstrate that it was columbus who brought peppers to europe.",
+            "D.Classify the variety of sizes, shapes, and colors of peppers.‎",
+        ],
+        "jawaban" => "A.Explain why there is confussion today over peppers.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12
+        "soal" => "‎The word "turn" in line 3 could best be replaced by ...........‎",
+        "pilihan" => [
+            "A.‎Revert",
+            "B.Exchange‎",
+            "C.Veer",
+            "D.Change‎",
+        ],
+        "jawaban" => "D.Change‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13
+        "soal" => "‎According to the passage, both black and white pappers ...........‎",
+        "pilihan" => [
+            "A.Come from different plants.‎",
+            "B.Change colors after they are ground.‎",
+            "C.‎Are ground from dried out peppercorns.‎",
+            "D.Have the same flavor.‎",
+        ],
+        "jawaban" => "C.‎Are ground from dried out peppercorns.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14
+        "soal" => "‎What part of the piper nigrum is the pericarp? ...........‎",
+        "pilihan" => [
+            "A.The seed inside the fruit.‎",
+            "B.The outer covering of the fruit.‎",
+            "C.‎The pulp inside the vine.‎",
+            "D.The outer covering of the vine.‎",
+        ],
+        "jawaban" => "B.The outer covering of the fruit.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15
+        "soal" => "‎What usually does NOT vary in a capsicum plant? ...........‎",
+        "pilihan" => [
+            "A.The colors of the flower.‎",
+            "B.The size of the fruit.‎",
+            "C.The pulp of the fruit.‎",
+            "D.The colors of the fruit.‎",
+        ],
+        "jawaban" => "A.The colors of the flower.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16
+        "soal" => "‎The word "push" in “Europeans was a major cause of the fisteenth-century <b>push</b> to locateocena routes to spice-growing ‎regions of Asia” could best be replaced by ...........‎",
+        "pilihan" => [
+            "A.Shove ‎",
+            "B.Strength",
+            "C.‎Drive",
+            "D.Hit",
+        ],
+        "jawaban" => "C.‎Drive",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17
+        "soal" => "‎The pronoun "them" in “Columbus introduced the spicy Capsicum ‎chili peppers to Europeans on his return from the 1492 voyage and traders later spread <b>them</b> to Asia ‎and Africa” refers to ...........‎",
+        "pilihan" => [
+            "A.Plants",
+            "B.People",
+            "C.‎Relatives",
+            "D.Europeans",
+        ],
+        "jawaban" => "A.Plants",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18
+        "soal" => "‎It can be infered from the passage that chili peppers originally came from ...........‎",
+        "pilihan" => [
+            "A.Europe ‎",
+            "B.Asia",
+            "C.America ‎",
+            "D.Africa",
+        ],
+        "jawaban" => "C.America ‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19
+        "soal" => "‎Where in the passage does the author explain the mistake that Columbus made? ...........‎",
+        "pilihan" => [
+            "A.‎First paragraph",
+            "B.Second paragraph",
+            "C.Third paragraph",
+            "D.Last paragraph",
+        ],
+        "jawaban" => "D.Last paragraph",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20
+        "soal" => "‎This paragraph preceding the passage most likely discusses  ...........‎",
+        "pilihan" => [
+            "A.Astronaut training.‎",
+            "B.The conception of the apollo space program.‎	",
+            "C.‎A different space trip.‎",
+            "D.Previous moon landings.‎",
+        ],
+        "jawaban" => "C.‎A different space trip.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21
+        "soal" => "‎What is the subject of this passage ...........‎",
+        "pilihan" => [
+            "A.The Apollo astronauts.‎",
+            "B.Soil on the Moon.",
+            "C.What the Moon is made of.‎",
+            "D.Basalt and Breccia.‎",
+        ],
+        "jawaban" => "C.What the Moon is made of.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22
+        "soal" => "‎An "abundance" in “scientists with an <b>‎abundance</b> of material for study” is ...........‎",
+        "pilihan" => [
+            "A.A disorderly pile.‎",
+            "B.A wealthy bunch.‎",
+            "C.‎An insignificant proportion.‎",
+            "D.A large amount.‎",
+        ],
+        "jawaban" => "D.A large amount.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23
+        "soal" => "‎According to the passage, what does the Moon soil consist of? ...........‎",
+        "pilihan" => [
+            "A.Hydrogen and helium.‎",
+            "B.Large chunks of volcanic lava.‎",
+            "C.‎Tiny pieces of stones and glass.‎",
+            "D.Streams of gases.‎",
+        ],
+        "jawaban" => "C.‎Tiny pieces of stones and glass.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => ‎24
+        "soal" => "The word "spherical" in “The bits of ‎glass are <b>spherical</b> in shape and constitute approximately half of the moon soil” is closest in meaning to ...........‎",
+        "pilihan" => [
+            "A.Earten",
+            "B.Circular",
+            "C.Angular",
+            "D.Amorphous",
+        ],
+        "jawaban" => "B.Circular",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25
+        "soal" => "‎Which of the following was not brought back to the earth by astronauts? ...........‎",
+        "pilihan" => [
+            "A.Basalt",
+            "B.Soil",
+            "C.Breccia",
+            "D.Plant life",
+        ],
+        "jawaban" => "D.Plant life",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26
+        "soal" => "‎An "indication" in “Rock is an <b>‎indication</b> that the temperature of the Moon was once Extremely hot” is ...........‎",
+        "pilihan" => [
+            "A.An exhibition",
+            "B.A clue",
+            "C.A denial",
+            "D.A dictate",
+        ],
+        "jawaban" => "B.A clue",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27
+        "soal" => "‎According to the passage, breccia was formed ...........‎",
+        "pilihan" => [
+            "A.When object struck the Moon.‎",
+            "B.From volcanic lava.‎",
+            "C.‎When streams of gases hit the surface of the ‎Moon.‎",
+            "D.From the interaction of helium and hydrogen.‎",
+        ],
+        "jawaban" => "A.When object struck the Moon.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28
+        "soal" => "‎It is implied in the passage that scientists believe that the gases found in the Moon rocks ...........‎",
+        "pilihan" => [
+            "A.Were not originally from the Moon.‎",
+            "B.Were created inside the rocks.‎",
+            "C.‎Traveled from the moon to the Sun.‎",
+            "D.Caused the Moon's temperature to rise.‎",
+        ],
+        "jawaban" => "A.Were not originally from the Moon.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29
+        "soal" => "‎The word "emitted" in “that are constantly <b>‎emitted</b> by the Sun” is closest in meaning to ...........‎",
+        "pilihan" => [
+            "A.Set off‎",
+            "B.Vaporized",
+            "C.Sent out",
+            "D.Separated",
+        ],
+        "jawaban" => "C.Sent out",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30
+        "soal" => "‎The outhor's purpose in this passage is to ...........‎",
+        "pilihan" => [
+            "A.Describe some rock and soil samples.‎",
+            "B.Explain some of the things learned from ‎space lights.‎",
+            "C.Propose a new theory about the creation of ‎the moon.‎",
+            "D.Demontrate the difference betwen basalt and ‎breccia.‎",
+        ],
+        "jawaban" => "B.Explain some of the things learned from ‎space lights.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31
+        "soal" => "It can be inferred from the passage that ...........‎",
+        "pilihan" => [
+            "A.The only items of importance that astronauts brought back from the Moon were rock and soil ‎samples.‎",
+            "B.Scientists learned relatively little from the Moon rock and soil sample.‎",
+            "C.Scientists do not believe that it is necessary to return to the Moon.‎",
+            "D.Rock and soil samples were only some of a myriad of significant items from the Moon.‎",
+        ],
+        "jawaban" => "D.Rock and soil samples were only some of a myriad of significant items from the Moon.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32
+        "soal" => "‎This passage is developed by ...........‎",
+        "pilihan" => [
+            "A.Citing an effect and its causes.‎",
+            "B.Explaining history with three specific cases.‎",
+            "C.‎Demonstration the side of issue.‎",
+            "D.Developing the biography of a famous person ‎chronologically.‎",
+        ],
+        "jawaban" => "B.Explaining history with three specific cases.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33
+        "soal" => "‎The word "unique" in “a rather <b>unique</b> type of cotton trousers” is closest in meaning to ...........‎",
+        "pilihan" => [
+            "A.Universal ‎",
+            "B.Solitary",
+            "C.Unusual",
+            "D.Commonplace",
+        ],
+        "jawaban" => "C.Unusual",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34
+        "soal" => "‎All of the folloowing are mentioned in the passage about Genoa EXCEPT that is ...........‎",
+        "pilihan" => [
+            "A.Was the source of the word jeans.",
+            "B.Is in italy.‎",
+            "C.Has a different name in the french language.‎",
+            "D.Is a landlocked city.‎",
+        ],
+        "jawaban" => "D.Is a landlocked city.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35
+        "soal" => "‎The word "descendents" in “the <b>descendents</b> of the Genovese sailor's cotton pants” could best be replaced by ...........‎",
+        "pilihan" => [
+            "A.Offspring",
+            "B.Bottoms",
+            "C.Antecedents",
+            "D.Derivations",
+        ],
+        "jawaban" => "A.Offspring",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36
+        "soal" => "‎The word denim was most probably derived from ...........‎",
+        "pilihan" => [
+            "A.Two french words.‎",
+            "B.Two italian words.",
+            "C.One french word and one italian word.‎",
+            "D.Three french words.‎",
+        ],
+        "jawaban" => "A.Two french words.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37
+        "soal" => "‎The pronoun "it" in “and <b>it</b> eventually developed in today's denim” refers to ...........‎",
+        "pilihan" => [
+            "A.City",
+            "B.Name‎",
+            "C.Cloth",
+            "D.Material",
+        ],
+        "jawaban" => "B.Name‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38
+        "soal" => "‎The word "switched" in “Levi then <b>switched</b> the fabric from ‎brown canvas to blue denim” is closest in meaning to ...........‎",
+        "pilihan" => [
+            "A.Reduced",
+            "B.Created‎",
+            "C.Pounded",
+            "D.Changed‎",
+        ],
+        "jawaban" => "D.Changed‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39
+        "soal" => "‎It can be infered from the passage that, in order to develop the pants for which he became famous, ‎Strauss did which of the following? ...........‎",
+        "pilihan" => [
+            "A.He studied tailoring in Nimes.‎",
+            "B.He used an existing type of material.‎	",
+            "C.‎He experimented with bron denim.‎",
+            "D.He tested the pants for destructability.‎",
+        ],
+        "jawaban" => "B.He used an existing type of material.‎	",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40
+        "soal" => "‎Where in the passage does the author explain how Strauss' first attempt at creating a business with ‎canvas turned out? ...........‎",
+        "pilihan" => [
+            "A.First Paragraph",
+            "B.Second Paragraph",
+            "C.Third Paragraph",
+            "D.Last Paragraph",
+        ],
+        "jawaban" => "D.Last Paragraph",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 41
+        "soal" => "‎Which of the following best states the main idea of the passage ...........‎",
+        "pilihan" => [
+            "A.America's railroad used to provide much of the country's transportation.‎",
+            "B.President Lincoln's assassination in 1865 shocked the nation.‎",
+            "C.George Pullman was the onl one to come up with the idea for a sleeping car.‎",
+            "D.Pullman's idea for a sleeping car beame workable after Lincoln's death.‎",
+        ],
+        "jawaban" => "D.Pullman's idea for a sleeping car beame workable after Lincoln's death.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 42
+        "soal" => "‎A "heyday" in the first paragraph is most probably a ...........‎",
+        "pilihan" => [
+            "A.Time for harvest.‎",
+            "B.Period with low prices.‎",
+            "C.‎Period of great success.‎",
+            "D.‎Type of railroad schedule.‎",
+        ],
+        "jawaban" => "C.‎Period of great success.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 43
+        "soal" => "‎It can be inferred from the passage that before the Civil War, sleeping cars ...........‎",
+        "pilihan" => [
+            "A.Were used abundantly.‎",
+            "B.Were thought to be a good idea.‎",
+            "C.‎Were only used prifately.‎",
+            "D.Were used by presidents.‎",
+        ],
+        "jawaban" => "B.Were thought to be a good idea.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 44
+        "soal" => "‎The word "test" in “he had made succesfull <b>test</b> run on the Chicago and Alton” could best be replaced by which of the following? ...........‎",
+        "pilihan" => [
+            "A.Exam ‎",
+            "B.Trial",
+            "C.Inspection",
+            "D.Scientific",
+        ],
+        "jawaban" => "B.Trial",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 45
+        "soal" => "‎What was the initial problem that made Pullman's cars unusable? ...........‎",
+        "pilihan" => [
+            "A.They were too large.‎",
+            "B.They were too expensive.‎",
+            "C.‎They were too slow.‎",
+            "D.They were too unusual.‎",
+        ],
+        "jawaban" => "A.They were too large.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 46
+        "soal" => "What is stated in the passage about George Pullman? ...........‎",
+        "pilihan" => [
+            "A.He once had a job in a store.‎",
+            "B.He always lived in Chicago.‎",
+            "C.‎He worked in a mine.‎",
+            "D.He saved money for his project.‎",
+        ],
+        "jawaban" => "D.He saved money for his project.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 47
+        "soal" => "‎The word "site" “in the <b>site</b> of the present-day Chicago Union ‎Station for two years” is closest in meaning to which of the following? ...........‎",
+        "pilihan" => [
+            "A.Factory",
+            "B.View",
+            "C.Location",
+            "D.Foundation",
+        ],
+        "jawaban" => "C.Location",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 48
+        "soal" => "‎Why did the state of Illinois want to use the Pullman in Lincoln's funeral train? ...........‎",
+        "pilihan" => [
+            "A.It was superior to other cars.‎",
+            "B.It was the only railroad car that could make ‎it from Springfield to chicago.‎",
+            "C.Ulysses S. Grant request it.‎",
+            "D.The Pullman Palace car company was a ‎major Illinois business.‎",
+        ],
+        "jawaban" => "A.It was superior to other cars.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 49
+        "soal" => "It can be inferred from the passage that the Michigan Central Railroad ...........‎",
+        "pilihan" => [
+            "A.Was owned by George Pullman.‎",
+            "B.Controlled the railroad tracks between ‎Detroid and Chicago.‎",
+            "C.Was the only railroad company to ‎accommodate wide cars.‎",
+            "D.Was the sole manufacturer of the Pioneer.‎",
+        ],
+        "jawaban" => "B.Controlled the railroad tracks between ‎Detroid and Chicago.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 50
+        "soal" => "This passage would most likely be assigned in which of the following courses? ...........‎",
+        "pilihan" => [
+            "A.Enginering",
+            "B.Political Science",
+            "C.‎Finance",
+            "D.History",
+        ],
+        "jawaban" => "D.History",
+    ]
+],

@@ -1,0 +1,573 @@
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1,
+        "soal" => "‎ The hard palate.................. between the mounth and nasal passages.‎",
+        "pilihan" => [
+            "A.forming a partition",
+            "B.‎a partition forms",
+            "C.forms a partition",
+            "D.‎a form and a partition",
+        ],
+        "jawaban" => "C.forms a partition",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2,
+        "soal" => "‎Sam Spade in The Maltese Falcon and Rick Blaine in Casablanca................. of Humphrey Bogart's ‎more famous roles.‎",
+        "pilihan" => [
+            "A.they are two",
+            "B.‎two of them are",
+            "C.‎two of them",
+            "D.‎are two",
+        ],
+        "jawaban" => "D.‎are two",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3,
+        "soal" => "‎..............., the outermost layer of skin, is about as thick as a sheet of paper over most of the skin.‎",
+        "pilihan" => [
+            "A.It is the epidermis.‎",
+            "B.The epidermis.‎",
+            "C.In the epidermis.‎",
+            "D.‎The epidermis is.‎",
+        ],
+        "jawaban" => "B.The epidermis.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4,
+        "soal" => "‎During the Precambrian period, the Earth's crust formed, and life...........in the seas. ‎",
+        "pilihan" => [
+            "A.first appeared.‎",
+            "B.‎the first to appear.‎",
+            "C.the first appearance.‎",
+            "D.‎appearing first.‎",
+        ],
+        "jawaban" => "A.first appeared.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5,
+        "soal" => "‎When fluid accumulates against the eardrum, a second more insidious type of .................. ‎",
+        "pilihan" => [
+            "A.otitis media may develop.‎",
+            "B.‎developing otitis media.‎",
+            "C.‎the development of otitis media.",
+            "D.‎to develop otitis media.‎",
+        ],
+        "jawaban" => "A.otitis media may develop.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6,
+        "soal" => "‎Before the Statue of Liberty arrived in the United States, newspaper invited the public to help ‎determine where .............. placed after its arrival.‎",
+        "pilihan" => [
+            "A.should the statue be.‎",
+            "B.‎the statue being.‎",
+            "C.‎it should be the statue.‎",
+            "D.the statue should be.‎",
+        ],
+        "jawaban" => "D.the statue should be.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7,
+        "soal" => "‎A stock.............. at an inflated price is called a watered stock.‎",
+        "pilihan" => [
+            "A.is issued.‎",
+            "B.‎issued.‎",
+            "C.it is issued.‎",
+            "D.‎which issued.‎",
+        ],
+        "jawaban" => "B.‎issued.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8,
+        "soal" => "‎Acidic lava flows readily and tends to cover much larger areas, while basic lava.................‎",
+        "pilihan" => [
+            "A.viscous.‎",
+            "B.more viscous.‎",
+            "C.‎is more viscous.‎",
+            "D.‎it is more viscous.‎",
+        ],
+        "jawaban" => "C.‎is more viscous.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9,
+        "soal" => "‎Seismic reflection profiling has............. the ocean floor is underlain by a thin layer of nearly ‎transparent sediments.‎",
+        "pilihan" => [
+            "A.reveal that.‎",
+            "B.‎revealed that.‎",
+            "C.‎the revelation of.‎",
+            "D.‎revealed about.‎",
+        ],
+        "jawaban" => "B.‎revealed that.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10,
+        "soal" => "‎‎............ and terrifying, coral snakes can grow to 4 feet (1.2 meters) in length.‎",
+        "pilihan" => [
+            "A.They are extremely poisonous.‎",
+            "B.The poison is extreme.‎",
+            "C.‎Extremely poisonous.‎",
+            "D.‎An extreme amount of poison.‎",
+        ],
+        "jawaban" => "C.‎Extremely poisonous.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11,
+        "soal" => "‎The leaves of the white mulberry provide food for silkworms,.............. silk fabrics are woven.‎",
+        "pilihan" => [
+            "A.whose cocoons.‎",
+            "B.‎from cocoons.‎",
+            "C.‎whose cocoons are from.‎",
+            "D.‎from whose cocoons.‎",
+        ],
+        "jawaban" => "D.‎from whose cocoons.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12,
+        "soal" => "‎As............... in Greek and Roman mythology, harpies were frightful monsters that were half woman ‎and half bird.‎",
+        "pilihan" => [
+            "A.‎described.‎",
+            "B.‎to describe.‎",
+            "C.‎description.",
+            "D.‎describing.‎",
+        ],
+        "jawaban" => "A.‎described.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => ‎13,
+        "soal" => "‎Not only .......... generate energy, but it also produces fuel for other fission reactors. ‎",
+        "pilihan" => [
+            "A.a nuclear breeder reactor.‎",
+            "B.‎it is a nuclear breeder reactor.‎",
+            "C.does a nuclear breeder reactor.‎‎",
+            "D.is a nuclear breeder reactor.‎",
+        ],
+        "jawaban" => "C.does a nuclear breeder reactor.‎‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14,
+        "soal" => "‎D.W.Griffith pioneered many of the stylistic features and filmmaking techniques........as the ‎Hollywood standard.‎",
+        "pilihan" => [
+            "A.that established.‎",
+            "B.‎that became established.‎",
+            "C.what established.‎",
+            "D.‎what became established.‎",
+        ],
+        "jawaban" => "B.‎that became established.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15,
+        "soal" => "‎.......... be needed, the water basin would need to be dammed.‎",
+        "pilihan" => [
+            "A.Hydroelectric power should.‎",
+            "B.‎When hydroelectric power.‎",
+            "C.Hydroelectric power.‎",
+            "D.‎Should hydroelectric power.‎",
+        ],
+        "jawaban" => "D.‎Should hydroelectric power.‎",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16,
+        "soal" => "‎Mosquitoes will <u>accepts</u> the <u>malaria</u> parasite at <u>only one</u> stage of the parasite's <u>complex</u> life cycle.‎",
+        "pilihan" => [
+            "A.accepts",
+            "B.malaria",
+            "C.only one",
+            "D.complex",
+        ],
+        "jawaban" => "A.accepts",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17,
+        "soal" => "‎The <u>counterpart</u> <u>of</u> a negative <u>electrons</u> is the <u>positive</u> proton.‎",
+        "pilihan" => [
+            "A.counterpart",
+            "B.of",
+            "C.electrons",
+            "D.positive",
+        ],
+        "jawaban" => "C.electrons",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18,
+        "soal" => "‎Alexander Hamilton's <u>advocacy</u> of a <u>strong</u> national government brought <u>he</u> into bitter <u>conflict</u> with ‎Thomas Jefferson.‎",
+        "pilihan" => [
+            "A.advocacy",
+            "B.strong",
+            "C.he",
+            "D.conflict",
+        ],
+        "jawaban" => "C.he",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19,
+        "soal" => "‎There <u>are</u> more than eighty-four million <u>specimens</u> in the National Museum of Natural History's <u>‎collection</u> of biological, geological, archeological, and <u>anthropology</u> treasures.‎",
+        "pilihan" => [
+            "A.are",
+            "B.specimens",
+            "C.‎collection",
+            "D.anthropology",
+        ],
+        "jawaban" => "D.anthropology",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20,
+        "soal" => "<u>‎After</u> George Washington married <u>widow</u> Martha Custis, the couple <u>comes</u> to <u>reside</u> at Mount Vernon.‎",
+        "pilihan" => [
+            "A.‎After",
+            "B.widow",
+            "C.comes",
+            "D.reside",
+        ],
+        "jawaban" => "A.‎After",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21,
+        "soal" => "<u>‎Rubberized</u> asphalt can <u>hardly</u> be classified <u>as</u> cutting edge at this stage in <u>their</u> development.‎",
+        "pilihan" => [
+            "A.‎Rubberized",
+            "B.hardly",
+            "C.as",
+            "D.their",
+        ],
+        "jawaban" => "D.their",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22,
+        "soal" => "‎Rhesus <u>monkeys</u> <u>exhibit</u> patterns of <u>shyness</u> similar to <u>that</u> in humans.",
+        "pilihan" => [
+            "A.monkeys",
+            "B.exhibit",
+            "C.shyness",
+            "D.that",
+        ],
+        "jawaban" => "D.that",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23,
+        "soal" => "‎In space, with <u>no</u> gravity for muscles to work <u>against</u>, <u>the body</u> becomes <u>weakly</u>.‎",
+        "pilihan" => [
+            "A.no",
+            "B.against",
+            "C.the body",
+            "D.weakly",
+        ],
+        "jawaban" => "D.weakly",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 24,
+        "soal" => "‎Fort Jefferson,in the Dry Tortugas <u>off</u> the southern <u>tip</u> of Florida, can be <u>reach</u> <u>only by</u> boat or plane.‎",
+        "pilihan" => [
+            "A.off",
+            "B.tip",
+            "C.reach",
+            "D.only by",
+        ],
+        "jawaban" => "C.reach",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25,
+        "soal" => "‎Quarter horses were <u>developed</u> in eighteenth-century Virginia <u>to race</u> on <u>courses short</u> of about a quarter ‎ of a mile <u>in length</u>.‎",
+        "pilihan" => [
+            "A.developed",
+            "B.to race",
+            "C.courses short",
+            "D.in length",
+        ],
+        "jawaban" => "C.courses short",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26,
+        "soal" => "‎<u>‎‎Supersonic</u> flight is flight <u>that</u> is <u>faster</u> the speed of sound.‎",
+        "pilihan" => [
+            "A.‎‎Supersonic",
+            "B.that",
+            "C.faster",
+            "D.speed of sound",
+        ],
+        "jawaban" => "C.faster",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27,
+        "soal" => "‎Since the dawn of agriculture 9,000 years <u>ago</u>, only <u>a</u> <u>few</u> animal species <u>had been</u> domesticated.‎",
+        "pilihan" => [
+            "A.ago",
+            "B.a",
+            "C.few",
+            "D.had been",
+        ],
+        "jawaban" => "D.had been",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28,
+        "soal" => "‎The Betaken house Ruins at Navajo Monument <u>is</u> among the <u>largest</u> and most <u>elaborate</u> cliff dwellings ‎in the <u>country</u>",
+        "pilihan" => [
+            "A.is",
+            "B.largest",
+            "C.elaborate",
+            "D.country",
+        ],
+        "jawaban" => "A.is",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29,
+        "soal" => "‎The island of Kauai has <u>much</u> streams, some <u>of which</u> have <u>worn</u> deep canyone into the <u>rock</u>.‎",
+        "pilihan" => [
+            "A.much",
+            "B.of which",
+            "C.worn",
+            "D.rock",
+        ],
+        "jawaban" => "A.much",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30,
+        "soal" => "‎It's <u>a common</u> observation that liquids <u>will soak</u> through some materials <u>but not</u> throught <u>other.</u>‎",
+        "pilihan" => [
+            "A.a common",
+            "B.will soak",
+            "C.but not",
+            "D.other.",
+        ],
+        "jawaban" => "D.other.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31,
+        "soal" => "<u>‎Surrounded</u> by forrested mountain <u>slopes are</u> town of Telluride, a former gold-mining town 7,500 feet ‎above <u>sea level.</u>",
+        "pilihan" => [
+            "A.‎Surrounded",
+            "B.slopes are",
+            "C.a former",
+            "D.sea level.",
+        ],
+        "jawaban" => "B.slopes are",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32,
+        "soal" => "‎The newsreels of Hearst Metronome News, which formed part of <u>every</u> moviegoer's experience in the ‎era <u>‎before television</u> offer <u>an</u> unique record of the <u>events</u> of the 1930s.‎",
+        "pilihan" => [
+            "A.every",
+            "B.‎before television",
+            "C.an",
+            "D.events",
+        ],
+        "jawaban" => "C.an",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33,
+        "soal" => "<u>‎Probrably</u> <u>the best known</u> of all dinosaurus, the Tyranosaurus was <u>larger</u> and <u>last</u> of the meat-eating ‎carnosaurus.‎",
+        "pilihan" => [
+            "A.‎Probrably",
+            "B.the best known",
+            "C.larger",
+            "D.last",
+        ],
+        "jawaban" => "C.larger",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34,
+        "soal" => "<u>‎Unlikely</u> gas <u>sport</u> ballons, hot air balloons do not <u>have</u> <u>nets</u>",
+        "pilihan" => [
+            "A.‎Unlikely",
+            "B.sport",
+            "C.have",
+            "D.nets",
+        ],
+        "jawaban" => "A.‎Unlikely",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35,
+        "soal" => "<u>‎Born</u> in Massachusetts in 1852, Albert Farbanks <u>has begun</u> <u>making</u> banjos in Boston in the <u>late</u> 1870s.‎",
+        "pilihan" => [
+            "A.‎Born",
+            "B.has begun",
+            "C.making",
+            "D.late",
+        ],
+        "jawaban" => "B.has begun",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36,
+        "soal" => "‎Methane in wetlands <u>comes</u> <u>from</u> soil bacteria that <u>consumes</u> organic plant <u>matter</u>",
+        "pilihan" => [
+            "A.comes",
+            "B.from",
+            "C.consumes",
+            "D.matter",
+        ],
+        "jawaban" => "C.consumes",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37,
+        "soal" => "‎Alois Alzheimer made the first <u>observers</u> of the <u>telltale</u> signs of the disease that today <u>bears</u> <u>his name.</u>‎",
+        "pilihan" => [
+            "A.observers",
+            "B.telltale",
+            "C.bears",
+            "D.his name.",
+        ],
+        "jawaban" => "A.observers",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38,
+        "soal" => "‎Edward Mc Dowell <u>remembers</u> as the <u>composer</u> of such <u>perennial</u> <u>favourites</u> as "To a wild Rose" and ‎‎"to ‎ a Water Lily"",
+        "pilihan" => [
+            "A.remembers",
+            "B.composer",
+            "C.perennial",
+            "D.favourites",
+        ],
+        "jawaban" => "A.remembers",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39,
+        "soal" => "‎Animism is <u>belief</u> that objects and natural <u>phenomena</u> such as rivers, rock, and wind are <u>live</u> and have <u>‎feelings</u>.‎",
+        "pilihan" => [
+            "A.belief",
+            "B.phenomena",
+            "C.live",
+            "D.‎feelings",
+        ],
+        "jawaban" => "C.live",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40,
+        "soal" => "‎Newtonian physics <u>accounts</u> <u>from</u> the <u>observation</u> of the <u>orbits</u> of the planets and moons.‎",
+        "pilihan" => [
+            "A.accounts",
+            "B.from",
+            "C.observation",
+            "D.orbits",
+        ],
+        "jawaban" => "B.from",
+    ]
+],
+
+STOP. THIS IS THE END OF THE STRUCTURE AND WRITTEN EXPRESSION SECTION. IF YOU ‎FINISH BEFORE TIME IS UP,CHECK YOUR WORK ON PARTS A AND B OF THIS SECTION ONLY. ‎
+DO NOT WORK ON ANY OTHER SECTION OF THE TEST.‎
+
+
+
+
+
+
+
+
+
+

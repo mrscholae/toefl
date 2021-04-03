@@ -1,0 +1,703 @@
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1,
+        "soal" => "",
+        "pilihan" => [
+            "a)They were in the regular room.‎",
+            "b)The key was missplaced.‎",
+            "c)He's taking a different class.‎",
+            "d)He has the key to the classroom.‎",
+        ],
+        "jawaban" => "b)The key was missplaced.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2,
+        "soal" => "",
+        "pilihan" => [
+            "a)She will lend it to the man.‎",
+            "b)She never lent the book to Jim.‎",
+            "c)Jim wants to borrow the book.‎",
+            "d)Jim has the book.‎",
+        ],
+        "jawaban" => "d)Jim has the book.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3,
+        "soal" => "",
+        "pilihan" => [
+            "a)Paying bills.‎",
+            "b)Talking to the landlord.‎",
+            "c)Turning the light officially.‎",
+            "d)Looking for an apartment.‎",
+        ],
+        "jawaban" => "a)Paying bills.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4,
+        "soal" => "",
+        "pilihan" => [
+            "a)She has no time to go to class.‎",
+            "b)They are already late for class.‎",
+            "c)It is too early to go to class.‎",
+            "d)She has to be on time for class.‎",
+        ],
+        "jawaban" => "c)It is too early to go to class.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5,
+        "soal" => "",
+        "pilihan" => [
+            "a)He is resuming his duties one more time.‎",
+            "b)He is assuming the class is difficult.‎",
+            "c)The class it terrible all the time.‎",
+            "d)The class takes alot of time.‎",
+        ],
+        "jawaban" => "d)The class takes alot of time.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6,
+        "soal" => "",
+        "pilihan" => [
+            "a)She need a new coat.‎",
+            "b)She likes the paint in the dorm rooms.‎",
+            "c)She has the same opinion as the man.‎",
+            "d)She left her coat in the dorm room.‎",
+        ],
+        "jawaban" => "c)She has the same opinion as the man.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7,
+        "soal" => "",
+        "pilihan" => [
+            "a)He needs to complete the math assignment ‎first.‎",
+            "b)He'll be ready in a couple of hours.‎",
+            "c)He is going to history class now.‎",
+            "d)He was ready a few minutes ago.‎",
+        ],
+        "jawaban" => "a)He needs to complete the math assignment ‎first.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8,
+        "soal" => "",
+        "pilihan" => [
+            "a)She's sorry she moved them.‎",
+            "b)She really know where they are.‎",
+            "c)They haven't been moved.‎",
+            "d)Someone else moved them.‎",
+        ],
+        "jawaban" => "d)Someone else moved them.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9,
+        "soal" => "",
+        "pilihan" => [
+            "a)A solution is not apparent.‎",
+            "b)The problem can be fixed.‎",
+            "c)There is realy a pair problems.‎",
+            "d)The problem is difficult to solve.‎",
+        ],
+        "jawaban" => "b)The problem can be fixed.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10,
+        "soal" => "",
+        "pilihan" => [
+            "a)The professor gives quizzes regularly.‎",
+            "b)The woman is really quite prepared.‎",
+            "c)It is unusual for this professor to give ‎quizzes.‎",
+            "d)He doesn't think there's a class today.",
+        ],
+        "jawaban" => "c)It is unusual for this professor to give ‎quizzes.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11,
+        "soal" => "",
+        "pilihan" => [
+            "a)She could not comprehend the chemistry ‎lecture.‎",
+            "b)She has not had time to look of the ‎assignment.‎",
+            "c)It was possible for her to complete the ‎problem.‎",
+            "d)She could not understand the problem.‎",
+        ],
+        "jawaban" => "d)She could not understand the problem.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12,
+        "soal" => "",
+        "pilihan" => [
+            "a)He doesn't know how far away the exibit is.‎",
+            "b)He's uncertain about the fee.‎",
+            "c)The exibit is not very far away.‎",
+            "d)He's sure the exibit is not free.‎",
+        ],
+        "jawaban" => "b)He's uncertain about the fee.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13,
+        "soal" => "",
+        "pilihan" => [
+            "a)Not taking it at all.‎",
+            "b)Taking it along with chemistry.‎",
+            "c)Taking it later.‎",
+            "d)Taking it instead of chemistry.‎",
+        ],
+        "jawaban" => "c)Taking it later.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14,
+        "soal" => "",
+        "pilihan" => [
+            "a)An astronomer.‎",
+            "b)A physician.‎",
+            "c)A philosopher.‎",
+            "d)An engineer.‎",
+        ],
+        "jawaban" => "a)An astronomer.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15,
+        "soal" => "",
+        "pilihan" => [
+            "a)Nothing could surprise her.‎",
+            "b)The gift really astonished her.‎",
+            "c)She couldn't have gotten more gifts.‎",
+            "d)She was expecting the gift.‎",
+        ],
+        "jawaban" => "b)The gift really astonished her.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16,
+        "soal" => "",
+        "pilihan" => [
+            "a)She's wearing a new dress.‎",
+            "b)She's ready to study for hours.‎",
+            "c)She's exhausted.‎",
+            "d)She has studied about the war for hour.‎",
+        ],
+        "jawaban" => "c)She's exhausted.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17,
+        "soal" => "",
+        "pilihan" => [
+            "a)He's relly tall.‎",
+            "b)He's the best.‎",
+            "c)He's got a good head on his shoulder.‎",
+            "d)He always uses his head.‎",
+        ],
+        "jawaban" => "b)He's the best.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18,
+        "soal" => "",
+        "pilihan" => [
+            "a)He's already talked to the professor about ‎the assignment.‎",
+            "b)There is no assignment for tomorrow.‎",
+            "c)He's not sure what the professor will talk ‎about.‎",
+            "d)The professor discussed the assignment only ‎briefly.‎",
+        ],
+        "jawaban" => "d)The professor discussed the assignment only ‎briefly.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19,
+        "soal" => "",
+        "pilihan" => [
+            "a)He went to it.‎",
+            "b)He knew about it.‎",
+            "c)He didn't know about it.‎",
+            "d)He gave it.‎",
+        ],
+        "jawaban" => "c)He didn't know about it.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20.,
+        "soal" => "",
+        "pilihan" => [
+            "a)It's hard to lock the room.‎",
+            "b)The cloak was delivered on time.‎",
+            "c)Someone struck the crockery and broke it.‎",
+            "d)It is now midday.‎",
+        ],
+        "jawaban" => "d)It is now midday.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21,
+        "soal" => "",
+        "pilihan" => [
+            "a)That she wouldn't take the trip.‎",
+            "b)That she would go to the beach.‎",
+            "c)That she really liked the beach.‎",
+            "d)That she would take a break from her ‎studies.‎",
+        ],
+        "jawaban" => "a)That she wouldn't take the trip.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22,
+        "soal" => "",
+        "pilihan" => [
+            "a)They were disappointed.‎",
+            "b)They didn't get any gifts.‎",
+            "c)They were unexcited.‎",
+            "d)They were really pleased.‎",
+        ],
+        "jawaban" => "d)They were really pleased.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23,
+        "soal" => "",
+        "pilihan" => [
+            "a)She believes she can succeed.‎",
+            "b)She's decided to pull out of it.‎",
+            "c)She wants to put off the speech for a while.‎",
+            "d)She thinks the speech is too long. ‎",
+        ],
+        "jawaban" => "a)She believes she can succeed.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 24,
+        "soal" => "",
+        "pilihan" => [
+            "a)She'd like to offer the man a scholarship.‎",
+            "b)The documents were returned to her with a ‎signature.‎",
+            "c)She needs to sign the documents.‎",
+            "d)She works in the scholarship office.‎",
+        ],
+        "jawaban" => "c)She needs to sign the documents.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25,
+        "soal" => "",
+        "pilihan" => [
+            "a)He doesn't have time to pay the bills.‎",
+            "b)The bills weren't paid on time.‎",
+            "c)Of course, he paid the bills on time.‎",
+            "d)He will pay the bills for the last time.‎",
+        ],
+        "jawaban" => "b)The bills weren't paid on time.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26,
+        "soal" => "",
+        "pilihan" => [
+            "a)He thinks the lecture was really interesting.‎",
+            "b)He's not sure if the ideas are workable.‎",
+            "c)He understood nothing about the lecture.‎",
+            "d)He's not sure what the woman would like to ‎know.‎",
+        ],
+        "jawaban" => "c)He understood nothing about the lecture.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27,
+        "soal" => "",
+        "pilihan" => [
+            "a)He missed an opportunity.‎",
+            "b)He was late for his trip.‎",
+            "c)He should take the next boat.‎",
+            "d)He should send in his application.‎",
+        ],
+        "jawaban" => "a)He missed an opportunity.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28,
+        "soal" => "",
+        "pilihan" => [
+            "a)He agrees with what she said.‎",
+            "b)He thinks she didn't say anything.‎",
+            "c)He couldn't hear what she said.‎",
+            "d)He did hear what she said.‎",
+        ],
+        "jawaban" => "d)He did hear what she said.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29,
+        "soal" => "",
+        "pilihan" => [
+            "a)That John would pick them up for the ‎concert.‎",
+            "b)That the concert would start earlier.‎",
+            "c)That John would not be going to the concert.‎",
+            "d)That they would be late to the concert. ‎",
+        ],
+        "jawaban" => "c)That John would not be going to the concert.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30,
+        "soal" => "",
+        "pilihan" => [
+            "a)He enjoyed the trip immensely.‎",
+            "b)The boat trip was really rough.‎",
+            "c)He couldn't have enjoyed the trip more.‎",
+            "d)The water was not very rough.‎",
+        ],
+        "jawaban" => "b)The boat trip was really rough.‎",
+    ],
+],
+
+
+
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31.,
+        "soal" => "",
+        "pilihan" => [
+            "a)The students",
+            "b)Two professors",
+            "c)Two sociologists.‎",
+            "d)Two lecturers.‎",
+        ],
+        "jawaban" => "a)The students",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32,
+        "soal" => "",
+        "pilihan" => [
+            "a)She want his opinion of sociologists",
+            "b)She want to hear him lecturer",
+            "c)She want to know about a course he took",
+            "d)She want to meet professor Patterson.‎",
+        ],
+        "jawaban" => "c)She want to know about a course he took",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33,
+        "soal" => "",
+        "pilihan" => [
+            "a)A course where the professor lectures.‎",
+            "b)A course where the students just listen and ‎take notes.‎",
+            "c)A course with Professor Patterson.‎",
+            "d)A course where the students take part in ‎discussion.‎",
+        ],
+        "jawaban" => "d)A course where the students take part in ‎discussion.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34,
+        "soal" => "",
+        "pilihan" => [
+            "a)She thinks it'll be boring.‎",
+            "b)She doesn't want to take it.‎",
+            "c)It sounds good to her.‎",
+            "d)She'd prefer a course with more student ‎participation. ‎	",
+        ],
+        "jawaban" => "c)It sounds good to her.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35,
+        "soal" => "",
+        "pilihan" => [
+            "a)From a friend.‎",
+            "b)From the newspaper.‎",
+            "c)From the discussion.‎",
+            "d)From the utility company.‎",
+        ],
+        "jawaban" => "b)From the newspaper.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36,
+        "soal" => "",
+        "pilihan" => [
+            "a)In a far desert. ‎",
+            "b)Close by.‎",
+            "c)At the utility company's headquarters.‎",
+            "d)The man has no idea.‎",
+        ],
+        "jawaban" => "b)Close by.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37,
+        "soal" => "",
+        "pilihan" => [
+            "a)It's cheaper in the short run.‎",
+            "b)The utility company won't need any extra ‎money.‎",
+            "c)The plant's far away.‎",
+            "d)It exists in large quantities.‎",
+        ],
+        "jawaban" => "d)It exists in large quantities.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38,
+        "soal" => "",
+        "pilihan" => [
+            "a)She's concerned it'll be too costly.‎",
+            "b)She thinks the price is too low.‎",
+            "c)She thinks the plant is totally unnecessary.‎",
+            "d)She thinks the utility company has a good ‎idea.‎",
+        ],
+        "jawaban" => "a)She's concerned it'll be too costly.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39.,
+        "soal" => "",
+        "pilihan" => [
+            "a)The Employment Office manager.‎",
+            "b)The university registrar.‎",
+            "c)The bookstore manager.‎",
+            "d)A student working in the bookstore.‎",
+        ],
+        "jawaban" => "c)The bookstore manager.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40,
+        "soal" => "",
+        "pilihan" => [
+            "a)Prepare a schedule.‎",
+            "b)Decide which workers to hire.‎",
+            "c)Plan student course schedules.‎",
+            "d)Train office workers.‎",
+        ],
+        "jawaban" => "a)Prepare a schedule.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 41,
+        "soal" => "",
+        "pilihan" => [
+            "a)What the students majors are.‎",
+            "b)When the students are able to work.‎",
+            "c)Why the students want to work.‎",
+            "d)In which jobs the students have experience.‎",
+        ],
+        "jawaban" => "b)When the students are able to work.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 42,
+        "soal" => "",
+        "pilihan" => [
+            "a)Cashier.‎",
+            "b)Shelf stocker.‎",
+            "c)Business office worker.‎",
+            "d)Phone operator.‎",
+        ],
+        "jawaban" => "d)Phone operator.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 43,
+        "soal" => "",
+        "pilihan" => [
+            "a)Soft, warm clothing.‎",
+            "b)Problems in landfills.‎",
+            "c)How fleece is obtained.‎",
+            "d)Recycling soda bottles.‎",
+        ],
+        "jawaban" => "d)Recycling soda bottles.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 44,
+        "soal" => "",
+        "pilihan" => [
+            "a)They were left in landfill areas.",
+            "b)They were reused.‎",
+            "c)They were recycled.‎",
+            "d)They were refilled.‎",
+        ],
+        "jawaban" => "a)They were left in landfill areas.",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 45,
+        "soal" => "",
+        "pilihan" => [
+            "a)Dye.‎",
+            "b)Warm, soft clothing.‎",
+            "c)Computer chips.‎",
+            "d)Glass bottles.‎	‎",
+        ],
+        "jawaban" => "b)Warm, soft clothing.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 46,
+        "soal" => "",
+        "pilihan" => [
+            "a)Buying plastic bottles.‎",
+            "b)Solving te problems in landfills.‎",
+            "c)Buying these recycled products.‎",
+            "d)Becoming aware of the environment.‎",
+        ],
+        "jawaban" => "c)Buying these recycled products.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 47,
+        "soal" => "",
+        "pilihan" => [
+            "a)The Central Pacific Group.‎",
+            "b)The Transcontinental Railroad Company.‎",
+            "c)A group from Ogden, Utah.‎",
+            "d)Two separate railroad companies.",
+        ],
+        "jawaban" => "d)Two separate railroad companies.",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 48,
+        "soal" => "",
+        "pilihan" => [
+            "a)The had to lay tracks across a mountain ‎range.",
+            "b)They had to cross all of Nebraska.‎",
+            "c)They had to work for another railroad ‎company.‎",
+            "d)They had to move westward to Sacramento, ‎California.‎",
+        ],
+        "jawaban" => "a)The had to lay tracks across a mountain ‎range.",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 49,
+        "soal" => "",
+        "pilihan" => [
+            "a)Several days.‎",
+            "b)Several weeks.‎",
+            "c)Several months.‎",
+            "d)Several years.‎",
+        ],
+        "jawaban" => "d)Several years.‎",
+    ],
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 50,
+        "soal" => "",
+        "pilihan" => [
+            "a)Dynamite was used to blast out access.‎",
+            "b)A golden spike was hammered into the last ‎track.‎",
+            "c)The workers labored dangerously and ‎exhaustingly.‎",
+            "d)The workers traversed the Sierra Nevadas.‎",
+        ],
+        "jawaban" => "b)A golden spike was hammered into the last ‎track.‎",
+    ],
+],
