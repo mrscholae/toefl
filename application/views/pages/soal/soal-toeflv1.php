@@ -10,7 +10,7 @@
                                     <div class="col-lg-12 col-12">
                                         <div class="p-5">
                                             <div class="text-center mb-3">
-                                                <img src="<?= base_url()?>assets/img/logo.png" width="75" class="img-fluid img-shadow">
+                                                <img src="<?= base_url()?>assets/img/LOGO UE.png" width="150" class="img-fluid img-shadow">
                                             </div>
                                             <div class="text-center">
                                                 <h1 class="h4 text-gray-900 mb-4">Maaf, Tes pada periode ini telah berakhir</h1>
@@ -41,7 +41,7 @@
                                             <div class="col-lg-12 col-12">
                                                 <div class="p-5">
                                                     <div class="text-center mb-5">
-                                                        <img src="<?= base_url()?>assets/img/logo.png" width="75" class="img-fluid img-shadow">
+                                                        <img src="<?= base_url()?>assets/img/LOGO UE.png" width="150" class="img-fluid img-shadow">
                                                     </div>
                                                     <form id="formLogin">
                                                         <div class="form-group">

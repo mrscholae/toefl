@@ -39,7 +39,7 @@
     
     <script src="<?= base_url()?>assets/js/script.js"></script>
     
-    <link rel="icon" href="<?= base_url()?>assets/img/logo.png" type="image/icon type">
+    <link rel="icon" href="<?= base_url()?>assets/img/LOGO UE.png" type="image/icon type">
     <title><?= $title?></title>
 </head>
 
@@ -51,7 +51,7 @@
     <nav id="sidebar">
         <div class="list-group list-group-flush mt-3">
             <div class="col-12 mb-3 text-center">
-                <img src="<?= base_url()?>assets/img/logo.png" width="75" class="img-fluid img-shadow">
+                <img src="<?= base_url()?>assets/img/LOGO UE.png" width="75" class="img-fluid img-shadow">
             </div>
         </div>
     </nav>
@@ -61,7 +61,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-info sticky-top navbar-ku">
             <div class="container">
                 <a id="sidebarCollapse" class="btn btn-sm">
-                    <img src="<?= base_url()?>assets/img/logo.png" width="25">
+                    <img src="<?= base_url()?>assets/img/LOGO UE.png" width="25">
                     <span class="text-light ml-2 mr-2 titleBar"><b><?= $title?></b></span></span>
                     <span class="text-light ml-auto" ><b>(<span id="waktu"><?= $tes['waktu']?>:00</span></b>)</span>
                 </a>
