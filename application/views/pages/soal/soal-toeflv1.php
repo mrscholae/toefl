@@ -139,7 +139,7 @@
                                                         <?php foreach ($soal['data']['pilihan'] as $k => $data) :?>
                                                             <div class="d-flex mb-3">
                                                                 <div class="form-check">
-                                                                    <input type="radio" class="form-check-input soal_listening" data-id="<?= $i?>" id="soal_listening<?= $i.$k?>" name="soal_listening[<?= $no?>]" value="<?= $data?>" <?php if($k == 0){echo "required";}?> checked>
+                                                                    <input type="radio" class="form-check-input soal_listening" data-id="<?= $i?>" id="soal_listening<?= $i.$k?>" name="soal_listening[<?= $no?>]" value="<?= $data?>" <?php if($k == 0){echo "required";}?>>
                                                                     <div class="text-left">
                                                                         <label for="soal_listening<?= $i.$k?>" class="form-check-label" id="container-content"><?= $data?></label>
                                                                     </div>
@@ -190,7 +190,7 @@
                                                         <?php foreach ($soal['data']['pilihan'] as $k => $data) :?>
                                                             <div class="d-flex mb-3">
                                                                 <div class="form-check">
-                                                                    <input type="radio" class="form-check-input soal_structure" data-id="<?= $i?>" id="soal_structure<?= $i.$k?>" name="soal_structure[<?= $no?>]" value="<?= $data?>" <?php if($k == 0){echo "required";}?> checked>
+                                                                    <input type="radio" class="form-check-input soal_structure" data-id="<?= $i?>" id="soal_structure<?= $i.$k?>" name="soal_structure[<?= $no?>]" value="<?= $data?>" <?php if($k == 0){echo "required";}?>>
                                                                     <div class="text-left">
                                                                         <label for="soal_structure<?= $i.$k?>" class="form-check-label" id="container-content"><?= $data?></label>
                                                                     </div>
@@ -241,7 +241,7 @@
                                                         <?php foreach ($soal['data']['pilihan'] as $k => $data) :?>
                                                             <div class="d-flex mb-3">
                                                                 <div class="form-check">
-                                                                    <input type="radio" class="form-check-input soal_reading" data-id="<?= $i?>" id="soal_reading<?= $i.$k?>" name="soal_reading[<?= $no?>]" value="<?= $data?>" <?php if($k == 0){echo "required";}?> checked>
+                                                                    <input type="radio" class="form-check-input soal_reading" data-id="<?= $i?>" id="soal_reading<?= $i.$k?>" name="soal_reading[<?= $no?>]" value="<?= $data?>" <?php if($k == 0){echo "required";}?>>
                                                                     <div class="text-left">
                                                                         <label for="soal_reading<?= $i.$k?>" class="form-check-label" id="container-content"><?= $data?></label>
                                                                     </div>
