@@ -27,7 +27,30 @@
                     <div class="head-brand bg-light p-2 mb-3"><center><h3>Al-Azhar <br>English Academy</h3><br><i>Kampung Inggris Al-Azhar <br> Speaking - Grammar - Pronunciatin - TOEFL - IELTS</i></center></div>
                     <div class="row">
                         <div class="col-12">
-                            <div class="alert alert-success"><i class="fa fa-check-circle text-success mr-1"></i><?=$this->session->flashdata('pesan')?></div>
+                            <div class="card">
+                                <div class="card-body">
+                                <?php $data = $this->session->flashdata('pesan');?>
+                                <center><p>Selamat Kakak Telah menyelesaikan tes TOEFL di Universal Kampung Inggris Pare, dengan biodata : </p></center>
+                                <center><p>Nama : <?= $data['nama']?></p></center>
+                                <center><p>TTL : <?= $data['ttl']?></p></center>
+                                <center><p>Alamat : <?= $data['alamat']?></p></center>
+                                <center><p>No Wa : <?= $data['no_wa']?></p></center>
+                                <center><p>Adapun Score TOEFL akan diumumkan :</p></center>
+                                <center><p>Hari :<?= $data['hari_pengumuman']?></p></center>
+                                <center><p>Tanggal :<?= $data['tgl_pengumuman']?></p></center>
+                                <p>Bagi yang mendapatkan score diatas 400 berhak memesan Sertifikat resmi dari Universal Kampung Inggris.</p>
+                                <p><b>BENEFIT TES TOEFL DAN SERTIFIKAT TOEFL UNIVERSAL KAMPUNG INGGRIS</b></p>
+                                <ul type="dash">
+                                    <li>Sertifikat Test dikeluarkan oleh lembaga kami yang sudah resmi terdaftar di Dinas Pendidikan dan kebudayaan Indonesia dengan Nomor   SK DIKNAS 421.9/1196/418.20/2020</li>
+                                    <li>Mendapatkan Group telegram tentang TOEFL </li>
+                                    <li>Bisa digunakan sebagai persiapan mengambil test TOEFL dari ETS.</li>
+                                    <li>Sistem ujian menggunakan website khusus toefltest.id dengan sistem online yang canggih.</li>
+                                    <li>Bisa digunakan untuk melamar kerja BUMN atau Swasta yang mensyaratkan TOEFL</li>
+                                    <li>Bisa digunakan Untuk mengajukan beasiswa baik dalam negri maupun luar negri.</li>
+                                </ul>
+                                <p><b>Catatan : Semua benefit diatas kembali kebijakan instansi masing-masing.</b></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 <?php else : ?>
@@ -88,7 +111,7 @@
                                         </div>
                                         <div class="form-group">
                                             <label for="no_wa">No Whatsapp</label>
-                                            <input type="text" name="no_wa" id="no_wa" class="form-control form-control-md" required>
+                                            <input type="number" name="no_wa" id="no_wa" class="form-control form-control-md" required>
                                         </div>
                                         <div class="form-group">
                                             <label for="t4_lahir">Tempat Lahir</label>
@@ -103,7 +126,7 @@
                                             <textarea name="alamat" id="alamat" class="form-control form-control-sm"></textarea>
                                         </div>
                                         <div class="form-group">
-                                            <label for="alamat_pengiriman">Alamat Pengiriman</label>
+                                            <label for="alamat_pengiriman">Alamat Lengkap Pengiriman Sertifikat</label>
                                             <textarea name="alamat_pengiriman" id="alamat_pengiriman" class="form-control form-control-sm"></textarea>
                                             <small id="emailHelp" class="form-text text-muted">Form Alamat pengiriman diisi jika memesan sertifikat</small>
                                         </div>
@@ -498,7 +521,8 @@
         }  
     }, true);
 
-    var sec         = <?= $tes['waktu']?> * 60,
+    <?php if( !$this->session->flashdata('pesan') ) : ?>
+        var sec         = <?= $tes['waktu']?> * 60,
         countDiv    = document.getElementById("waktu"),
         secpass,
         countDown   = setInterval(function () {
@@ -506,6 +530,7 @@
             
             secpass();
         }, 1000);
+    <?php endif;?>
 
     function secpass() {
         'use strict';
