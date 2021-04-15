@@ -27,65 +27,59 @@ class Soal extends CI_Controller {
         $data['id'] = $id_tes;
 
         if($soal['tipe_soal'] == 1){
-            $data['listening'] = $this->Soal_model->get_soal_listening();
-            $data['structure'] = $this->Soal_model->get_soal_structure();
-            $data['reading'] = $this->Soal_model->get_soal_reading();
-            // $data['structure'] = [];
-            // $data['reading'] = [];
-
-            $page = "soal-toeflv1";
+            $data['listening'] = $this->Soal_model->get_soal_listeningv1();
+            $data['structure'] = $this->Soal_model->get_soal_structurev1();
+            $data['reading'] = $this->Soal_model->get_soal_readingv1();
         } else if($soal['tipe_soal'] == 2){
             $data['listening'] = $this->Soal_model->get_soal_listeningv2();
             $data['structure'] = $this->Soal_model->get_soal_structurev2();
             $data['reading'] = $this->Soal_model->get_soal_readingv2();
-
-            $page = "soal-toeflv2";
         }
-
-        $this->load->view("pages/layout/header-user", $data);
-        $this->load->view("pages/soal/".$page, $data);
-        $this->load->view("pages/layout/footer-user");
-    }
-
-    public function index(){
-        $data['title'] = "TES TOEFL";
-
-        $data['listening'] = $this->Soal_model->get_soal_listening();
-        $data['structure'] = $this->Soal_model->get_soal_structure();
-        $data['reading'] = $this->Soal_model->get_soal_reading();
 
         $this->load->view("pages/layout/header-user", $data);
         $this->load->view("pages/soal/soal-toefl", $data);
         $this->load->view("pages/layout/footer-user");
     }
 
-    public function respon(){
-        $data['title'] = "Jawaban Peserta";
+    // public function index(){
+    //     $data['title'] = "TES TOEFL";
 
-        $respon = $this->Admin_model->get_all("respon");
-        $data['respon'] = [];
-        foreach ($respon as $i => $respon) {
-            $data['respon'][$i] = $respon;
-            $jawaban = explode("###", $respon['text']);
-            $data['respon'][$i]['text'] = $jawaban;
-        }
+    //     $data['listening'] = $this->Soal_model->get_soal_listeningv1();
+    //     $data['structure'] = $this->Soal_model->get_soal_structurev1();
+    //     $data['reading'] = $this->Soal_model->get_soal_readingv1();
 
-        $this->load->view("pages/soal/respon", $data);
-    }
+    //     $this->load->view("pages/layout/header-user", $data);
+    //     $this->load->view("pages/soal/soal-toefl", $data);
+    //     $this->load->view("pages/layout/footer-user");
+    // }
 
-    public function respon_toefl(){
-        $data['title'] = "Jawaban Peserta";
+    // public function respon(){
+    //     $data['title'] = "Jawaban Peserta";
 
-        $respon = $this->Admin_model->get_all("respon_toefl");
-        $data['respon'] = [];
-        foreach ($respon as $i => $respon) {
-            $data['respon'][$i] = $respon;
-            $jawaban = explode("###", $respon['text']);
-            $data['respon'][$i]['text'] = $jawaban;
-        }
+    //     $respon = $this->Admin_model->get_all("respon");
+    //     $data['respon'] = [];
+    //     foreach ($respon as $i => $respon) {
+    //         $data['respon'][$i] = $respon;
+    //         $jawaban = explode("###", $respon['text']);
+    //         $data['respon'][$i]['text'] = $jawaban;
+    //     }
 
-        $this->load->view("pages/soal/respon_toefl", $data);
-    }
+    //     $this->load->view("pages/soal/respon", $data);
+    // }
+
+    // public function respon_toefl(){
+    //     $data['title'] = "Jawaban Peserta";
+
+    //     $respon = $this->Admin_model->get_all("respon_toefl");
+    //     $data['respon'] = [];
+    //     foreach ($respon as $i => $respon) {
+    //         $data['respon'][$i] = $respon;
+    //         $jawaban = explode("###", $respon['text']);
+    //         $data['respon'][$i]['text'] = $jawaban;
+    //     }
+
+    //     $this->load->view("pages/soal/respon_toefl", $data);
+    // }
 
     public function email_check(){
         $id_tes = $this->input->post("id");
@@ -118,7 +112,7 @@ class Soal extends CI_Controller {
             $tes = $this->Admin_model->get_one("tes", ["md5(id_tes)" => $id_tes]);
     
             if($tes['tipe_soal'] == 1){
-                $soal = $this->Soal_model->get_soal_listening();
+                $soal = $this->Soal_model->get_soal_listeningv1();
                 $k = 0;
                 $data_soal = [];
                 foreach ($soal as $soal) {
@@ -129,6 +123,14 @@ class Soal extends CI_Controller {
                 }
             } else if($tes['tipe_soal'] == 2){
                 $soal = $this->Soal_model->get_soal_listeningv2();
+                $k = 0;
+                $data_soal = [];
+                foreach ($soal as $soal) {
+                    if($soal['tipe'] == "soal"){
+                        $data_soal[$k] = $soal;
+                        $k++;
+                    }
+                }
             }
     
             $jawaban = $this->input->post("cekListening");
@@ -147,7 +149,7 @@ class Soal extends CI_Controller {
             }
     
             if($tes['tipe_soal'] == 1){
-                $soal = $this->Soal_model->get_soal_structure();
+                $soal = $this->Soal_model->get_soal_structurev1();
                 $k = 0;
                 $data_soal = [];
                 foreach ($soal as $soal) {
@@ -158,6 +160,14 @@ class Soal extends CI_Controller {
                 }
             } else if($tes['tipe_soal'] == 2){
                 $soal = $this->Soal_model->get_soal_structurev2();
+                $k = 0;
+                $data_soal = [];
+                foreach ($soal as $soal) {
+                    if($soal['tipe'] == "soal"){
+                        $data_soal[$k] = $soal;
+                        $k++;
+                    }
+                }
             }
             
             $jawaban = $this->input->post("cekStructure");
@@ -176,7 +186,7 @@ class Soal extends CI_Controller {
             }
     
             if($tes['tipe_soal'] == 1){
-                $soal = $this->Soal_model->get_soal_reading();
+                $soal = $this->Soal_model->get_soal_readingv1();
                 $k = 0;
                 $data_soal = [];
                 foreach ($soal as $soal) {
@@ -187,6 +197,14 @@ class Soal extends CI_Controller {
                 }
             } else if($tes['tipe_soal'] == 2){
                 $soal = $this->Soal_model->get_soal_readingv2();
+                $k = 0;
+                $data_soal = [];
+                foreach ($soal as $soal) {
+                    if($soal['tipe'] == "soal"){
+                        $data_soal[$k] = $soal;
+                        $k++;
+                    }
+                }
             }
             
             $jawaban = $this->input->post("cekReading");
@@ -207,6 +225,7 @@ class Soal extends CI_Controller {
             $data = [
                 "email" => $this->input->post("email"),
                 "nama" => $this->input->post("nama"),
+                "jk" => $this->input->post("jk"),
                 "no_wa" => $this->input->post("no_wa"),
                 "t4_lahir" => $this->input->post("t4_lahir"),
                 "tgl_lahir" => $this->input->post("tgl_lahir"),

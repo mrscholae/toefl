@@ -1,0 +1,560 @@
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1,
+        "soal" => "George did not do well in the class because ..................",
+        "pilihan" => [
+            "he failed to study properly.",
+            "he was not good studywise.",
+            "he was a badly student.",
+            "he studied bad.",
+        ],
+        "jawaban" => "he failed to study properly.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2,
+        "soal" => "This university's programs .................. those of Harvard.",
+        "pilihan" => [
+            "come second after",
+            "are first except for",
+            "are second only to",
+            "are in second place from",
+        ],
+        "jawaban" => "are second only to",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3,
+        "soal" => "The more she worked, ..................",
+        "pilihan" => [
+            "she achieved not enough.",
+            "the less she achieved.",
+            "she did not achieve enough.",
+            "she was achieving less.",
+        ],
+        "jawaban" => "the less she achieved.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4,
+        "soal" => "................. the best car to buy is a Mercedes Benz.",
+        "pilihan" => [
+            "Because of its durability and economy,",
+            "Because it lasts a long time, and it is very economical,",
+            "Because of its durability and it is economical,",
+            "Because durability and economywise it is better than all the others,",
+        ],
+        "jawaban" => "Because of its durability and economy,",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5,
+        "soal" => "When Henry arrived home after a hard day at work, ..................",
+        "pilihan" => [
+            "his wife has slept.",
+            "his wife slept.",
+            "his wife was sleeping.",
+            "his wife has been sleeping.",
+        ],
+        "jawaban" => "his wife was sleeping.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6,
+        "soal" => "He gave ..................",
+        "pilihan" => [
+            "to the class a tough assignment.",
+            "a tough assignment for the class.",
+            "the class a tough assignment.",
+            "an assignment very tough to the class.",
+        ],
+        "jawaban" => "the class a tough assignment.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7,
+        "soal" => "People all over the world are starving ..................",
+        "pilihan" => [
+            "greater in numbers",
+            "more numerously",
+            "in greater number",
+            "in more number",
+        ],
+        "jawaban" => "in greater number",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8,
+        "soal" => "It was until she arrived in class .................. realized she had forgotten her book",
+        "pilihan" => [
+            "and she",
+            "when she",
+            "that she",
+            "she",
+        ],
+        "jawaban" => "that she",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9,
+        "soal" => "John has not been able to recall where ..................",
+        "pilihan" => [
+            "she lives",
+            "does she live",
+            "did she live",
+            "lived the girl",
+        ],
+        "jawaban" => "she lives",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10,
+        "soal" => "Ben would have studied medicine if he .................. to a medical school",
+        "pilihan" => [
+            "had been admitted",
+            "could be able to enter",
+            "was admitted",
+            "were admitted",
+        ],
+        "jawaban" => "had been admitted",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11,
+        "soal" => "He entered the university ..................",
+        "pilihan" => [
+            "when he had sixteen years",
+            "at the age of sixteen",
+            "when sixteen years were his age",
+            "at age sixteen years old",
+        ],
+        "jawaban" => "at the age of sixteen",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12,
+        "soal" => "The jurors were told to ..................",
+        "pilihan" => [
+            "speak freely",
+            "talk all they wanted",
+            "talk with their minds open",
+            "make lots of experience",
+        ],
+        "jawaban" => "speak freely",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13,
+        "soal" => "Those students do not like to read novel,  .................. text books",
+        "pilihan" => [
+            "In any case",
+            "forgetting about",
+            "much less",
+            "leaving out the question",
+        ],
+        "jawaban" => "much less",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14,
+        "soal" => "He  .................. looked forward to the new venture",
+        "pilihan" => [
+            "eagerly",
+            "with great eagerness",
+            "eagernessly",
+            "in state of increasing eagerness",
+        ],
+        "jawaban" => "eagerly",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15,
+        "soal" => "The families told to evacuate their houses imediately  ..................",
+        "pilihan" => [
+            "at the time when the water began to go up",
+            "when up was going the water",
+            "when the water began to rise",
+            "in the time when the water raised",
+        ],
+        "jawaban" => "when the water began to rise",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16,
+        "soal" => "<u>Most</u> Americans would not be happy <u>without</u> <u>a</u> color television, two cars, and <u>working at</u> an extra job",
+        "pilihan" => [
+            "Most",
+            "without",
+            "a",
+            "working at",
+        ],
+        "jawaban" => "working at",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17,
+        "soal" => "<u>The</u> lion has <u>long</u> been <u>a</u> symbol of strength, power, and it <u>is very cruel</u>",
+        "pilihan" => [
+            "The",
+            "long",
+            "a",
+            "is very cruel",
+        ],
+        "jawaban" => "is very cruel",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18,
+        "soal" => "<u>All</u> the scouts got <u>thirselves</u> ready for <u>the</u> long camping trip by spending their weekends <u>living</u> in the open",
+        "pilihan" => [
+            "All",
+            "thirselves",
+            "the",
+            "living",
+        ],
+        "jawaban" => "thirselves",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19,
+        "soal" => "Nobody <u>had known</u> before <u>the</u> presentation that Sue and her sister <u>wil receive</u> <u>the</u> awards for outstanding scholarship",
+        "pilihan" => [
+            "had known",
+            "the",
+            "wil receive",
+            "the",
+        ],
+        "jawaban" => "wil receive",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20,
+        "soal" => "In 1927, Charles Lindbergh <u>was</u> the first <u>to fly</u> solo nonstop from New York to Paris <u>in</u> <u>such short time.</u>",
+        "pilihan" => [
+            "was",
+            "to fly",
+            "in",
+            "such short time.",
+        ],
+        "jawaban" => "such short time.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21,
+        "soal" => "<u>Until</u> his last class at the university in 1978, Bob always <u>turns</u> in all <u>of</u> his assignments <u>on</u> time",
+        "pilihan" => [
+            "Until",
+            "turns",
+            "of",
+            "on",
+        ],
+        "jawaban" => "turns",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22,
+        "soal" => "When I <u>last</u> show Janet, she <u>hurried</u> to her next class on <u>the other</u> side of the campus and <u>did not have</u> time to talk.",
+        "pilihan" => [
+            "last",
+            "hurried",
+            "the other",
+            "did not have",
+        ],
+        "jawaban" => "hurried",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23,
+        "soal" => "<u>Before we returned</u> from swiming in the river nearthe camp, someone <u>had stole</u> our clothes, and we had to walk <u>back</u> with our towels <u>around</u> us.",
+        "pilihan" => [
+            "Before we returned",
+            "had stole",
+            "back",
+            "around",
+        ],
+        "jawaban" => "had stole",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 24,
+        "soal" => "Patrick was very late <u>getting home</u> last night, and unfortunately <u>for him</u>, the <u>dog</u> barking woke everyone <u>up</u>.",
+        "pilihan" => [
+            "getting home",
+            "for him",
+            "dog",
+            "up",
+        ],
+        "jawaban" => "dog",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25,
+        "soal" => "He <u>has been hoped</u> for a rise for the <u>last</u> four months, but his boss is reluctant <u>to give</u> him <u>one</u>",
+        "pilihan" => [
+            "has been hoped",
+            "last",
+            "to give",
+            "one",
+        ],
+        "jawaban" => "has been hoped",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26,
+        "soal" => "<u>After driving</u> for twenty miles, he suddenly <u>realized</u> that he <u>has been driving</u> <u>in</u> the wong direction.",
+        "pilihan" => [
+            "After driving",
+            "realized",
+            "has been driving",
+            "in",
+        ],
+        "jawaban" => "has been driving",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27,
+        "soal" => "<u>The</u> department of Foreign Languages <u>are</u> not located <u>in</u> the new building <u>opposite</u> the old one.",
+        "pilihan" => [
+            "The",
+            "are",
+            "in",
+            "opposite",
+        ],
+        "jawaban" => "are",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28,
+        "soal" => "The Nobel Prize winner, accompied <u>by</u> her husband and children, <u>are</u> staying in sweden <u>until</u> <u>after</u> the presentatation.",
+        "pilihan" => [
+            "by",
+            "are",
+            "until",
+            "after",
+        ],
+        "jawaban" => "are",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29,
+        "soal" => "Neither <u>of the</u> scout leaders <u>know</u> how to trap wild animals <u>or</u> how to prepare them <u>for mounting.</u>",
+        "pilihan" => [
+            "of the",
+            "know",
+            "or",
+            "for mounting.",
+        ],
+        "jawaban" => "know",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30,
+        "soal" => "<u>Those of</u> you who signed up <u>for</u> Dr. Daniel's anthropology class sould get <u>their</u> books as soon <u>as possible</u>",
+        "pilihan" => [
+            "Those of",
+            "for",
+            "their",
+            "as possible",
+        ],
+        "jawaban" => "their",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31,
+        "soal" => "I put my nes <u>books of Zoology</u> here on <u>the</u> desk a few minutes <u>ago</u>, but <u>I cannot seem to find it</u>.",
+        "pilihan" => [
+            "books of Zoology",
+            "the",
+            "ago",
+            "I cannot seem to find it",
+        ],
+        "jawaban" => "books of Zoology",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32,
+        "soal" => "<u>Marta</u> being <u>chosen</u> as the <u>most outstanding</u> student on her campus <u>made her parents</u> very happy.",
+        "pilihan" => [
+            "Marta",
+            "chosen",
+            "most outstanding",
+            "made her parents",
+        ],
+        "jawaban" => "Marta",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33,
+        "soal" => "Jane said she would <u>borrow</u> <u>me</u> her new movie camera if I <u>wanted</u> to use it <u>on my trip</u> to Europe.",
+        "pilihan" => [
+            "borrow",
+            "me",
+            "wanted",
+            "on my trip",
+        ],
+        "jawaban" => "borrow",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34,
+        "soal" => "<u>When Cliff was sick</u> with the flu, his mother made <u>him</u> <u>to eat</u> chicken soup and <u>rest</u> in bed.",
+        "pilihan" => [
+            "When Cliff was sick",
+            "him",
+            "to eat",
+            "rest",
+        ],
+        "jawaban" => "to eat",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35,
+        "soal" => "My cousin <u>composes not only</u> the music, <u>but</u> also sings <u>the songs for</u> the <u>major</u> Broadway musicals.",
+        "pilihan" => [
+            "composes not only",
+            "but",
+            "the songs for",
+            "major",
+        ],
+        "jawaban" => "composes not only",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36,
+        "soal" => "<u>The</u> geology professor showed <u>us</u> a sample <u>about</u> volcanic rock which dated <u>back</u> seven hundred years.",
+        "pilihan" => [
+            "The",
+            "us",
+            "about",
+            "back",
+        ],
+        "jawaban" => "about",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37,
+        "soal" => "<u>The</u> girl <u>whom</u> my cousin married <u>was used</u> to be a chorus girl for <u>the</u> Rockettes in Radio City Music Hall in New York.",
+        "pilihan" => [
+            "The",
+            "whom",
+            "was used",
+            "the",
+        ],
+        "jawaban" => "was used",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38,
+        "soal" => "Ralph <u>has called</u> his lawyer last night <u>to tell</u> him about his problems, but was told <u>that</u> the lawyer <u>had gone</u> to a lecture.",
+        "pilihan" => [
+            "has called",
+            "to tell",
+            "that",
+            "had gone",
+        ],
+        "jawaban" => "has called",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39,
+        "soal" => "Some bumper stickers <u>are</u> very funny and make us <u>laugh</u>, yet <u>another</u> can make us angry because of their <u>ridiculousness</u>.",
+        "pilihan" => [
+            "are",
+            "laugh",
+            "another",
+            "ridiculousness",
+        ],
+        "jawaban" => "another",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40,
+        "soal" => "<u>The</u> results of the test proved <u>to</u> Fred and <u>me</u> that we needed to study harder and watch <u>less</u> movies on television if we wanted to receive scholarships.",
+        "pilihan" => [
+            "The",
+            "to",
+            "me",
+            "less",
+        ],
+        "jawaban" => "less",
+    ]
+],

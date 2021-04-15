@@ -1,6 +1,286 @@
 [
     "tipe" => "soal",
     "data" => [
+        "no" => 1,
+        "soal" => "John Peter Zenger was a ...........",
+        "pilihan" => [
+            "corrupt governor of new york.",
+            "brave newspaper publisher.",
+            "famous lawyer.",
+            "hostile judge.",
+        ],
+        "jawaban" => "brave newspaper publisher.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2,
+        "soal" => "What political problem existed in the colonies at the time? ...........",
+        "pilihan" => [
+            "Lawyers were hostile to witnesses.",
+            "Government officials were corrupt.",
+            "All newspaper publishers were imprisoned.",
+            "Newspapers exaggerated the truth about the political officials.",
+        ],
+        "jawaban" => "Government officials were corrupt.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3,
+        "soal" => "How long did it take after the Zenger trial before the concept of freedom of the press was officially adopted? ...........",
+        "pilihan" => [
+            "9 months.",
+            "56 years.",
+            "58 years.",
+            "1 year.",
+        ],
+        "jawaban" => "56 years.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4,
+        "soal" => "All of the following are true EXCEPT ...........",
+        "pilihan" => [
+            "Andrew Hamilton encouraged the jury to fight for freedom.",
+            "Despite Zenger's imprisonment, his newspaper continued to be published.",
+            "The king controlled the colonies through his own appointed rulers.",
+            "The jury obeyed the judge's orders and convicted Zenger.",
+        ],
+        "jawaban" => "The jury obeyed the judge's orders and convicted Zenger.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5,
+        "soal" => "Why was Peter Zenger arrested? ...........",
+        "pilihan" => [
+            "He emigrated from Germany.",
+            "His wife published his newspaper for him.",
+            "He persuaded a jury to defy the judge's orders.",
+            "He wrote a story about the governor of New York.",
+        ],
+        "jawaban" => "He wrote a story about the governor of New York.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6,
+        "soal" => "It can be inferred that the judge was hostile toward Peter Zenger because the judge ...........",
+        "pilihan" => [
+            "Represented the ideas of the king.",
+            "Hated newspaper publishers.",
+            "Didn't like interference with the Constitution.",
+            "Had appointed the governor about whom zenger wrote",
+        ],
+        "jawaban" => "Represented the ideas of the king.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7,
+        "soal" => "The word "<b>defying</b>" in line in paragraph 3 is closest in meaning to ...........",
+        "pilihan" => [
+            "Altering",
+            "defecting",
+            "defending",
+            "disegarding",
+        ],
+        "jawaban" => "disegarding",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8,
+        "soal" => "The word "<b>dutifully</b>" in paragraph 2 is closest in meaning to ...........",
+        "pilihan" => [
+            "carelessly",
+            "Faitfully",
+            "unfortunately",
+            "defending",
+        ],
+        "jawaban" => "Faitfully",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9,
+        "soal" => "The main idea of this passage is ...........",
+        "pilihan" => [
+            "Andre Hamilton gave American freedom of the press",
+            "Judges don't always get juries to agree with them",
+            "Peter Zenger's persistent fight paved the way for freedom of the press",
+            "Peter Zenger's trial prepared the way for jurors to defy judge's orders",
+        ],
+        "jawaban" => "Peter Zenger's persistent fight paved the way for freedom of the press",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10,
+        "soal" => "What is the similar meaning of “<b>gained</b>”?",
+        "pilihan" => [
+            "Gone",
+            "Would",
+            "Got",
+            "Put",
+        ],
+        "jawaban" => "Got",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11,
+        "soal" => "Which was the earliest period of rebirth mentioned? ...........",
+        "pilihan" => [
+            "Russian",
+            "Italian",
+            "Roman",
+            "Carolingian",
+        ],
+        "jawaban" => "Carolingian",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12,
+        "soal" => "Which city did Charlemagne look upon as a model for his architectural improvement? ...........",
+        "pilihan" => [
+            "Kiev",
+            "Frank",
+            "Rome",
+            "Carolingian",
+        ],
+        "jawaban" => "Rome",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13,
+        "soal" => "All of the following are mentioned as characteristics of periods of renaissance EXCEPT ...........",
+        "pilihan" => [
+            "maintaining the status quo.",
+            "improved education.",
+            "architectural advances.",
+            "the creation of libraries.",
+        ],
+        "jawaban" => "maintaining the status quo.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14,
+        "soal" => "What can we assume about Yaroslav? ...........",
+        "pilihan" => [
+            "He was inept.",
+            "He was cruel.",
+            "He was demented.",
+            "He was a competent leader.",
+        ],
+        "jawaban" => "He was a competent leader.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15,
+        "soal" => "The word "<b>carryover</b>" in in paragraph 2 mean most nearly the same as ...........",
+        "pilihan" => [
+            "innovation	",
+            "barbarism",
+            "remnant",
+            "residue",
+        ],
+        "jawaban" => "remnant",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16,
+        "soal" => "According to the passage, what do all three periods have in commons? ...........",
+        "pilihan" => [
+            "An aversion to new libraries",
+            "A concern for education and learning",
+            "A desire for advanced science and technology",
+            "An interest in traveling trhoughout the world",
+        ],
+        "jawaban" => "A concern for education and learning",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17,
+        "soal" => "The word "<b>renaissance</b>" mean in the context of the these three civilization? ...........",
+        "pilihan" => [
+            "Helping to maintain Roman culture at any cost",
+            "Trying to do everything as the ancients had done",
+            "Improving on the basic principles of past cultures",
+            "Tearing down existing buildings and using Roman architectural techniques for new ones.",
+        ],
+        "jawaban" => "Improving on the basic principles of past cultures",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18,
+        "soal" => "Which of the renaissance periods lasted the longest? ...........",
+        "pilihan" => [
+            "Italian",
+            "Carolingian",
+            "Alexandrian",
+            "Kievan",
+        ],
+        "jawaban" => "Italian",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19,
+        "soal" => "Which renaissance had the most widespread and lasting effect on future generations ...........",
+        "pilihan" => [
+            "Italian",
+            "Kievan",
+            "Alexandrian",
+            "Carolingian",
+        ],
+        "jawaban" => "Italian",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20,
+        "soal" => "The main idea of this passage is that .........",
+        "pilihan" => [
+            "throughout history there has been a rebirth of idea and an effort to copy without creating anything new.",
+            "only western europe was interested in rebirth",
+            "the periods of rebirth saw greater advances for each culture",
+            "rebirth of a culture does not depend on outside influences",
+        ],
+        "jawaban" => "the periods of rebirth saw greater advances for each culture",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
         "no" => 21,
         "soal" => "It can be infered from this reading passage that ...........",
         "pilihan" => [

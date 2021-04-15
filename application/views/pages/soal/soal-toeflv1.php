@@ -24,7 +24,7 @@
                 </div>
             <?php else :?>
                 <?php if( $this->session->flashdata('pesan') ) : ?>
-                    <div class="head-brand bg-light p-2 mb-3"><center><h3>Al-Azhar <br>English Academy</h3><br><i>Kampung Inggris Al-Azhar <br> Speaking - Grammar - Pronunciatin - TOEFL - IELTS</i></center></div>
+                    <div class="head-brand bg-light p-2 mb-3"><center><h3>Kampung Inggris <br> Universal</h3><br><i>Speaking - Grammar - Pronunciatin - TOEFL - IELTS</i></center></div>
                     <div class="row">
                         <div class="col-12">
                             <div class="card">

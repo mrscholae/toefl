@@ -1,0 +1,700 @@
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1,
+        "soal" => "",
+        "pilihan" => [
+            "Mark is fond of rare meat.",
+            "Mark dislikes rare meat.",
+            "Mark is angry at the chef.",
+            "Mark doesn't want his meat cooked medium",
+        ],
+        "jawaban" => "Mark dislikes rare meat.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2,
+        "soal" => "",
+        "pilihan" => [
+            "The milk has turned bad.",
+            "The man doesn't like skim milk.",
+            "The man's check-cashing card has expired.",
+            "The milk may turn sour if they don't drink it within the next five days.",
+        ],
+        "jawaban" => "The milk has turned bad.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3,
+        "soal" => "",
+        "pilihan" => [
+            "He has other plans.",
+            "He thinks it will be frightening.",
+            "He has a bad personality.",
+            "He doesn't have enough time.",
+        ],
+        "jawaban" => "He thinks it will be frightening.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4,
+        "soal" => "",
+        "pilihan" => [
+            "It has been in her family a long time.",
+            "It is a family disgrace.",
+            "Her mother doesn't like it.",
+            "Her boyfriend gave it to her.",
+        ],
+        "jawaban" => "It has been in her family a long time.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5,
+        "soal" => "",
+        "pilihan" => [
+            "It was cleaned.",
+            "There was a roberry.",
+            "There was a large sale.",
+            "The employees had to work very late.",
+        ],
+        "jawaban" => "There was a roberry.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6,
+        "soal" => "",
+        "pilihan" => [
+            "She has good taste in clothes.",
+            "Her choice is not suitable for the occasion.",
+            "The skirt is pretty, but not the blouse.",
+            "It is too elegant.",
+        ],
+        "jawaban" => "Her choice is not suitable for the occasion.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7,
+        "soal" => "",
+        "pilihan" => [
+            "Jack didn't visit them.",
+            "They hope Jack will visit them.",
+            "Jack will not visit them because it's not on his way.",
+            "They are sure that Jack will visit them if he doesn't run out of time.",
+        ],
+        "jawaban" => "Jack will not visit them because it's not on his way.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8,
+        "soal" => "",
+        "pilihan" => [
+            "She'll count the votes on the proposal.",
+            "She'll support the man's proposal.",
+            "She'll make the proposal herself.",
+            "She'll back out of the proposal.",
+        ],
+        "jawaban" => "She'll support the man's proposal.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9,
+        "soal" => "",
+        "pilihan" => [
+            "At the jewelery store.",
+            "From a machine.",
+            "From the purchaser.",
+            "Down the hall.",
+        ],
+        "jawaban" => "From a machine.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10,
+        "soal" => "",
+        "pilihan" => [
+            "It will rain later.",
+            "The rain has already stopped.",
+            "It's probably not going to rain.",
+            "It's raining now, but will probably stop.",
+        ],
+        "jawaban" => "It's raining now, but will probably stop.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11,
+        "soal" => "",
+        "pilihan" => [
+            "The man should ask for advice.",
+            "The man should make an offer.",
+            "The man should not buy the house.",
+            "The man needs to make his own decision.",
+        ],
+        "jawaban" => "The man needs to make his own decision.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12,
+        "soal" => "",
+        "pilihan" => [
+            "Monday, Wednesday, and Friday.",
+            "Saturday and Sunday.",
+            "Tuesday, Thursday, and Sunday.",
+            "Monday, Friday, and Saturday.",
+        ],
+        "jawaban" => "Tuesday, Thursday, and Sunday.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13,
+        "soal" => "",
+        "pilihan" => [
+            "It was hard for her to learn so much material.",
+            "She learned the difficult extremes.",
+            "She wasn't able to materialize the difficulties.",
+            "She found the material after a difficult search.",
+        ],
+        "jawaban" => "It was hard for her to learn so much material.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14,
+        "soal" => "",
+        "pilihan" => [
+            "He studied because it was a nice day.",
+            "He didn't study because it was a very nice day.",
+            "He studied in spite of the beautiful weather.",
+            "He likes to study when the weather is nice.",
+        ],
+        "jawaban" => "He didn't study because it was a very nice day.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15,
+        "soal" => "",
+        "pilihan" => [
+            "She found a hard seat because the theater was dark.",
+            "She couldn't find a seat in the dark.",
+            "She had some difficulty finding a seat",
+            "She couldn't seat her friends.",
+        ],
+        "jawaban" => "She had some difficulty finding a seat",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16,
+        "soal" => "",
+        "pilihan" => [
+            "After the class had begun, some of the brazen students entered the room.",
+            "There were 24 students in the class after it had begun.",
+            "There were three dozen students in the class after it had begun.",
+            "The dozen people in the room were doubling as students.",
+        ],
+        "jawaban" => "There were 24 students in the class after it had begun.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17,
+        "soal" => "",
+        "pilihan" => [
+            "He expected the professor to contradict himself.",
+            "He had expected the professor to cancel the class.",
+            "He was contrary with the professor.",
+            "He hadn't expected the professor to cancel class, but he did.",
+        ],
+        "jawaban" => "He hadn't expected the professor to cancel class, but he did.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18,
+        "soal" => "",
+        "pilihan" => [
+            "In a bakery.",
+            "In a butcher shop.",
+            "In a pharmacy.",
+            "In an ice-cream store.",
+        ],
+        "jawaban" => "In a butcher shop.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19,
+        "soal" => "",
+        "pilihan" => [
+            "He won the trophy.",
+            "He broke his arm.",
+            "He's minister.",
+            "He sprained his ankle.",
+        ],
+        "jawaban" => "He sprained his ankle.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20,
+        "soal" => "",
+        "pilihan" => [
+            "In July.",
+            "In the winter.",
+            "In September.",
+            "In April.",
+        ],
+        "jawaban" => "In July.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21,
+        "soal" => "",
+        "pilihan" => [
+            "The speakers may cause Katie to be late.",
+            "She will be here shortly.",
+            "She probably forgot the appointment.",
+            "The speakers will probably be late if she doesn't arrive soon.",
+        ],
+        "jawaban" => "The speakers will probably be late if she doesn't arrive soon.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22,
+        "soal" => "",
+        "pilihan" => [
+            "Go to a party either Friday or Saturday night.",
+            "Go to a party if the weather is good.",
+            "Not go to a party because of the weather.",
+            "Go to a party on both Friday and Saturday nights.",
+        ],
+        "jawaban" => "Go to a party either Friday or Saturday night.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23,
+        "soal" => "",
+        "pilihan" => [
+            "Helen hates to eat fish.",
+            "Helen often fishes with her husband, but she doesn't like it.",
+            "Helen hates her husband after he has been fishing.",
+            "Helen likes to eat fish, but her husband likes to fish too much.",
+        ],
+        "jawaban" => "Helen often fishes with her husband, but she doesn't like it.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 24,
+        "soal" => "",
+        "pilihan" => [
+            "Karl enjoys painting puzzles.",
+            "Karl was confused.",
+            "Karl's expression puzzled the woman.",
+            "Karl expressed the woman's face in a puzzle.",
+        ],
+        "jawaban" => "Karl's expression puzzled the woman.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25,
+        "soal" => "",
+        "pilihan" => [
+            "He must exhaust the runner.",
+            "He was probably very tired after running.",
+            "The rum made him sleepy.",
+            "He must run after the thief.",
+        ],
+        "jawaban" => "He was probably very tired after running.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26,
+        "soal" => "",
+        "pilihan" => [
+            "He can probably see her tomorrow afternoon.",
+            "He must pay his last bill if he wants to see her.",
+            "Tomorrow at noon she will see him.",
+            "She may see him now, but she'll be too busy tomorrow.",
+        ],
+        "jawaban" => "He can probably see her tomorrow afternoon.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27,
+        "soal" => "",
+        "pilihan" => [
+            "Sally has many friends although she has bad habits.",
+            "Bad people are avoided by Sally.",
+            "Sally's friends have very bad habits.",
+            "Sally has many friends although she has bad habits.",
+        ],
+        "jawaban" => "Sally has many friends although she has bad habits.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28,
+        "soal" => "",
+        "pilihan" => [
+            "The houses are too simple to cost so much.",
+            "It is easy to pay for a nice house.",
+            "They don't have enough money for a new house because of the high prices.",
+            "They can afford a new house now, but not next year.",
+        ],
+        "jawaban" => "They don't have enough money for a new house because of the high prices.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29,
+        "soal" => "",
+        "pilihan" => [
+            "Registration for the class is late.",
+            "It closes two days from now.",
+            "It closed two days ago.",
+            "It should have closed yesterday, but it will close in two days.",
+        ],
+        "jawaban" => "It closed two days ago.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30,
+        "soal" => "",
+        "pilihan" => [
+            "Their change in plans didn't affect her plans.",
+            "She didn't know that they had changed plans.",
+            "She didn't tell them when she changed plans.",
+            "She didn't know that they had changed the schedule of the planes.",
+        ],
+        "jawaban" => "She didn't know that they had changed plans.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31,
+        "soal" => "",
+        "pilihan" => [
+            "He's lost his job as a chef.",
+            "He is overweight.",
+            "He hurt himself exercising.",
+            "He can't keep up with new trends.",
+        ],
+        "jawaban" => "He is overweight.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32,
+        "soal" => "",
+        "pilihan" => [
+            "Eat carbohydrates.",
+            "Stop eating dessert.",
+            "Do a breathing program.",
+            "Limit fats and keep working out in the gym.",
+        ],
+        "jawaban" => "Limit fats and keep working out in the gym.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33,
+        "soal" => "",
+        "pilihan" => [
+            "Eat yogurt.",
+            "Read a good book.",
+            "Take long walks.",
+            "Snack on low-fat vegetables.",
+        ],
+        "jawaban" => "Snack on low-fat vegetables.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34,
+        "soal" => "",
+        "pilihan" => [
+            "Take home leftovers from a salad bar.",
+            "Bring lunch from home.",
+            "Read books on dieting.",
+            "Skip lunch.",
+        ],
+        "jawaban" => "Bring lunch from home.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35,
+        "soal" => "",
+        "pilihan" => [
+            "Professor-student.",
+            "Co-authors of a book.",
+            "Librarian-researcher.",
+            "Biographer-book buyer.",
+        ],
+        "jawaban" => "Professor-student.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36,
+        "soal" => "",
+        "pilihan" => [
+            "France.",
+            "Mexico.",
+            "Spain.",
+            "Chile.",
+        ],
+        "jawaban" => "Chile.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37,
+        "soal" => "",
+        "pilihan" => [
+            "Painter.",
+            "World traveler.",
+            "Sociology professor.",
+            "Writer.",
+        ],
+        "jawaban" => "Writer.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38,
+        "soal" => "",
+        "pilihan" => [
+            "Chile.",
+            "France.",
+            "Germany.",
+            "Canada.",
+        ],
+        "jawaban" => "Canada.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39,
+        "soal" => "",
+        "pilihan" => [
+            "There was not much wind.",
+            "There was no way of controlling them.",
+            "It was hard to get off the ground.",
+            "They were too heavy.",
+        ],
+        "jawaban" => "There was no way of controlling them.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40,
+        "soal" => "",
+        "pilihan" => [
+            "Germany.",
+            "France.",
+            "England.",
+            "United States.",
+        ],
+        "jawaban" => "United States.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 41,
+        "soal" => "",
+        "pilihan" => [
+            "A French clockmaker.",
+            "Von Zeppelin.",
+            "A French count.",
+            "Blimp.",
+        ],
+        "jawaban" => "A French clockmaker.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 42,
+        "soal" => "",
+        "pilihan" => [
+            "Germany.",
+            "France.",
+            "England.",
+            "United States.",
+        ],
+        "jawaban" => "Germany.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 43,
+        "soal" => "",
+        "pilihan" => [
+            "The airships were used for wartime purposes.",
+            "They were difficult to control.",
+            "The newer models were too small.",
+            "They were afraid because of the tragedy of the Hindenberg.",
+        ],
+        "jawaban" => "They were afraid because of the tragedy of the Hindenberg.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 44,
+        "soal" => "",
+        "pilihan" => [
+            "Elephants.",
+            "Bears.",
+            "Tigers.",
+            "Rabbits.",
+        ],
+        "jawaban" => "Rabbits.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 45,
+        "soal" => "",
+        "pilihan" => [
+            "Butterflies.",
+            "Mice.",
+            "Turtles.",
+            "Spiders.",
+        ],
+        "jawaban" => "Turtles.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 46,
+        "soal" => "",
+        "pilihan" => [
+            "Fur.",
+            "Disease.",
+            "Speed.",
+            "Size.",
+        ],
+        "jawaban" => "Fur.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 47,
+        "soal" => "",
+        "pilihan" => [
+            "Beasts.",
+            "Herbivorous.",
+            "Dinosaurs.",
+            "Carnivorous.",
+        ],
+        "jawaban" => "Dinosaurs.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 48,
+        "soal" => "",
+        "pilihan" => [
+            "180 million years ago.",
+            "16 million years ago.",
+            "150 million years ago.",
+            "60 million years ago.",
+        ],
+        "jawaban" => "60 million years ago.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 49,
+        "soal" => "",
+        "pilihan" => [
+            "By excavating sites.",
+            "By observing them closely.",
+            "By living with them.",
+            "By reconstructing skeletons.",
+        ],
+        "jawaban" => "By reconstructing skeletons.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 50,
+        "soal" => "",
+        "pilihan" => [
+            "Scientists have studied them for centuries.",
+            "They were meat eating as well as plant eating.",
+            "They wandered the earth for millions of years.",
+            "They lived on land, in the sea, and in the sky.",
+        ],
+        "jawaban" => "Scientists have studied them for centuries.",
+    ]
+],
