@@ -122,7 +122,7 @@
                                             <input type="number" name="no_wa" id="no_wa" class="form-control form-control-md" required>
                                         </div>
                                         <div class="form-group">
-                                            <label for="t4_lahir">Tempat Lahir</label>
+                                            <label for="t4_lahir">Kota Lahir</label>
                                             <input type="text" name="t4_lahir" id="t4_lahir" class="form-control form-control-md" required>
                                         </div>
                                         <div class="form-group">
