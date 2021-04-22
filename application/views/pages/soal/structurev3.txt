@@ -1,0 +1,574 @@
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><center>SECTION 2</center></p>
+        <p><center>STRUCTURE AND WRITTEN EXPRESSION</center></p>
+        <p><center>Time: 30 minutes</center></p>
+        <p><center>40 questions</center></p>"
+],
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p>DIRECTIONS</p>
+        <p>Questions number 1-15 are incomplete sentences. Beneath each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Choose the one word of phrase that best complets the sentence. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Fill in the space so that the letter inside the oval cannot be seen.</p>"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1
+        "soal" => "The ponderosa pine is ....... of the most of the timber used by forest- product firms in the Black Hills of South Dakota.",
+        "pilihan" => [
+            "The source",
+            "As source",
+            "The source which",
+            "Because the source",
+        ],
+        "jawaban" => "The source",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2
+        "soal" => "Computers that once took up entire rooms are now ....... to put on desktops and into wristwatches.",
+        "pilihan" => [
+            "Small enough",
+            "Smaller than",
+            "So small",
+            "As small as",
+        ],
+        "jawaban" => "Small enough",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3
+        "soal" => "According to some educators, the goal of teaching is to help students learn what ....... to know to live a well-adjusted and successful life. ",
+        "pilihan" => [
+            "Do they need",
+            "They need",
+            "They are needed",
+            "As they may need",
+        ],
+        "jawaban" => "They need",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4
+        "soal" => "The sapphire’ s transparency to ultraviolet and infrared radiation makes ....... in optical instruments.",
+        "pilihan" => [
+            "It is of use",
+            "It uses",
+            "It a useful",
+            "It useful",
+        ],
+        "jawaban" => "It useful",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5
+        "soal" => "....... initial recognition while still quite young.",
+        "pilihan" => [
+            "Most famous scientists achieve ",
+            "That most famous scientists achieved",
+            "Most famous scientists who achieved",
+            "For most famous scientists to achieve",
+        ],
+        "jawaban" => "Most famous scientists achieve ",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6
+        "soal" => "Mango trees, ....... densely covered with glossy leaves and bear small fragrant flowers, grow rapidly and can attain heights of up to 90 feet.",
+        "pilihan" => [
+            "whose",
+            "which are",
+            "are when",
+            "Which",
+        ],
+        "jawaban" => "which are",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7
+        "soal" => " ....... the Canadian composer Barbara Pentland wrote four symphonies, three concertos, and an opera, among other works.",
+        "pilihan" => [
+            "An artist who, prolific",
+            "Is a prolific artist",
+            "Prolific an artist",
+            "A prolific artist",
+        ],
+        "jawaban" => "A prolific artist",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8
+        "soal" => "The Chisos Mountains in Big Bend National park in Texas were created by volcanic eruptions that occurred ........",
+        "pilihan" => [
+            "The area in which dinosaurs roamed",
+            "When dinosaurs roamed the area",
+            "Did dinosaurs roam the area",
+            "Dinosaurs roaming the area",
+        ],
+        "jawaban" => "When dinosaurs roamed the area",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9
+        "soal" => "In bas-relief sculpture, a design projects very slightly from its background, ....... some coins.",
+        "pilihan" => [
+            "As on",
+            "Because",
+            "The way that",
+            "Similarly",
+        ],
+        "jawaban" => "As on",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10
+        "soal" => "Alaska found the first years of its statehood costly because it had to take over the expense of services ....... previously by the federal government.",
+        "pilihan" => [
+            "To provide",
+            "Be provided",
+            "Providing",
+            "Provided",
+        ],
+        "jawaban" => "Provided",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11
+        "soal" => "With age, the mineral content of human bones decreases, ....... them more fragile.",
+        "pilihan" => [
+            "Make",
+            "And to make",
+            "Thereby making",
+            "Which it makes",
+        ],
+        "jawaban" => "Thereby making",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12
+        "soal" => "Not until Kentucky’ s Mammoth Cave had been completely explored in 1972.",
+        "pilihan" => [
+            "When was its full extent realized",
+            "That its full extent was realized",
+            "Was its full extent realized",
+            "The realization of its full extent",
+        ],
+        "jawaban" => "Was its full extent realized",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13
+        "soal" => "The first explorer ....... California by land was Jedediah Strong Smith, a trapper who crossed the southwestern deserts of the United States in 1826. ",
+        "pilihan" => [
+            "That he reached",
+            "Reached",
+            "To reach",
+            "Reaching it",
+        ],
+        "jawaban" => "To reach",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14
+        "soal" => "Written to be performed on a ......., Thornton Wilder’ s play Our Town depicts life in a small New England community.",
+        "pilihan" => [
+            "Stage scenery of bare",
+            "Bare of stage scenery",
+            "Scenery bare of stage",
+            "Stage bare of scenery",
+        ],
+        "jawaban" => "Stage bare of scenery",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15
+        "soal" => "....... many copper mines in the state of Arizona, a fact which contributes significantly to the state’ s economy.",
+        "pilihan" => [
+            "They are",
+            "There are",
+            "Of the",
+            "The",
+        ],
+        "jawaban" => "There are",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16
+        "soal" => "Margaret Mead <u>studied</u> many <u>different</u> cultures and she was one <u>of the first</u> anthropologists to photograph <u>hers</u> subjects.",
+        "pilihan" => [
+            "studied",
+            "different",
+            "of the first",
+            "hers",
+        ],
+        "jawaban" => "hers",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17
+        "soal" => "Talc, <u>a</u> soft mineral with a <u>variety</u> of uses, <u>sold is</u> in slabs or in powdered <u>form</u>. ",
+        "pilihan" => [
+            "a",
+            "variety",
+            "sold is",
+            "form",
+        ],
+        "jawaban" => "sold is",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18
+        "soal" => "<u>During</u> the 1870’ s iron workers in Alabama proved they <u>could</u> produce iron by <u>burning</u> iron ore with coke, <u>instead</u> than with charcoal. ",
+        "pilihan" => [
+            "During",
+            "could",
+            "burning",
+            "instead",
+        ],
+        "jawaban" => "instead",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19
+        "soal" => "<u>Geologists</u> at the Hawaiian Volcano Observatory <u>rely</u> on <u>a number</u> of instruments <u>to studying</u> the volcanoes in Hawaii. ",
+        "pilihan" => [
+            "Geologists",
+            "rely",
+            "a number",
+            "to studying",
+        ],
+        "jawaban" => "to studying",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20
+        "soal" => "Underlying aerodynamics and <u>all</u> other <u>branches</u> of theoretical mechanics <u>are</u> the laws of motion <u>who</u> were developed in the seventeenth century. ",
+        "pilihan" => [
+            "all",
+            "branches",
+            "are",
+            "who",
+        ],
+        "jawaban" => "who",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21
+        "soal" => "<u>Was opened</u> in 1918, the Philips Collection <u>in</u> Washington, D.C., was the first museum in the United States <u>devoted</u> to modern <u>art</u>. ",
+        "pilihan" => [
+            "Was opened",
+            "in",
+            "devoted",
+            "art",
+        ],
+        "jawaban" => "Was opened",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22
+        "soal" => "A mortgage <u>enables</u> a person <u>to buy</u> property <u>without</u> paying for it outright; thus more people are able to enjoy <u>to own</u> a house.",
+        "pilihan" => [
+            "enables",
+            "to buy",
+            "without",
+            "to own",
+        ],
+        "jawaban" => "to own",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23
+        "soal" => "<u>Alike</u> ethnographers, ethnohistorians <u>make</u> systemic observations, but they <u>also</u> gather data from documentary and oral <u>sources</u>. ",
+        "pilihan" => [
+            "Alike",
+            "make",
+            "also",
+            "sources",
+        ],
+        "jawaban" => "Alike",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 24
+        "soal" => "Basal body temperature <u>refers</u> to the <u>most lowest</u> temperature of a <u>healthy</u> individual <u>during</u> waking hours. ",
+        "pilihan" => [
+            "refers",
+            "most lowest",
+            "healthy",
+            "during",
+        ],
+        "jawaban" => "most lowest",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25
+        "soal" => "<u>Research</u> in the United States on acupuncture <u>has focused</u> on <u>it</u> use in <u>pain relief</u> and anesthesia.",
+        "pilihan" => [
+            "Research",
+            "has focused",
+            "it",
+            "pain relief",
+        ],
+        "jawaban" => "it",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26
+        "soal" => "The Moon’ s <u>gravitational</u> field <u>cannot</u> keep atmospheric gases <u>from escape</u> into <u>space</u>. ",
+        "pilihan" => [
+            "gravitational",
+            "cannot",
+            "from escape",
+            "space",
+        ],
+        "jawaban" => "from escape",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27
+        "soal" => "<u>Although</u> the pecan tree is chiefly <u>value</u> for its fruit, its wood <u>is used</u> extensively <u>for</u> flooring, furniture, boxes, and crates. ",
+        "pilihan" => [
+            "Although",
+            "value",
+            "is used",
+            "for",
+        ],
+        "jawaban" => "value",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28
+        "soal" => "<u>Born</u> in Texas in 1890, Katherine Anne Porter produced three <u>collection</u> of short <u>stories</u> before <u>publishing</u> her well-known novel <i>Ship of Fools</i> in 1962. ",
+        "pilihan" => [
+            "Born",
+            "collection",
+            "stories",
+            "publishing",
+        ],
+        "jawaban" => "collection",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29
+        "soal" => "Insulation from cold, <u>protect</u> against dust and <u>sand</u>, and camouflage <u>are</u> among the <u>functions</u> of hair for animals. ",
+        "pilihan" => [
+            "protect",
+            "sand",
+            "are",
+            "functions",
+        ],
+        "jawaban" => "protect",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30
+        "soal" => "The notion <u>that</u> students are not sufficiently involved in their education is <u>one reason</u> for the <u>recently</u> surge of <u>support</u> for undergraduate research. ",
+        "pilihan" => [
+            "that",
+            "one reason",
+            "recently",
+            "support",
+        ],
+        "jawaban" => "recently",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31
+        "soal" => "<u>As</u> secretary of transportation from 1975 to 1977, William Coleman worked <u>to help</u> the bankrupt railroads in the northeastern United States <u>solved</u> their <u>financial</u> problems.",
+        "pilihan" => [
+            "As",
+            "to help",
+            "solved",
+            "financial",
+        ],
+        "jawaban" => "solved",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32
+        "soal" => "Faults in the Earth’ s crust are most evidently <u>in</u> sedimentary formations, <u>where</u> they <u>interrupt</u> <u>previously</u> continuous layers. ",
+        "pilihan" => [
+            "in",
+            "where",
+            "interrupt",
+            "previously",
+        ],
+        "jawaban" => "in",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33
+        "soal" => "Many <u>flowering</u> plants benefit <u>of</u> pollination by <u>adult</u> butterflies <u>and</u> moths. ",
+        "pilihan" => [
+            "flowering",
+            "of",
+            "adult",
+            "and",
+        ],
+        "jawaban" => "of",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34
+        "soal" => "A number <u>of</u> the American Indian languages <u>spoken</u> at the <u>time</u> of the European arrival in the New World in the late <u>fifteen</u> century have become extinct.",
+        "pilihan" => [
+            "of",
+            "spoken",
+            "time",
+            "fifteen",
+        ],
+        "jawaban" => "fifteen",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35
+        "soal" => "George Gershwin was an American composer <u>whose</u> concert <u>works joined</u> the sounds of jazz <u>with</u> <u>them</u> of traditional orchestration. ",
+        "pilihan" => [
+            "whose",
+            "works joined",
+            "with",
+            "them",
+        ],
+        "jawaban" => "them",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36
+        "soal" => "<u>One of the problems</u> of United States agriculture that has persisted <u>during the</u> 1920’ s until the present day is the tendency of farm income to lag <u>behind</u> the costs of <u>production</u>. ",
+        "pilihan" => [
+            "One of the problems",
+            "during the",
+            "behind",
+            "production",
+        ],
+        "jawaban" => "during the",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37
+        "soal" => "Volcanism <u>occurs</u> on Earth in several geological <u>setting</u>, most of which are associated with the boundaries of the <u>enormous</u>, rigid plates that <u>make up</u> the lithosphere. ",
+        "pilihan" => [
+            "occurs",
+            "setting",
+            "enormous",
+            "make up",
+        ],
+        "jawaban" => "setting",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38
+        "soal" => "Early European settlers in North America <u>used</u> medicines <u>they</u> made from <u>plants native</u> to treat colds, pneumonia, and ague, <u>an</u> illness similar to malaria. ",
+        "pilihan" => [
+            "used",
+            "they",
+            "plants native",
+            "an",
+        ],
+        "jawaban" => "plants native",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39
+        "soal" => "<u>Some insects</u> bear a remarkable resemblance to dead twigs, <u>being</u> long, <u>slenderness</u>, wingless, and brownish <u>in color</u>. ",
+        "pilihan" => [
+            "Some insects",
+            "being",
+            "slenderness",
+            "in color",
+        ],
+        "jawaban" => "slenderness",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40
+        "soal" => "A food <u>additive</u> is <u>any chemical</u> that food manufacturers <u>intentional</u> add to their <u>products</u>.",
+        "pilihan" => [
+            "additive",
+            "any chemical",
+            "intentional",
+            "products",
+        ],
+        "jawaban" => "intentional",
+    ]
+],

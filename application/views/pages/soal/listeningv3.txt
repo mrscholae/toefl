@@ -1,0 +1,681 @@
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><center><b>SECTION 1</b></center></p>
+        <p><center><b>LISTENING COMPREHENSION</b></center></p>
+        <p><center><b></b></center></p>
+        <p><center><b>Time: Approximately 30 minutes 50 questions</b></center>"</p>
+],
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><center>PART A</center></p>
+        <p><center>In Part A , you will hear short conversations between two speakers. At the end of each conversation, a third voice will ask a question about what was said. The question will be spoken just one time. After you hear a conversation and the question about it, read the four possible anwers and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and mark your answer.</center>"</p>
+],
+
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 1,
+        "pilihan" => [
+            "Go to the movies with the man.",
+            "Take her brother to the movies.",
+            "Eat at her brother's.",
+            "Cook dinner with Lois.",
+        ],
+        "jawaban" => "Eat at her brother's.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 2,
+        "pilihan" => [
+            "The man should have offered his assistance earlier.",
+            "She doesn't need the man's help.",
+            "She didn't realize the boxes were empty.",
+            "She wants the man to move the boxes.",
+        ],
+        "jawaban" => "She doesn't need the man's help.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 3,
+        "pilihan" => [
+            "He'd like to have the windows open.",
+            "He rarely leaves the windows open.",
+            "He thinks the air is polluted.",
+            "He'll help her close the windows.",
+        ],
+        "jawaban" => "He'd like to have the windows open.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 4,
+        "pilihan" => [
+            "The results might be ready tomorrow.",
+            "The man needs another test tomorrow.",
+            "The results were called in last night.",
+            "The doctor called the lab last night.",
+        ],
+        "jawaban" => "The results might be ready tomorrow.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 5,
+        "pilihan" => [
+            "She doesn't remember much about Portland.",
+            "She's never been to Portland.",
+            "She knows someone else who could help him.",
+            "She'd be happy to talk to the man later.",
+        ],
+        "jawaban" => "She doesn't remember much about Portland.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 6,
+        "pilihan" => [
+            "Turn down the volume.",
+            "Help the man study for a test.",
+            "Play a different kind of music",
+            "Speak louder.",
+        ],
+        "jawaban" => "Turn down the volume.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 7,
+        "pilihan" => [
+            "She forgot when the report was due.",
+            "She'd like the man to help her with the report.",
+            "She needs more time to finish the report.",
+            "She hasn't included any data in her report.",
+        ],
+        "jawaban" => "She needs more time to finish the report.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 8,
+        "pilihan" => [
+            "The cat is a lot of trouble.",
+            "The cat is quite friendly.",
+            "He doesn't gel along with Debbie.",
+            "He's glad Debbie gave him the cat.",
+        ],
+        "jawaban" => "The cat is a lot of trouble.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 9,
+        "pilihan" => [
+            "Try to gel a seat next to the window.",
+            "Find another passenger going to Cleveland.",
+            "Ask for information about the departure time.",
+            "Find out if there are any seats led on the bus.",
+        ],
+        "jawaban" => "Ask for information about the departure time.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 10,
+        "pilihan" => [
+            "She forgot to stop at the store.",
+            "The man shouldn't eat the fish.",
+            "The fish is safe to eat.",
+            "The food shouldn’t be reheated.",
+        ],
+        "jawaban" => "The man shouldn't eat the fish.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 11,
+        "pilihan" => [
+            "She won't be able to go with the man.",
+            "She doesn't think Frank is arriving until tomorrow morning.",
+            "She has to pick up Frank at 2:00.",
+            "She doesn't know when her class will end.",
+        ],
+        "jawaban" => "She won't be able to go with the man.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 12,
+        "pilihan" => [
+            "He watched the television program with his mother.",
+            "His mother told him his professor was on television.",
+            "Answering the phone caused him to miss the television program.",
+            "His mother missed the television program.",
+        ],
+        "jawaban" => "His mother told him his professor was on television.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 13,
+        "pilihan" => [
+            "The pool will be open all week.",
+            "The weather will cool down soon.",
+            "The woman should go swimming.",
+            "He prefers to stay inside in hot weather.",
+        ],
+        "jawaban" => "The weather will cool down soon.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 14,
+        "pilihan" => [
+            "He may not have enough time to cook.",
+            "He may spend more money on food next semester.",
+            "He may gain weight if he does his own cooking.",
+            "He may not enjoy cooking.",
+        ],
+        "jawaban" => "He may not have enough time to cook.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 15,
+        "pilihan" => [
+            "He's tired.",
+            "He lost the race.",
+            "He has already been to the top of the hill.",
+            "He prefers doing exercise indoors.",
+        ],
+        "jawaban" => "He's tired.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 16,
+        "pilihan" => [
+            "The doctor only has time on Tuesdays.",
+            "The doctor is busy on Tuesday morning.",
+            "The man must come more than one time.",
+            "The man must arrive on time.",
+        ],
+        "jawaban" => "The doctor is busy on Tuesday morning.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 17,
+        "pilihan" => [
+            "Eat dinner at the cafeteria.",
+            "Find out when the cafeteria opens.",
+            "Meet her in the cafeteria this evening.",
+            "Try to get a job at the cafeteria.",
+        ],
+        "jawaban" => "Try to get a job at the cafeteria.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 18,
+        "pilihan" => [
+            "Drive on through the night.",
+            "Check out of the motel.",
+            "Cancel their motel reservations.",
+            "Stop driving for the rest of the day.",
+        ],
+        "jawaban" => "Stop driving for the rest of the day.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 19,
+        "pilihan" => [
+            "She doesn't want to take the course this semester.",
+            "She thought the class would be easy.",
+            "She will have thirteen credits after she completes the class.",
+            "She's surprised that all the sections are filled.",
+        ],
+        "jawaban" => "She's surprised that all the sections are filled.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 20,
+        "pilihan" => [
+            "She doesn't like to drink coffee.",
+            "She's not upset by the accident.",
+            "The man should apologize.",
+            "The man has spilled coffee on her before.",
+        ],
+        "jawaban" => "The man should apologize.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 21,
+        "pilihan" => [
+            "The man will have to buy a new shirt.",
+            "The shirt looks just like the man's new one.",
+            "The shirt can be repaired easily.",
+            "The man shouldn't put sharp objects in his shirt pocket.",
+        ],
+        "jawaban" => "The shirt can be repaired easily.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 22,
+        "pilihan" => [
+            "The jackets sold out quickly.",
+            "The sale ended yesterday.",
+            "He'll check with the sales clerk.",
+            "The woman might find a jacket on sale.",
+        ],
+        "jawaban" => "The woman might find a jacket on sale.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 23,
+        "pilihan" => [
+            "She likes to drive when she travels.",
+            "She doesn't want to go to Chicago.",
+            "She doesn't know how much the train trip will cost.",
+            "It's cheaper to go to Chicago by car.",
+        ],
+        "jawaban" => "It's cheaper to go to Chicago by car.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 24,
+        "pilihan" => [
+            "The man paid a lot to join the gym.",
+            "The man has been working too hard.",
+            "The man has improved his physical condition.",
+            "The man should ask for more pay.",
+        ],
+        "jawaban" => "The man has improved his physical condition.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 25,
+        "pilihan" => [
+            "She prefers hot weather.",
+            "The man should visit Washington when it's cooler.",
+            "She agrees that going to the beach would have been better.",
+            "Visiting Washington is enjoyable despite the heat.",
+        ],
+        "jawaban" => "Visiting Washington is enjoyable despite the heat.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 26,
+        "pilihan" => [
+            "She'll help the man clean up the spill.",
+            "Timmy should be more careful.",
+            "The man should be more understanding.",
+            "Timmy isn't well behaved for his age.",
+        ],
+        "jawaban" => "The man should be more understanding.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 27,
+        "pilihan" => [
+            "He can meet the woman on Wednesday.",
+            "He won't be ready until next week.",
+            "He's available any day except Wednesday.",
+            "He needs to do the history project before Wednesday.",
+        ],
+        "jawaban" => "He's available any day except Wednesday.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 28,
+        "pilihan" => [
+            "Go to a field hockey practice.",
+            "Try out for the Held hockey team.",
+            "Get tickets to see the championship game.",
+            "Receive an award for winning a championship.",
+        ],
+        "jawaban" => "Go to a field hockey practice.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 29,
+        "pilihan" => [
+            "She wants to check the weather before deciding.",
+            "She has a problem with her hearing.",
+            "She'd enjoy coming to dinner another time.",
+            "She wants the man to help her with some work.",
+        ],
+        "jawaban" => "She'd enjoy coming to dinner another time.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 30,
+        "pilihan" => [
+            "The back of the drawer has fallen off.",
+            "The man doesn't have any soap.",
+            "The cabinet is too heavy to move.",
+            "Something is blocking the back of the drawer.",
+        ],
+        "jawaban" => "Something is blocking the back of the drawer.",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><center>PART B</center></p?
+        <p><center>DIRECTION</center></p?
+        <p>In Part B, you will hear longer conversation, after each conversation, you will be asked some question. The conversation and question will be spoken just one time. They will not be written out for you, so you will have to listen carefully in order to understand and remember what the speakers says.</p>
+        <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have chosen.</p>"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 31,
+        "pilihan" => [
+            "There aren't enough cabinets.",
+            "There is too much noise.",
+            "Office supplies are taking up space.",
+            "Some teaching assistants don't have desks.",
+        ],
+        "jawaban" => "There is too much noise.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 32,
+        "pilihan" => [
+            "To chat with Jack socially.",
+            "To get help in the course.",
+            "To hand in their assignments.",
+            "To practice giving interviews.",
+        ],
+        "jawaban" => "To get help in the course.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 33,
+        "pilihan" => [
+            "Give Jack a different office.",
+            "Complain to the department head.",
+            "Move the supplies to the storage room.",
+            "Try to get a room to use for meetings.",
+        ],
+        "jawaban" => "Try to get a room to use for meetings.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 34,
+        "pilihan" => [
+            "They'd have to get permission.",
+            "Jack wouldn't like it.",
+            "She thinks it might work.",
+            "The other assistants should be consulted.",
+        ],
+        "jawaban" => "She thinks it might work.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 35,
+        "pilihan" => [
+            "Mating habits or squid and octopus.",
+            "The evolution of certain forms of sea life.",
+            "The study of marine shells.",
+            "Survival skills of sea creatures.",
+        ],
+        "jawaban" => "The evolution of certain forms of sea life.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 36,
+        "pilihan" => [
+            "He didn't understand the lecture.",
+            "He wants to borrow her notes next week.",
+            "He needs help with a makeup exam.",
+            "He was sick and unable to attend.",
+        ],
+        "jawaban" => "He was sick and unable to attend.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 37,
+        "pilihan" => [
+            "Some sea creatures developed vertebrae.",
+            "The first giant squid was captured.",
+            "Some sea creatures shed their shells.",
+            "Sea life became more intelligent.",
+        ],
+        "jawaban" => "The first giant squid was captured.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 38,
+        "pilihan" => [
+            "She has always believed they exist.",
+            "She heard about them in New Zealand.",
+            "Stories about them may be based on giant squid.",
+            "The instructor mentioned them in the lecture.",
+        ],
+        "jawaban" => "She heard about them in New Zealand.",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><center><b>PART C</b></center></p>
+        <p><center><b>DIRECTION</b></center></p>
+        <p>In Part C, You will hear several talks. After each talk, you will be asked some questions. The talks and questions will be spoken just one time. They will not be written out for you, so you will have to listen carefully in order to understand and remember what the speaker says.</p>
+        <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have choosen.</p>"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 39,
+        "pilihan" => [
+            "To explain a new requirement for graduation.",
+            "To interest students in a community service project.",
+            "To discuss the problems of elementary school students.",
+            "To recruit elementary school teachers for a special program.",
+        ],
+        "jawaban" => "To recruit elementary school teachers for a special program.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 40,
+        "pilihan" => [
+            "To Find jobs for graduating students.",
+            "To help education majors prepare for final exams.",
+            "To offer tutorials to elementary school students.",
+            "To provide funding for a community service project.",
+        ],
+        "jawaban" => "To offer tutorials to elementary school students.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 41,
+        "pilihan" => [
+            "He advises students participating in a special program.",
+            "He teaches part-time in an elementary school.",
+            "He observes elementary school students in the classroom.",
+            "He helps students prepare their resumes.",
+        ],
+        "jawaban" => "He advises students participating in a special program.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 42,
+        "pilihan" => [
+            "Contact the elementary school.",
+            "Sign up for a special class.",
+            "Submit a resume to the dean.",
+            "Talk to Professor Dodge.",
+        ],
+        "jawaban" => "Talk to Professor Dodge.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 43,
+        "pilihan" => [
+            "To prepare students for the next reading assignment.",
+            "To provide background information for a class discussion.",
+            "To review material from a previous lesson.",
+            "To prepare for a quiz on chapter six.",
+        ],
+        "jawaban" => "To provide background information for a class discussion.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 44,
+        "pilihan" => [
+            "Insurance companies.",
+            "Sailors.",
+            "Manufacturers.",
+            "Merchants.",
+        ],
+        "jawaban" => "Merchants.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 45,
+        "pilihan" => [
+            "The distance the merchandise had to be shipped.",
+            "The number of insurance companies available at the time.",
+            "The amount of danger involved in shipping the goods.",
+            "The type of vessel used to transport the goods.",
+        ],
+        "jawaban" => "The amount of danger involved in shipping the goods.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 46,
+        "pilihan" => [
+            "Only four types of policies still exist today.",
+            "They are cheaper than the ones in the Middle Ages.",
+            "They include features similar to earlier policies.",
+            "The interest rates are based on early methods of calculation.",
+        ],
+        "jawaban" => "They include features similar to earlier policies.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 47,
+        "pilihan" => [
+            "The oxygen level in the water.",
+            "The angle of the treadmill.",
+            "The weights on the divers.",
+            "The temperature of the water.",
+        ],
+        "jawaban" => "The weights on the divers.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 48,
+        "pilihan" => [
+            "Walking on Mars will be easier than walking on the Moon.",
+            "There is more gravity on the Moon than on Mars.",
+            "Walking quickly will be difficult on Mars.",
+            "Astronauts on Mars will require more oxygen than will astronauts on the Moon.",
+        ],
+        "jawaban" => "Walking on Mars will be easier than walking on the Moon.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 49,
+        "pilihan" => [
+            "They look short, quick steps.",
+            "They were pulled off of the treadmill.",
+            "They lost their balance.",
+            "hey look longer, coordinated steps.",
+        ],
+        "jawaban" => "hey look longer, coordinated steps.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => 50,
+        "pilihan" => [
+            "Martian suits will have larger air tanks.",
+            "Martian suits will be equipped with special weights.",
+            "Martian suits will be more flexible.",
+            "Martian suits will be less durable.",
+        ],
+        "jawaban" => "Martian suits will be more flexible.",
+    ]
+],

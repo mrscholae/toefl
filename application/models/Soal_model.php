@@ -4241,6 +4241,2132 @@ class Soal_model extends CI_Model {
         return $data;
     }
 
+    public function get_soal_listeningv3(){
+        $data = [
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><center><b>SECTION 1</b></center></p>
+                    <p><center><b>LISTENING COMPREHENSION</b></center></p>
+                    <p><center><b></b></center></p>
+                    <p><center><b>Time: Approximately 30 minutes 50 questions</b></center></p>"
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><center>PART A</center></p>
+                    <p><center>In Part A , you will hear short conversations between two speakers. At the end of each conversation, a third voice will ask a question about what was said. The question will be spoken just one time. After you hear a conversation and the question about it, read the four possible anwers and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and mark your answer.</center></p>"
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 1-5.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 1,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Go to the movies with the man.",
+                        "Take her brother to the movies.",
+                        "Eat at her brother's.",
+                        "Cook dinner with Lois.",
+                    ],
+                    "jawaban" => "Eat at her brother's.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 2,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The man should have offered his assistance earlier.",
+                        "She doesn't need the man's help.",
+                        "She didn't realize the boxes were empty.",
+                        "She wants the man to move the boxes.",
+                    ],
+                    "jawaban" => "She doesn't need the man's help.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 3,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He'd like to have the windows open.",
+                        "He rarely leaves the windows open.",
+                        "He thinks the air is polluted.",
+                        "He'll help her close the windows.",
+                    ],
+                    "jawaban" => "He'd like to have the windows open.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 4,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The results might be ready tomorrow.",
+                        "The man needs another test tomorrow.",
+                        "The results were called in last night.",
+                        "The doctor called the lab last night.",
+                    ],
+                    "jawaban" => "The results might be ready tomorrow.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 5,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She doesn't remember much about Portland.",
+                        "She's never been to Portland.",
+                        "She knows someone else who could help him.",
+                        "She'd be happy to talk to the man later.",
+                    ],
+                    "jawaban" => "She doesn't remember much about Portland.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 6-10.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 6,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Turn down the volume.",
+                        "Help the man study for a test.",
+                        "Play a different kind of music",
+                        "Speak louder.",
+                    ],
+                    "jawaban" => "Turn down the volume.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 7,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She forgot when the report was due.",
+                        "She'd like the man to help her with the report.",
+                        "She needs more time to finish the report.",
+                        "She hasn't included any data in her report.",
+                    ],
+                    "jawaban" => "She needs more time to finish the report.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 8,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The cat is a lot of trouble.",
+                        "The cat is quite friendly.",
+                        "He doesn't gel along with Debbie.",
+                        "He's glad Debbie gave him the cat.",
+                    ],
+                    "jawaban" => "The cat is a lot of trouble.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 9,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Try to gel a seat next to the window.",
+                        "Find another passenger going to Cleveland.",
+                        "Ask for information about the departure time.",
+                        "Find out if there are any seats led on the bus.",
+                    ],
+                    "jawaban" => "Ask for information about the departure time.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 10,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She forgot to stop at the store.",
+                        "The man shouldn't eat the fish.",
+                        "The fish is safe to eat.",
+                        "The food shouldn’t be reheated.",
+                    ],
+                    "jawaban" => "The man shouldn't eat the fish.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 11-15.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 11,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She won't be able to go with the man.",
+                        "She doesn't think Frank is arriving until tomorrow morning.",
+                        "She has to pick up Frank at 2:00.",
+                        "She doesn't know when her class will end.",
+                    ],
+                    "jawaban" => "She won't be able to go with the man.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 12,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He watched the television program with his mother.",
+                        "His mother told him his professor was on television.",
+                        "Answering the phone caused him to miss the television program.",
+                        "His mother missed the television program.",
+                    ],
+                    "jawaban" => "His mother told him his professor was on television.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 13,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The pool will be open all week.",
+                        "The weather will cool down soon.",
+                        "The woman should go swimming.",
+                        "He prefers to stay inside in hot weather.",
+                    ],
+                    "jawaban" => "The weather will cool down soon.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 14,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He may not have enough time to cook.",
+                        "He may spend more money on food next semester.",
+                        "He may gain weight if he does his own cooking.",
+                        "He may not enjoy cooking.",
+                    ],
+                    "jawaban" => "He may not have enough time to cook.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 15,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He's tired.",
+                        "He lost the race.",
+                        "He has already been to the top of the hill.",
+                        "He prefers doing exercise indoors.",
+                    ],
+                    "jawaban" => "He's tired.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 16-20.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 16,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The doctor only has time on Tuesdays.",
+                        "The doctor is busy on Tuesday morning.",
+                        "The man must come more than one time.",
+                        "The man must arrive on time.",
+                    ],
+                    "jawaban" => "The doctor is busy on Tuesday morning.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 17,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Eat dinner at the cafeteria.",
+                        "Find out when the cafeteria opens.",
+                        "Meet her in the cafeteria this evening.",
+                        "Try to get a job at the cafeteria.",
+                    ],
+                    "jawaban" => "Try to get a job at the cafeteria.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 18,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Drive on through the night.",
+                        "Check out of the motel.",
+                        "Cancel their motel reservations.",
+                        "Stop driving for the rest of the day.",
+                    ],
+                    "jawaban" => "Stop driving for the rest of the day.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 19,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She doesn't want to take the course this semester.",
+                        "She thought the class would be easy.",
+                        "She will have thirteen credits after she completes the class.",
+                        "She's surprised that all the sections are filled.",
+                    ],
+                    "jawaban" => "She's surprised that all the sections are filled.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 20,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She doesn't like to drink coffee.",
+                        "She's not upset by the accident.",
+                        "The man should apologize.",
+                        "The man has spilled coffee on her before.",
+                    ],
+                    "jawaban" => "The man should apologize.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 21-25.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 21,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The man will have to buy a new shirt.",
+                        "The shirt looks just like the man's new one.",
+                        "The shirt can be repaired easily.",
+                        "The man shouldn't put sharp objects in his shirt pocket.",
+                    ],
+                    "jawaban" => "The shirt can be repaired easily.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 22,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The jackets sold out quickly.",
+                        "The sale ended yesterday.",
+                        "He'll check with the sales clerk.",
+                        "The woman might find a jacket on sale.",
+                    ],
+                    "jawaban" => "The woman might find a jacket on sale.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 23,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She likes to drive when she travels.",
+                        "She doesn't want to go to Chicago.",
+                        "She doesn't know how much the train trip will cost.",
+                        "It's cheaper to go to Chicago by car.",
+                    ],
+                    "jawaban" => "It's cheaper to go to Chicago by car.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 24,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The man paid a lot to join the gym.",
+                        "The man has been working too hard.",
+                        "The man has improved his physical condition.",
+                        "The man should ask for more pay.",
+                    ],
+                    "jawaban" => "The man has improved his physical condition.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 25,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She prefers hot weather.",
+                        "The man should visit Washington when it's cooler.",
+                        "She agrees that going to the beach would have been better.",
+                        "Visiting Washington is enjoyable despite the heat.",
+                    ],
+                    "jawaban" => "Visiting Washington is enjoyable despite the heat.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 26-30.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 26,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She'll help the man clean up the spill.",
+                        "Timmy should be more careful.",
+                        "The man should be more understanding.",
+                        "Timmy isn't well behaved for his age.",
+                    ],
+                    "jawaban" => "The man should be more understanding.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 27,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He can meet the woman on Wednesday.",
+                        "He won't be ready until next week.",
+                        "He's available any day except Wednesday.",
+                        "He needs to do the history project before Wednesday.",
+                    ],
+                    "jawaban" => "He's available any day except Wednesday.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 28,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Go to a field hockey practice.",
+                        "Try out for the Held hockey team.",
+                        "Get tickets to see the championship game.",
+                        "Receive an award for winning a championship.",
+                    ],
+                    "jawaban" => "Go to a field hockey practice.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 29,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She wants to check the weather before deciding.",
+                        "She has a problem with her hearing.",
+                        "She'd enjoy coming to dinner another time.",
+                        "She wants the man to help her with some work.",
+                    ],
+                    "jawaban" => "She'd enjoy coming to dinner another time.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 30,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The back of the drawer has fallen off.",
+                        "The man doesn't have any soap.",
+                        "The cabinet is too heavy to move.",
+                        "Something is blocking the back of the drawer.",
+                    ],
+                    "jawaban" => "Something is blocking the back of the drawer.",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><center>PART B</center></p?
+                    <p><center>DIRECTION</center></p?
+                    <p>In Part B, you will hear longer conversation, after each conversation, you will be asked some question. The conversation and question will be spoken just one time. They will not be written out for you, so you will have to listen carefully in order to understand and remember what the speakers says.</p>
+                    <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have chosen.</p>"
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 31-34.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 31,
+                    "soal" => "",
+                    "pilihan" => [
+                        "There aren't enough cabinets.",
+                        "There is too much noise.",
+                        "Office supplies are taking up space.",
+                        "Some teaching assistants don't have desks.",
+                    ],
+                    "jawaban" => "There is too much noise.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 32,
+                    "soal" => "",
+                    "pilihan" => [
+                        "To chat with Jack socially.",
+                        "To get help in the course.",
+                        "To hand in their assignments.",
+                        "To practice giving interviews.",
+                    ],
+                    "jawaban" => "To get help in the course.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 33,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Give Jack a different office.",
+                        "Complain to the department head.",
+                        "Move the supplies to the storage room.",
+                        "Try to get a room to use for meetings.",
+                    ],
+                    "jawaban" => "Try to get a room to use for meetings.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 34,
+                    "soal" => "",
+                    "pilihan" => [
+                        "They'd have to get permission.",
+                        "Jack wouldn't like it.",
+                        "She thinks it might work.",
+                        "The other assistants should be consulted.",
+                    ],
+                    "jawaban" => "She thinks it might work.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 35-38.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 35,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Mating habits or squid and octopus.",
+                        "The evolution of certain forms of sea life.",
+                        "The study of marine shells.",
+                        "Survival skills of sea creatures.",
+                    ],
+                    "jawaban" => "The evolution of certain forms of sea life.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 36,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He didn't understand the lecture.",
+                        "He wants to borrow her notes next week.",
+                        "He needs help with a makeup exam.",
+                        "He was sick and unable to attend.",
+                    ],
+                    "jawaban" => "He was sick and unable to attend.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 37,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Some sea creatures developed vertebrae.",
+                        "The first giant squid was captured.",
+                        "Some sea creatures shed their shells.",
+                        "Sea life became more intelligent.",
+                    ],
+                    "jawaban" => "The first giant squid was captured.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 38,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She has always believed they exist.",
+                        "She heard about them in New Zealand.",
+                        "Stories about them may be based on giant squid.",
+                        "The instructor mentioned them in the lecture.",
+                    ],
+                    "jawaban" => "She heard about them in New Zealand.",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><center><b>PART C</b></center></p>
+                    <p><center><b>DIRECTION</b></center></p>
+                    <p>In Part C, You will hear several talks. After each talk, you will be asked some questions. The talks and questions will be spoken just one time. They will not be written out for you, so you will have to listen carefully in order to understand and remember what the speaker says.</p>
+                    <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have choosen.</p>"
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 39-42.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 39,
+                    "soal" => "",
+                    "pilihan" => [
+                        "To explain a new requirement for graduation.",
+                        "To interest students in a community service project.",
+                        "To discuss the problems of elementary school students.",
+                        "To recruit elementary school teachers for a special program.",
+                    ],
+                    "jawaban" => "To recruit elementary school teachers for a special program.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 40,
+                    "soal" => "",
+                    "pilihan" => [
+                        "To Find jobs for graduating students.",
+                        "To help education majors prepare for final exams.",
+                        "To offer tutorials to elementary school students.",
+                        "To provide funding for a community service project.",
+                    ],
+                    "jawaban" => "To offer tutorials to elementary school students.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 41,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He advises students participating in a special program.",
+                        "He teaches part-time in an elementary school.",
+                        "He observes elementary school students in the classroom.",
+                        "He helps students prepare their resumes.",
+                    ],
+                    "jawaban" => "He advises students participating in a special program.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 42,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Contact the elementary school.",
+                        "Sign up for a special class.",
+                        "Submit a resume to the dean.",
+                        "Talk to Professor Dodge.",
+                    ],
+                    "jawaban" => "Talk to Professor Dodge.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 43-46.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 43,
+                    "soal" => "",
+                    "pilihan" => [
+                        "To prepare students for the next reading assignment.",
+                        "To provide background information for a class discussion.",
+                        "To review material from a previous lesson.",
+                        "To prepare for a quiz on chapter six.",
+                    ],
+                    "jawaban" => "To provide background information for a class discussion.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 44,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Insurance companies.",
+                        "Sailors.",
+                        "Manufacturers.",
+                        "Merchants.",
+                    ],
+                    "jawaban" => "Merchants.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 45,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The distance the merchandise had to be shipped.",
+                        "The number of insurance companies available at the time.",
+                        "The amount of danger involved in shipping the goods.",
+                        "The type of vessel used to transport the goods.",
+                    ],
+                    "jawaban" => "The amount of danger involved in shipping the goods.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 46,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Only four types of policies still exist today.",
+                        "They are cheaper than the ones in the Middle Ages.",
+                        "They include features similar to earlier policies.",
+                        "The interest rates are based on early methods of calculation.",
+                    ],
+                    "jawaban" => "They include features similar to earlier policies.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v3 47-50.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 47,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The oxygen level in the water.",
+                        "The angle of the treadmill.",
+                        "The weights on the divers.",
+                        "The temperature of the water.",
+                    ],
+                    "jawaban" => "The weights on the divers.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 48,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Walking on Mars will be easier than walking on the Moon.",
+                        "There is more gravity on the Moon than on Mars.",
+                        "Walking quickly will be difficult on Mars.",
+                        "Astronauts on Mars will require more oxygen than will astronauts on the Moon.",
+                    ],
+                    "jawaban" => "Walking on Mars will be easier than walking on the Moon.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 49,
+                    "soal" => "",
+                    "pilihan" => [
+                        "They look short, quick steps.",
+                        "They were pulled off of the treadmill.",
+                        "They lost their balance.",
+                        "hey look longer, coordinated steps.",
+                    ],
+                    "jawaban" => "hey look longer, coordinated steps.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 50,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Martian suits will have larger air tanks.",
+                        "Martian suits will be equipped with special weights.",
+                        "Martian suits will be more flexible.",
+                        "Martian suits will be less durable.",
+                    ],
+                    "jawaban" => "Martian suits will be more flexible.",
+                ]
+            ],
+        ];
+
+        return $data;
+    }
+    
+    public function get_soal_structurev3(){
+        $data = [
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><center>SECTION 2</center></p>
+                    <p><center>STRUCTURE AND WRITTEN EXPRESSION</center></p>
+                    <p><center>Time: 30 minutes</center></p>
+                    <p><center>40 questions</center></p>"
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p>DIRECTIONS</p>
+                    <p>Questions number 1-15 are incomplete sentences. Beneath each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Choose the one word of phrase that best complets the sentence. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Fill in the space so that the letter inside the oval cannot be seen.</p>"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 1,
+                    "soal" => "The ponderosa pine is ....... of the most of the timber used by forest- product firms in the Black Hills of South Dakota.",
+                    "pilihan" => [
+                        "The source",
+                        "As source",
+                        "The source which",
+                        "Because the source",
+                    ],
+                    "jawaban" => "The source",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 2,
+                    "soal" => "Computers that once took up entire rooms are now ....... to put on desktops and into wristwatches.",
+                    "pilihan" => [
+                        "Small enough",
+                        "Smaller than",
+                        "So small",
+                        "As small as",
+                    ],
+                    "jawaban" => "Small enough",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 3,
+                    "soal" => "According to some educators, the goal of teaching is to help students learn what ....... to know to live a well-adjusted and successful life. ",
+                    "pilihan" => [
+                        "Do they need",
+                        "They need",
+                        "They are needed",
+                        "As they may need",
+                    ],
+                    "jawaban" => "They need",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 4,
+                    "soal" => "The sapphire’ s transparency to ultraviolet and infrared radiation makes ....... in optical instruments.",
+                    "pilihan" => [
+                        "It is of use",
+                        "It uses",
+                        "It a useful",
+                        "It useful",
+                    ],
+                    "jawaban" => "It useful",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 5,
+                    "soal" => "....... initial recognition while still quite young.",
+                    "pilihan" => [
+                        "Most famous scientists achieve ",
+                        "That most famous scientists achieved",
+                        "Most famous scientists who achieved",
+                        "For most famous scientists to achieve",
+                    ],
+                    "jawaban" => "Most famous scientists achieve ",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 6,
+                    "soal" => "Mango trees, ....... densely covered with glossy leaves and bear small fragrant flowers, grow rapidly and can attain heights of up to 90 feet.",
+                    "pilihan" => [
+                        "whose",
+                        "which are",
+                        "are when",
+                        "Which",
+                    ],
+                    "jawaban" => "which are",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 7,
+                    "soal" => " ....... the Canadian composer Barbara Pentland wrote four symphonies, three concertos, and an opera, among other works.",
+                    "pilihan" => [
+                        "An artist who, prolific",
+                        "Is a prolific artist",
+                        "Prolific an artist",
+                        "A prolific artist",
+                    ],
+                    "jawaban" => "A prolific artist",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 8,
+                    "soal" => "The Chisos Mountains in Big Bend National park in Texas were created by volcanic eruptions that occurred ........",
+                    "pilihan" => [
+                        "The area in which dinosaurs roamed",
+                        "When dinosaurs roamed the area",
+                        "Did dinosaurs roam the area",
+                        "Dinosaurs roaming the area",
+                    ],
+                    "jawaban" => "When dinosaurs roamed the area",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 9,
+                    "soal" => "In bas-relief sculpture, a design projects very slightly from its background, ....... some coins.",
+                    "pilihan" => [
+                        "As on",
+                        "Because",
+                        "The way that",
+                        "Similarly",
+                    ],
+                    "jawaban" => "As on",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 10,
+                    "soal" => "Alaska found the first years of its statehood costly because it had to take over the expense of services ....... previously by the federal government.",
+                    "pilihan" => [
+                        "To provide",
+                        "Be provided",
+                        "Providing",
+                        "Provided",
+                    ],
+                    "jawaban" => "Provided",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 11,
+                    "soal" => "With age, the mineral content of human bones decreases, ....... them more fragile.",
+                    "pilihan" => [
+                        "Make",
+                        "And to make",
+                        "Thereby making",
+                        "Which it makes",
+                    ],
+                    "jawaban" => "Thereby making",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 12,
+                    "soal" => "Not until Kentucky’ s Mammoth Cave had been completely explored in 1972.",
+                    "pilihan" => [
+                        "When was its full extent realized",
+                        "That its full extent was realized",
+                        "Was its full extent realized",
+                        "The realization of its full extent",
+                    ],
+                    "jawaban" => "Was its full extent realized",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 13,
+                    "soal" => "The first explorer ....... California by land was Jedediah Strong Smith, a trapper who crossed the southwestern deserts of the United States in 1826. ",
+                    "pilihan" => [
+                        "That he reached",
+                        "Reached",
+                        "To reach",
+                        "Reaching it",
+                    ],
+                    "jawaban" => "To reach",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 14,
+                    "soal" => "Written to be performed on a ......., Thornton Wilder’ s play Our Town depicts life in a small New England community.",
+                    "pilihan" => [
+                        "Stage scenery of bare",
+                        "Bare of stage scenery",
+                        "Scenery bare of stage",
+                        "Stage bare of scenery",
+                    ],
+                    "jawaban" => "Stage bare of scenery",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 15,
+                    "soal" => "....... many copper mines in the state of Arizona, a fact which contributes significantly to the state’ s economy.",
+                    "pilihan" => [
+                        "They are",
+                        "There are",
+                        "Of the",
+                        "The",
+                    ],
+                    "jawaban" => "There are",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 16,
+                    "soal" => "Margaret Mead <u>studied</u> many <u>different</u> cultures and she was one <u>of the first</u> anthropologists to photograph <u>hers</u> subjects.",
+                    "pilihan" => [
+                        "studied",
+                        "different",
+                        "of the first",
+                        "hers",
+                    ],
+                    "jawaban" => "hers",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 17,
+                    "soal" => "Talc, <u>a</u> soft mineral with a <u>variety</u> of uses, <u>sold is</u> in slabs or in powdered <u>form</u>. ",
+                    "pilihan" => [
+                        "a",
+                        "variety",
+                        "sold is",
+                        "form",
+                    ],
+                    "jawaban" => "sold is",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 18,
+                    "soal" => "<u>During</u> the 1870’ s iron workers in Alabama proved they <u>could</u> produce iron by <u>burning</u> iron ore with coke, <u>instead</u> than with charcoal. ",
+                    "pilihan" => [
+                        "During",
+                        "could",
+                        "burning",
+                        "instead",
+                    ],
+                    "jawaban" => "instead",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 19,
+                    "soal" => "<u>Geologists</u> at the Hawaiian Volcano Observatory <u>rely</u> on <u>a number</u> of instruments <u>to studying</u> the volcanoes in Hawaii. ",
+                    "pilihan" => [
+                        "Geologists",
+                        "rely",
+                        "a number",
+                        "to studying",
+                    ],
+                    "jawaban" => "to studying",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 20,
+                    "soal" => "Underlying aerodynamics and <u>all</u> other <u>branches</u> of theoretical mechanics <u>are</u> the laws of motion <u>who</u> were developed in the seventeenth century. ",
+                    "pilihan" => [
+                        "all",
+                        "branches",
+                        "are",
+                        "who",
+                    ],
+                    "jawaban" => "who",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 21,
+                    "soal" => "<u>Was opened</u> in 1918, the Philips Collection <u>in</u> Washington, D.C., was the first museum in the United States <u>devoted</u> to modern <u>art</u>. ",
+                    "pilihan" => [
+                        "Was opened",
+                        "in",
+                        "devoted",
+                        "art",
+                    ],
+                    "jawaban" => "Was opened",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 22,
+                    "soal" => "A mortgage <u>enables</u> a person <u>to buy</u> property <u>without</u> paying for it outright; thus more people are able to enjoy <u>to own</u> a house.",
+                    "pilihan" => [
+                        "enables",
+                        "to buy",
+                        "without",
+                        "to own",
+                    ],
+                    "jawaban" => "to own",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 23,
+                    "soal" => "<u>Alike</u> ethnographers, ethnohistorians <u>make</u> systemic observations, but they <u>also</u> gather data from documentary and oral <u>sources</u>. ",
+                    "pilihan" => [
+                        "Alike",
+                        "make",
+                        "also",
+                        "sources",
+                    ],
+                    "jawaban" => "Alike",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 24,
+                    "soal" => "Basal body temperature <u>refers</u> to the <u>most lowest</u> temperature of a <u>healthy</u> individual <u>during</u> waking hours. ",
+                    "pilihan" => [
+                        "refers",
+                        "most lowest",
+                        "healthy",
+                        "during",
+                    ],
+                    "jawaban" => "most lowest",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 25,
+                    "soal" => "<u>Research</u> in the United States on acupuncture <u>has focused</u> on <u>it</u> use in <u>pain relief</u> and anesthesia.",
+                    "pilihan" => [
+                        "Research",
+                        "has focused",
+                        "it",
+                        "pain relief",
+                    ],
+                    "jawaban" => "it",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 26,
+                    "soal" => "The Moon’ s <u>gravitational</u> field <u>cannot</u> keep atmospheric gases <u>from escape</u> into <u>space</u>. ",
+                    "pilihan" => [
+                        "gravitational",
+                        "cannot",
+                        "from escape",
+                        "space",
+                    ],
+                    "jawaban" => "from escape",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 27,
+                    "soal" => "<u>Although</u> the pecan tree is chiefly <u>value</u> for its fruit, its wood <u>is used</u> extensively <u>for</u> flooring, furniture, boxes, and crates. ",
+                    "pilihan" => [
+                        "Although",
+                        "value",
+                        "is used",
+                        "for",
+                    ],
+                    "jawaban" => "value",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 28,
+                    "soal" => "<u>Born</u> in Texas in 1890, Katherine Anne Porter produced three <u>collection</u> of short <u>stories</u> before <u>publishing</u> her well-known novel <i>Ship of Fools</i> in 1962. ",
+                    "pilihan" => [
+                        "Born",
+                        "collection",
+                        "stories",
+                        "publishing",
+                    ],
+                    "jawaban" => "collection",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 29,
+                    "soal" => "Insulation from cold, <u>protect</u> against dust and <u>sand</u>, and camouflage <u>are</u> among the <u>functions</u> of hair for animals. ",
+                    "pilihan" => [
+                        "protect",
+                        "sand",
+                        "are",
+                        "functions",
+                    ],
+                    "jawaban" => "protect",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 30,
+                    "soal" => "The notion <u>that</u> students are not sufficiently involved in their education is <u>one reason</u> for the <u>recently</u> surge of <u>support</u> for undergraduate research. ",
+                    "pilihan" => [
+                        "that",
+                        "one reason",
+                        "recently",
+                        "support",
+                    ],
+                    "jawaban" => "recently",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 31,
+                    "soal" => "<u>As</u> secretary of transportation from 1975 to 1977, William Coleman worked <u>to help</u> the bankrupt railroads in the northeastern United States <u>solved</u> their <u>financial</u> problems.",
+                    "pilihan" => [
+                        "As",
+                        "to help",
+                        "solved",
+                        "financial",
+                    ],
+                    "jawaban" => "solved",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 32,
+                    "soal" => "Faults in the Earth’ s crust are most evidently <u>in</u> sedimentary formations, <u>where</u> they <u>interrupt</u> <u>previously</u> continuous layers. ",
+                    "pilihan" => [
+                        "in",
+                        "where",
+                        "interrupt",
+                        "previously",
+                    ],
+                    "jawaban" => "in",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 33,
+                    "soal" => "Many <u>flowering</u> plants benefit <u>of</u> pollination by <u>adult</u> butterflies <u>and</u> moths. ",
+                    "pilihan" => [
+                        "flowering",
+                        "of",
+                        "adult",
+                        "and",
+                    ],
+                    "jawaban" => "of",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 34,
+                    "soal" => "A number <u>of</u> the American Indian languages <u>spoken</u> at the <u>time</u> of the European arrival in the New World in the late <u>fifteen</u> century have become extinct.",
+                    "pilihan" => [
+                        "of",
+                        "spoken",
+                        "time",
+                        "fifteen",
+                    ],
+                    "jawaban" => "fifteen",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 35,
+                    "soal" => "George Gershwin was an American composer <u>whose</u> concert <u>works joined</u> the sounds of jazz <u>with</u> <u>them</u> of traditional orchestration. ",
+                    "pilihan" => [
+                        "whose",
+                        "works joined",
+                        "with",
+                        "them",
+                    ],
+                    "jawaban" => "them",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 36,
+                    "soal" => "<u>One of the problems</u> of United States agriculture that has persisted <u>during the</u> 1920’ s until the present day is the tendency of farm income to lag <u>behind</u> the costs of <u>production</u>. ",
+                    "pilihan" => [
+                        "One of the problems",
+                        "during the",
+                        "behind",
+                        "production",
+                    ],
+                    "jawaban" => "during the",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 37,
+                    "soal" => "Volcanism <u>occurs</u> on Earth in several geological <u>setting</u>, most of which are associated with the boundaries of the <u>enormous</u>, rigid plates that <u>make up</u> the lithosphere. ",
+                    "pilihan" => [
+                        "occurs",
+                        "setting",
+                        "enormous",
+                        "make up",
+                    ],
+                    "jawaban" => "setting",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 38,
+                    "soal" => "Early European settlers in North America <u>used</u> medicines <u>they</u> made from <u>plants native</u> to treat colds, pneumonia, and ague, <u>an</u> illness similar to malaria. ",
+                    "pilihan" => [
+                        "used",
+                        "they",
+                        "plants native",
+                        "an",
+                    ],
+                    "jawaban" => "plants native",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 39,
+                    "soal" => "<u>Some insects</u> bear a remarkable resemblance to dead twigs, <u>being</u> long, <u>slenderness</u>, wingless, and brownish <u>in color</u>. ",
+                    "pilihan" => [
+                        "Some insects",
+                        "being",
+                        "slenderness",
+                        "in color",
+                    ],
+                    "jawaban" => "slenderness",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 40,
+                    "soal" => "A food <u>additive</u> is <u>any chemical</u> that food manufacturers <u>intentional</u> add to their <u>products</u>.",
+                    "pilihan" => [
+                        "additive",
+                        "any chemical",
+                        "intentional",
+                        "products",
+                    ],
+                    "jawaban" => "intentional",
+                ]
+            ],
+        ];
+
+        return $data;
+    }
+
+    public function get_soal_readingv3(){
+        $data = [
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><center><b>SECTION 3</b></center></p>
+                    <p><center><b>READING COMPREHENSION</b></center></p>
+                    <p><center><b>Time : 60 Minutes</b></center></p>
+                    <p><center><b>50 Questions</b></center></p>"
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p>DIRECTIONS</p>
+                    <p>In this section, you will read a number of passages. Each one is followed by approximately ten questions about it. For 1-50, chose the one best answer, (A), (B), (C), and (D), to each question. Then, find the number of the question on your answer sheet, and fill in the space that corresponds to the letter of the answer you have choosen. Answer all of the questions following a passage on the basis of what is stated in that passage.</p>"
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><b>Question 1- 8</b></p>
+                    <p>With Robert Laurent and William Zorach, direct carving enters into the story of modem sculpture in the United States. Direct carving – in which the sculptors themselves carve stone or wood with mallet and chisel – must be recognized as something more than just a technique. Implicit in it is an aesthetic principle as well: that the <b>(1) medium</b> has certain qualities of beauty and expressiveness with which sculptors must bring their own aesthetic sensibilities into harmony. For example, sometimes the shape or veining in a piece of stone or wood suggests, perhaps even <b>(3) dictates</b>, not only the ultimate form, but even the subject matter. The technique of direct carving was a break with the nineteenth-century tradition in which the making of a clay model was considered the creative act and the work was then turned over to studio assistants to be cast in plaster or bronze or carved in marble. Neoclassical sculptors seldom held a mallet or chisel in their own hands, readily conceding that the assistants they employed were far better than they were at carving the finished marble.</p>
+                    <p>With the turn-of-the-century Crafts movement and the discovery of nontraditional sources of inspiration, such as wooden African figures and masks, there arose a new urge for hands-on, personal execution of art and an interaction with the medium. Even as early as the 1880's and 1890's, nonconformist European artists were attempting direct carving. By the second decade of the twentieth century, Americans – Laurent and Zorach most notably - had adopted it as their primary means of working.</p>
+                    <p>Born in France, Robert Laurent (1890-197Q) was a prodigy who received his education in the United States. In 1905 he was sent to Paris as an apprentice to an art dealer, and in the years that followed he <b>(5) witnessed</b> the birth of Cubism, discovered primitive art, and learned the techniques of woodcarving from a frame maker. Back in New York City by 1910, Laurent began carving pieces such as The Priestess, which reveals his fascination with African, pre-Columbian, and South Pacific art. Taking a walnut plank, the sculptor carved the expressive, stylized design. It is one of the earliest examples of direct carving in American sculpture. The plank's form dictated the rigidly frontal view and the low relief. Even its irregular shape must have appealed to Laurent as <b>(7) a break with</b> a long-standing tradition that required a sculptor to work within a perfect rectangle or square.</p>"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 1,
+                    "soal" => 'The word "medium" in the text could be used to refer to',
+                    "pilihan" => [
+                        "Stone or wood",
+                        "Mallet and chisel",
+                        "Technique",
+                        "Principle",
+                    ],
+                    "jawaban" => "Stone or wood",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 2,
+                    "soal" => "What is one of the fundamental principles of direct carving?",
+                    "pilihan" => [
+                        "A sculptor must work with talented assistants.",
+                        "The subject of a sculpture should be derived from classical stories.",
+                        "The material is an important element in a sculpture.",
+                        "Designing a sculpture is a more creative activity than carving it.",
+                    ],
+                    "jawaban" => "The material is an important element in a sculpture.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 3,
+                    "soal" => 'The word "dictates" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Reads aloud",
+                        "Determines",
+                        "Includes",
+                        "Records",
+                    ],
+                    "jawaban" => "Determines",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 4,
+                    "soal" => "How does direct carving differ from the nineteenth-century tradition of sculpture?",
+                    "pilihan" => [
+                        "Sculptors are personally involved in the carving of a piece.",
+                        "Sculptors find their inspiration in neoclassical sources.",
+                        "Sculptors have replaced the mallet and chisel with other tools.",
+                        "Sculptors receive more formal training.",
+                    ],
+                    "jawaban" => "Sculptors are personally involved in the carving of a piece.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 5,
+                    "soal" => 'The word "witnessed" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Influenced",
+                        "Studied",
+                        "Validated",
+                        "Observed",
+                    ],
+                    "jawaban" => "Observed",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 6,
+                    "soal" => "Where did Robert Laurent learn to carve?",
+                    "pilihan" => [
+                        "New York",
+                        "Africa",
+                        "The South Pacific",
+                        "Paris",
+                    ],
+                    "jawaban" => "Paris",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 7,
+                    "soal" => 'The phrase "a break with" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "A destruction of",
+                        "A departure from",
+                        "A collapse of",
+                        "A solution to",
+                    ],
+                    "jawaban" => "A departure from",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 8,
+                    "soal" => "The piece titled The Priestess has all of the following characteristics EXCEPT: ",
+                    "pilihan" => [
+                        "The design is stylized.",
+                        "It is made of marble.",
+                        "The carving is not deep.",
+                        "It depicts the front of a person.",
+                    ],
+                    "jawaban" => "It is made of marble.",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => '
+                    <p><b>Question 9 – 19</b></p>
+                    <p>Birds that feed in flocks commonly retire together into roosts. The reasons for roosting communally are not always obvious, but there are some likely benefits. In winter especially, it is important for birds to keep warm at night and <b>(10) conserve</b> precious food reserves. One way to do this is to find a sheltered roost. Solitary roosters shelter in dense vegetation or enter a cavity – horned larks dig holes in the ground and ptarmigan burrow into snow banks – but the effect of sheltering is <b>(12) magnified</b> by      several birds huddling together in the roosts, as wrens, swifts, brown creepers, bluebirds, and anis do. Body contact reduces the surface area exposed to the cold air, so the birds keep each other warm. Two <b>(13) kinglets</b> huddling together were found to reduce their heat losses by a quarter, and three together saved a third of their heat. </p>
+                    <p>The second possible benefit of communal roosts is that they act as "information centers." During the day, parties of birds will have spread out to <b>(14) forage</b> over a very    large area. When they return in the evening some will have fed well, but others may have found little to eat. Some investigators have observed that when the birds set out again next morning, those birds that did not feed well on the previous day appear to follow those that did. The behavior of common and lesser kestrels may illustrate different feeding behaviors of similar birds with different roosting habits. The common kestrel hunts vertebrate animals in a small, familiar hunting ground, whereas the very similar lesser kestrel feeds on insects over a large area. The common kestrel roosts and hunts alone, but the lesser kestrel roosts and hunts in flocks, possibly so one bird can learn from others where to find insect swarms.</p>
+                    <p>Finally, there is safety in numbers at communal roosts since there will always be a few birds awake at any given moment to give the alarm. But this increased protection is partially <b>(16) counteracted</b> by the fact that mass roosts attract predators and are especially vulnerable if <b>(19) they</b> are on the ground. Even those in trees can be attacked by birds of prey. The birds on the edge are at greatest risk since predators find it easier to catch small birds perching at the margins of the roost.</p>'
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 9,
+                    "soal" => "What does the passage mainly discuss?",
+                    "pilihan" => [
+                        "How birds find and store food",
+                        "How birds maintain body heat in the winter",
+                        "Why birds need to establish territory",
+                        "Why some species of birds nest together",
+                    ],
+                    "jawaban" => "Why some species of birds nest together",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 10,
+                    "soal" => 'The word "conserve" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Retain",
+                        "Watch",
+                        "Locate",
+                        "Share",
+                    ],
+                    "jawaban" => "Retain",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 11,
+                    "soal" => "Ptarmigan keep warm in the winter by",
+                    "pilihan" => [
+                        "Huddling together on the ground with other birds",
+                        "Building nests in trees",
+                        "Burrowing into dense patches of vegetation",
+                        "Digging tunnels into the snow",
+                    ],
+                    "jawaban" => "Digging tunnels into the snow",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 12,
+                    "soal" => 'The word "magnified" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Caused",
+                        "Modified",
+                        "Intensified",
+                        "Combined",
+                    ],
+                    "jawaban" => "Intensified",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 13,
+                    "soal" => "The author mentions kinglets in the text as an example of birds that",
+                    "pilihan" => [
+                        "Protect themselves by nesting in holes",
+                        "Nest with other species of birds",
+                        "Nest together for warmth",
+                        "Usually feed and nest in pairs",
+                    ],
+                    "jawaban" => "Nest together for warmth",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 14,
+                    "soal" => 'The word "forage" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Fly",
+                        "Assemble",
+                        "Feed",
+                        "Rest",
+                    ],
+                    "jawaban" => "Feed",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 15,
+                    "soal" => "Which of the following statements about lesser and common kestrels is true?",
+                    "pilihan" => [
+                        "The lesser kestrel and the common kestrel have similar diets.",
+                        "The lesser kestrel feeds sociably but the common kestrel does not.",
+                        "The common kestrel nests in larger flocks than does the lesser kestrel.",
+                        "The common kestrel nests in trees; the lesser kestrel nests on the ground.",
+                    ],
+                    "jawaban" => "The lesser kestrel feeds sociably but the common kestrel does not.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 16,
+                    "soal" => 'The word "counteracted" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Suggested",
+                        "Negated",
+                        "Measured",
+                        "Shielded",
+                    ],
+                    "jawaban" => "Negated",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 17,
+                    "soal" => "Which of the following is NOT mentioned in the passage as an advantage derived by birds that huddle together while sleeping?",
+                    "pilihan" => [
+                        "Some members of the flock warn others of impending dangers.",
+                        "Staying together provides a greater amount of heat for the whole flock.",
+                        "Some birds in the flock function as information centers for others who are looking for food.",
+                        "Several members of the flock care for the young.",
+                    ],
+                    "jawaban" => "Several members of the flock care for the young.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 18,
+                    "soal" => "Which of the following is a disadvantage of communal roosts that is mentioned in the passage?",
+                    "pilihan" => [
+                        "Diseases easily spread among the birds",
+                        "Groups are more attractive to predators than individual birds are.",
+                        "Food supplies are quickly depleted.",
+                        "Some birds in the group will attack the others.",
+                    ],
+                    "jawaban" => "Groups are more attractive to predators than individual birds are.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 19,
+                    "soal" => 'The word "they" in the text refers to',
+                    "pilihan" => [
+                        "A few birds",
+                        "Mass roosts",
+                        "Predators",
+                        "Trees",
+                    ],
+                    "jawaban" => "Mass roosts",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><b>Question 20 – 30</b></p>
+                    <p>Before the mid-nineteenth century, people in the United States ate most foods only in season. Drying, smoking, and salting could preserve meat for a short time, but the availability of fresh meat, like that of fresh milk, was very limited; there was no way to (22) prevent spoilage. But in 1810 a French inventor named Nicolas Appert developed the cooking-and-sealing process of canning. And in the 1850's an American named Gail Borden developed a means of condensing and preserving milk. Canned goods and condensed milk became more common during the 1860's, but supplies remained low because cans had to be made by hand. By 1880, however, inventors had fashioned stamping and soldering machines that mass-produced cans from tinplate. Suddenly all kinds of food could be preserved and bought at all times of the year.</p>
+                    <p>Other trends and inventions had also helped make it possible for Americans to vary their daily diets. Growing urban populations created demand that encouraged fruit and vegetable farmers to raise more produce. Railroad refrigerator cars enabled growers   and meat packers to ship perishables great distances and to preserve (25) them for longer periods. Thus, by the 1890's, northern city dwellers could enjoy southern and western strawberries, grapes, and tomatoes, previously available for a month at most, for up to   six months of the year. </p>
+                    <p>In addition, increased use of iceboxes enabled families to store perishables. An easy means of producing ice commercially had been invented in the 1870's, and by 1900 the nation had more than two thousand commercial ice plants, most of which made home deliveries. The icebox became a (26) fixture in most homes and remained so until the mechanized refrigerator replaced it in the 1920's and 1930's. Almost everyone now had a more diversified diet. Some people continued to eat mainly foods that were heavy in starches or carbohydrates, and not everyone could    afford meat. (28) Nevertheless, many families could take advantage of previously unavailable fruits, vegetables, and dairy products to achieve more varied fare.</p>"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 20,
+                    "soal" => "What does the passage mainly discuss?",
+                    "pilihan" => [
+                        "Causes of food spoilage",
+                        "Commercial production of ice",
+                        "Inventions that led to changes in the American diet",
+                        "Population movements in the nineteenth century",
+                    ],
+                    "jawaban" => "Inventions that led to changes in the American diet",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 21,
+                    "soal" => 'The phrase "in season" in the text discuss?',
+                    "pilihan" => [
+                        "A kind of weather",
+                        "A particular time of year",
+                        "An official schedule",
+                        "A method of flavoring food",
+                    ],
+                    "jawaban" => "A particular time of year",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 22,
+                    "soal" => 'The word "prevent" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Estimate",
+                        "Avoid",
+                        "Correct",
+                        "Confine",
+                    ],
+                    "jawaban" => "Avoid",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 23,
+                    "soal" => "During the 1860's, canned food products were ",
+                    "pilihan" => [
+                        "Unavailable in rural areas",
+                        "Shipped in refrigerator cars",
+                        "Available in limited quantities",
+                        "A staple part of the American diet",
+                    ],
+                    "jawaban" => "Available in limited quantities",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 24,
+                    "soal" => "It can be inferred that railroad refrigerator cars came into use ",
+                    "pilihan" => [
+                        "Before 1860",
+                        "Before 1890",
+                        "After 1900",
+                        "After 1920",
+                    ],
+                    "jawaban" => "Before 1890",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 25,
+                    "soal" => 'The word "them" in the text refers to ',
+                    "pilihan" => [
+                        "Refrigerator cars",
+                        "Perishables",
+                        "Growers",
+                        "Distances",
+                    ],
+                    "jawaban" => "Perishables",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 26,
+                    "soal" => 'The word "fixture" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Luxury item",
+                        "Substance",
+                        "Commonplace object",
+                        "Mechanical device",
+                    ],
+                    "jawaban" => "Commonplace object",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 27,
+                    "soal" => "The author implies that in the 1920's and 1930's home deliveries of ice ",
+                    "pilihan" => [
+                        "decreased in number",
+                        "were on an irregular schedule",
+                        "increased in cost",
+                        "occurred only in the summer",
+                    ],
+                    "jawaban" => "decreased in number",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 28,
+                    "soal" => 'The word "nevertheless" in the text is closest in meaning to ',
+                    "pilihan" => [
+                        "Therefore",
+                        "Because",
+                        "Occasionally",
+                        "However",
+                    ],
+                    "jawaban" => "However",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 29,
+                    "soal" => "Which of the following types of food preservation was NOT mentioned in the passage?",
+                    "pilihan" => [
+                        "Drying",
+                        "Canning",
+                        "Cold storage",
+                        "Chemical additives",
+                    ],
+                    "jawaban" => "Chemical additives",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 30,
+                    "soal" => "Which of the following statements is supported by the passage? ",
+                    "pilihan" => [
+                        "Tin cans and iceboxes helped to make many foods more widely available.",
+                        "Commercial ice factories were developed by railroad owners.",
+                        "Most farmers in the United States raised only fruits and vegetables.",
+                        "People who lived in cities demanded home delivery of foods.",
+                    ],
+                    "jawaban" => "Tin cans and iceboxes helped to make many foods more widely available.",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><b>Question 31 – 38 </b></p>
+                    <p>The ability of falling cats to right themselves in midair and land on their feet has been a source of wonder for ages. Biologists long regarded it as an example of adaptation by natural selection, but for physicists it bordered on the miraculous. Newton's laws of motion assume that the total amount of spin of a body cannot change unless an external torque speeds it up or slows it down. If a cat has no spin when it is released and experiences no external torque, it ought not to be able to twist around as it falls.</p>
+                    <p>In the speed of its execution, the righting of a tumbling cat resembles a magician's trick. The gyrations of the cat in midair are too fast for the human eye to follow, so the <b>(32) process</b> is obscured. Either the eye must be speeded up, or the cat's fall slowed down for the phenomenon to be observed. A century ago the former was accomplished by means of high-speed photography using equipment now available in any pharmacy. But in the nineteenth century the capture on film of a falling cat constituted a scientific experiment.</p>
+                    <p>The experiment was described in a paper presented to the Paris Academy in 1894.Two sequences of twenty photographs each, one from the side and one from behind, show a white cat in the act of righting itself. Grainy and quaint though they are, the photos show that the cat was dropped upside down, with no initial spin and still landed on its feet. Careful analysis of the photos reveals the secret: As the cat <b>(35) rotates</b> the front of its body clockwise, the rear and tail twist counterclockwise, so that the total spin remains zero, in perfect accord with Newton's laws. Halfway down, the cat pulls in its legs before reversing its twist and then extends them again, with the desired end result. The explanation was that while no body can acquire spin without torque, a flexible one can <b>(37) readily</b> change its orientation, or phase. Cats know this instinctively, but scientists could not be sure how it happened until they increased the speed of their perceptions a thousandfold.</p>"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 31,
+                    "soal" => "What does the passage mainly discuss? ",
+                    "pilihan" => [
+                        "The explanation of an interesting phenomenon",
+                        "Miracles in modern science",
+                        "Procedures in scientific",
+                        "The differences between biology and physics",
+                    ],
+                    "jawaban" => "The explanation of an interesting phenomenon",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 32,
+                    "soal" => 'The word "process" in the text refers to',
+                    "pilihan" => [
+                        "the righting of a tumbling cat",
+                        "the cat's fall slowed down",
+                        "high-speed photography",
+                        "a scientific experiment investigation",
+                    ],
+                    "jawaban" => "the righting of a tumbling cat",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 33,
+                    "soal" => 'Why are the photographs mentioned in paragraph 3 referred to as an "experiment"?',
+                    "pilihan" => [
+                        "The photographs were not very clear.",
+                        "The purpose of the photographs was to explain the process.",
+                        "The photographer used inferior equipment.",
+                        "The photographer thought the cat might be injured.",
+                    ],
+                    "jawaban" => "The purpose of the photographs was to explain the process.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 34,
+                    "soal" => "Which of the following can be inferred about high-speed photography in the late 1800's?",
+                    "pilihan" => [
+                        "It was a relatively new technology.",
+                        "The necessary equipment was easy to obtain.",
+                        "The resulting photographs are difficult to interpret.",
+                        "It was not fast enough to provide new information.",
+                    ],
+                    "jawaban" => "It was a relatively new technology.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 35,
+                    "soal" => 'The word "rotates" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Drops",
+                        "Turns",
+                        "Controls",
+                        "Touches",
+                    ],
+                    "jawaban" => "Turns",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 36,
+                    "soal" => "According to the passage, a cat is able to right itself in midair because it is",
+                    "pilihan" => [
+                        "Frightened",
+                        "Small",
+                        "Intelligent",
+                        "Flexible",
+                    ],
+                    "jawaban" => "Flexible",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 37,
+                    "soal" => 'The word "readily" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Only",
+                        "Easily",
+                        "Slowly",
+                        "Certainly",
+                    ],
+                    "jawaban" => "Easily",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 38,
+                    "soal" => 'How did scientists increase "the speed of their perceptions a thousandfold" (last sentence in paragraph 3)? ',
+                    "pilihan" => [
+                        "By analyzing photographs",
+                        "By observing a white cat in a dark room",
+                        "By dropping a cat from a greater height",
+                        "By studying Newton's laws of motion",
+                    ],
+                    "jawaban" => "By analyzing photographs",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p><b>Question 39 – 50</b></p>
+                    <p>The changing profile of a city in the United States is apparent in the shifting definitions used by the United States Bureau of the Census. In 1870 the census officially <b>(41) distinguished</b> the nation's “urban” from its “rural” population for the first time. “Urban population” was defined as persons living in towns of 8,000 inhabitants or more. But after 1900 it meant persons living in incorporated places having 2,500 or more inhabitants. </p>
+                    <p>Then, in 1950 the Census Bureau radically changed its definition of urban to take account of the new vagueness of city boundaries. In addition to persons living in incorporated units of 2,500 or more, the census now included <b>(44) those</b> who lived in unincorporated units of that size, and also all persons living in the densely settled urban fringe, including both incorporated and unincorporated areas located around cities of 50,000 inhabitants or more. Each such unit, conceived as an integrated economic and social unit with a large population nucleus, was named a Standard Metropolitan  	Statistical Area (SMSA). </p>
+                    <p>Each SMSA would contain at least (a) one central city with 50,000 inhabitants or more or (b) two cities having shared boundaries and <b>(45) constituting</b>, for general economic and social purposes, a single community with a combined population of at least 50,000, the smaller of <b>(46) which</b> must have a population of at least 15,000. Such an area would include the county in which the central city was located, and adjacent counties that were found to be metropolitan in character and economically and socially integrated with the county of the central city. By 1970, about two-thirds of the population of the United States was living in these urbanized areas, and of that figure more than half were living outside the central cities.</p>
+                    <p>While the Census Bureau and the United States government used the term SMSA (by 1969 there were 233 of them), social scientists were also using new terms to   describe the elusive, vaguely defined areas reaching out from what used to be simple “town” and “cities.” A host of terms came into use: “metropolitan regions,” “polynucleated population groups,” “conurbations, “ “metropolitan clusters,” “megalopolises” and so on.</p>"
+            ],
+            
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 39,
+                    "soal" => "What does the passage mainly discuss?",
+                    "pilihan" => [
+                        "How cities in the United States began and developed",
+                        "Solutions to overcrowding in cities",
+                        "The changing definition of an urban area",
+                        "How the United States Census Bureau conducts a census",
+                    ],
+                    "jawaban" => "The changing definition of an urban area",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 40,
+                    "soal" => "According to the passage, the population of the United States was first classified as rural or urban in",
+                    "pilihan" => [
+                        "1870",
+                        "1900",
+                        "1950",
+                        "1970",
+                    ],
+                    "jawaban" => "1870",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 41,
+                    "soal" => 'The word "distinguished" in the text is closest in meaning to ',
+                    "pilihan" => [
+                        "Differentiated",
+                        "Removed",
+                        "Honored",
+                        "Protected ",
+                    ],
+                    "jawaban" => "Differentiated",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 42,
+                    "soal" => "Prior to 1900, how many inhabitants would a town have to have before being defined as urban?",
+                    "pilihan" => [
+                        "2,500",
+                        "8,000",
+                        "15.000",
+                        "50.000",
+                    ],
+                    "jawaban" => "8,000",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 43,
+                    "soal" => "According to the passage, why did the Census Bureau revise the definition of urban in 1950?",
+                    "pilihan" => [
+                        "City borders had become less distinct.",
+                        "Cities had undergone radical social change.",
+                        "Elected officials could not agree on an acceptable definition",
+                        "New businesses had relocated to larger cities.",
+                    ],
+                    "jawaban" => "City borders had become less distinct.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 44,
+                    "soal" => 'The word "those" in the text refers to',
+                    "pilihan" => [
+                        "Boundaries",
+                        "Persons",
+                        "Units",
+                        "Areas",
+                    ],
+                    "jawaban" => "Persons",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 45,
+                    "soal" => 'The word "constituting" in the text is closest in meaning to',
+                    "pilihan" => [
+                        "Located near",
+                        "Determined by",
+                        "Calling for",
+                        "Making up",
+                    ],
+                    "jawaban" => "Making up",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 46,
+                    "soal" => 'The word "which" in the text refers to a smaller',
+                    "pilihan" => [
+                        "Population",
+                        "City",
+                        "Character",
+                        "Figure",
+                    ],
+                    "jawaban" => "City",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 47,
+                    "soal" => "Which of the following is NOT true of an SMSA? ",
+                    "pilihan" => [
+                        "It has a population of at least 50.000.",
+                        "It can include a city's outlying regions.",
+                        "It can include unincorporated regions.",
+                        "It consists of at least two cities.",
+                    ],
+                    "jawaban" => "It consists of at least two cities.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 48,
+                    "soal" => "By 1970, what proportion of the population in the United States did NOT live in an SMSA?",
+                    "pilihan" => [
+                        "3/4",
+                        "2/3",
+                        "1/2",
+                        "1/3",
+                    ],
+                    "jawaban" => "1/3",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 49,
+                    "soal" => 'The Census Bureau first used the term "SMSA" in ',
+                    "pilihan" => [
+                        "1900",
+                        "1950",
+                        "1969",
+                        "1970",
+                    ],
+                    "jawaban" => "1950",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 50,
+                    "soal" => "Where in the passage does the author mention names used by social scientists for an urban area? ",
+                    "pilihan" => [
+                        "Paragraph 1",
+                        "Paragraph 2",
+                        "Paragraph 3",
+                        "Paragraph 4",
+                    ],
+                    "jawaban" => "Paragraph 4",
+                ]
+            ],
+            
+        ];
+
+        return $data;
+    }
+
 }
 
 /* End of file Soal_model.php */
