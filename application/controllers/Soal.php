@@ -38,6 +38,14 @@ class Soal extends CI_Controller {
             $data['listening'] = $this->Soal_model->get_soal_listeningv3();
             $data['structure'] = $this->Soal_model->get_soal_structurev3();
             $data['reading'] = $this->Soal_model->get_soal_readingv3();
+        } else if($soal['tipe_soal'] == 4){
+            $data['listening'] = $this->Soal_model->get_soal_listeningv4();
+            $data['structure'] = $this->Soal_model->get_soal_structurev4();
+            $data['reading'] = $this->Soal_model->get_soal_readingv4();
+        } else if($soal['tipe_soal'] == 5){
+            $data['listening'] = $this->Soal_model->get_soal_listeningv5();
+            $data['structure'] = $this->Soal_model->get_soal_structurev5();
+            $data['reading'] = $this->Soal_model->get_soal_readingv5();
         }
 
         $this->load->view("pages/layout/header-user", $data);
@@ -81,6 +89,10 @@ class Soal extends CI_Controller {
                 $soal = $this->Soal_model->get_soal_listeningv2();
             } else if($tes['tipe_soal'] == 3){
                 $soal = $this->Soal_model->get_soal_listeningv3();
+            } else if($tes['tipe_soal'] == 4){
+                $soal = $this->Soal_model->get_soal_listeningv4();
+            } else if($tes['tipe_soal'] == 5){
+                $soal = $this->Soal_model->get_soal_listeningv5();
             }
 
             $k = 0;
@@ -113,6 +125,10 @@ class Soal extends CI_Controller {
                 $soal = $this->Soal_model->get_soal_structurev2();
             } else if($tes['tipe_soal'] == 3){
                 $soal = $this->Soal_model->get_soal_structurev3();
+            } else if($tes['tipe_soal'] == 4){
+                $soal = $this->Soal_model->get_soal_structurev4();
+            } else if($tes['tipe_soal'] == 5){
+                $soal = $this->Soal_model->get_soal_structurev5();
             }
             
             $k = 0;
@@ -145,6 +161,10 @@ class Soal extends CI_Controller {
                 $soal = $this->Soal_model->get_soal_readingv2();
             } else if($tes['tipe_soal'] == 3){
                 $soal = $this->Soal_model->get_soal_readingv3();
+            } else if($tes['tipe_soal'] == 4){
+                $soal = $this->Soal_model->get_soal_readingv4();
+            } else if($tes['tipe_soal'] == 5){
+                $soal = $this->Soal_model->get_soal_readingv5();
             }
 
             $k = 0;
