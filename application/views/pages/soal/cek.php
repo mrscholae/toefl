@@ -3,456 +3,454 @@
     "data" => "
         <p><center><b>SECTION 1</b></center></p>
         <p><center><b>LISTENING COMPREHENSION</b></center></p>
-        <p><center>Time: Approximately 30 minutes 50 questions</center></p>"
-],
-[
-    "tipe" => "petunjuk",
-    "data" => "
+        <p><center>Time: Approximately 30 minutes 50 questions</center></p>
         <p><b>PART A</b></p>
-        <p>In Part A , you will hear short conversations between two speakers. At the end of each conversation, a third voice will ask a question about what was said. The question will be spoken just one time. After you hear a conversation and the question about it, read the four possible anwers and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and mark your answer.</p>"
+        <p>In Part A , you will hear short conversations between two speakers. At the end of each conversation, a third voice will ask a question about what was said. The question will be spoken just one time. After you hear a conversation and the question about it, read the four possible anwers and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and mark your answer.</p>
+    "
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 1-5.mp3"
+    "tipe" => "audio",
+    "data" => "v6 1-5.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 1,
-        "soal" => "",
+        "no" => "1",
+        "soal" => "	",
         "pilihan" => [
-            "The doctor was too busy to see him.",
-            "He doesn't need to see the doctor.",
-            "The woman should use the ointment.",
-            "His skin condition has gotten worse.",
+            "July",
+            "June",
+            "May",
+            "April",
         ],
-        "jawaban" => "He doesn't need to see the doctor.",
+        "jawaban" => "July",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 2,
-        "soal" => "",
+        "no" => "2",
+        "soal" => "	",
         "pilihan" => [
-            "Accept the man's offer.",
-            "Walk home.",
-            "Give the man a ride.",
-            "Go for a walk with the man.",
+            "Chapmans.",
+            "Philadelphia",
+            "Doctors",
+            "Arizona",
         ],
-        "jawaban" => "Walk home.",
+        "jawaban" => "Philadelphia",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 3,
-        "soal" => "",
+        "no" => "3",
+        "soal" => "	",
         "pilihan" => [
-            "The man is mistaken.",
-            "The error will be corrected.",
-            "She didn't know about the problem.",
-            "Grades were sent late.",
+            "The woman was wise to have copied her data.",
+            "Dana has a copy of manual in the back office.",
+            "It's very good computer.",
+            "He'll see if he can get the computer going.",
         ],
-        "jawaban" => "The error will be corrected.",
+        "jawaban" => "The woman was wise to have copied her data.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 4,
-        "soal" => "",
+        "no" => "4",
+        "soal" => "	",
         "pilihan" => [
-            "Thursdays and Fridays.",
-            "Tuesdays and Fridays.",
-            "Wednesdays and Thursdays.",
-            "Tuesdays, Thursdays, and Fridays.",
+            "A gas station.",
+            "A police station.",
+            "A lost-an-found department.",
+            "A bar.",
         ],
-        "jawaban" => "Thursdays and Fridays.",
+        "jawaban" => "A gas station.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 5,
-        "soal" => "",
+        "no" => "5",
+        "soal" => "	",
         "pilihan" => [
-            "He's sorry he gave the woman the  wrong directions.",
-            "His friend works in the dean's office.",
-            "He can't give the woman directions.",
-            "He's also looking for the dean's office.",
+            "Jason Daniels isn't home right now.",
+            "Jason Daniels can't come to the phone right now.",
+            "The caller dialed the wrong number",
+            "Jason Daniels doesn't want to speak to the caller.",
         ],
-        "jawaban" => "He can't give the woman directions.",
+        "jawaban" => "The caller dialed the wrong number",
     ]
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 6-10.mp3"
+    "tipe" => "audio",
+    "data" => "v6 6-10.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 6,
-        "soal" => "",
+        "no" => "6",
+        "soal" => "	",
         "pilihan" => [
-            "She wants to eat chicken salad.",
-            "The chicken salad is gone.",
-            "She dropped the man's food.",
-            "She'll bring the tuna salad.",
+            "She's on a committe.",
+            "She exercises to much.",
+            "She's trying to budget her sleep.",
+            "She's been working late.",
         ],
-        "jawaban" => "She'll bring the tuna salad.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 7,
-        "soal" => "",
-        "pilihan" => [
-            "Wait and see how she feels in 24 hours.",
-            "Go home and take her medicine.",
-            "Return to the grocery store to pick up some aspirin.",
-            "Go to the nearby pharmacy.",
-        ],
-        "jawaban" => "Go to the nearby pharmacy.",
+        "jawaban" => "She's been working late.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 8,
-        "soal" => "",
+        "no" => "7",
+        "soal" => "	",
         "pilihan" => [
-            "He didn't wear a watch.",
-            "He had trouble getting to the place.",
-            "He didn't want to leave the place.",
-            "He had no idea how far it was.",
+            "better",
+            "Fine",
+            "Sick",
+            "Tired",
         ],
-        "jawaban" => "He had trouble getting to the place.",
+        "jawaban" => "Fine",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 9,
-        "soal" => "",
+        "no" => "8",
+        "soal" => "	",
         "pilihan" => [
-            "Joan left it in her shopping cart.",
-            "Kathy got it for Joan.",
-            "Joan picked it up from a student.",
-            "Kathy never mailed it.",
+            "No, because it's not for sale",
+            "Yes, if he borrows the money from the woman.",
+            "Yes, because he has plenty of money.",
+            "No, because he didn't bring enough money.",
         ],
-        "jawaban" => "Kathy got it for Joan.",
+        "jawaban" => "Yes, if he borrows the money from the woman.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 10,
-        "soal" => "",
+        "no" => "9",
+        "soal" => "	",
         "pilihan" => [
-            "He wants to ride with the woman.",
-            "He doesn't have money to buy a car now.",
-            "He doesn't know how to drive a car.",
-            "He'd rather walk to school.",
+            "Canada.",
+            "Europe.",
+            "Where the speakers are.",
+            "California.",
         ],
-        "jawaban" => "He doesn't have money to buy a car now.",
-    ]
-],
-[
-    "tipe" => "audio"
-    "data" => "v5 11-15.mp3"
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 11,
-        "soal" => "",
-        "pilihan" => [
-            "Her cousin has just gotten up out of bed.",
-            "Her cousin will be away all week.",
-            "Her cousin will let her stay at his place.",
-            "Her cousin is too busy to spend time with her.",
-        ],
-        "jawaban" => "Her cousin will let her stay at his place.",
+        "jawaban" => "Canada.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 12,
-        "soal" => "",
+        "no" => "10",
+        "soal" => "	",
         "pilihan" => [
-            "She won't be able to come to dinner.",
-            "She would like to invite the man to the theater.",
-            "She doesn't like to go out on Fridays.",
-            "It was kind of the man to give her the tickets.",
+            "Her car is being repaired at the gas station.",
+            "She has gone to get her gas tank filled with gasoline.",
+            "Frank is going to the gas station to pick up her car.",
+            "Her car isn't working properly because of the type of gasoline that she is using.",
         ],
-        "jawaban" => "She won't be able to come to dinner.",
+        "jawaban" => "She has gone to get her gas tank filled with gasoline.",
+    ]
+],
+[
+    "tipe" => "audio",
+    "data" => "v6 11-15.mp3"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "11",
+        "soal" => "	",
+        "pilihan" => [
+            "They didn't know about the meeting.",
+            "They didn't let anybody know about the meeting, so nobody attended.",
+            "They didn't want to attend the meeting, but they did anyway.",
+            "Although they knew there was going to be a meeting, they didn't come.",
+        ],
+        "jawaban" => "They didn't know about the meeting.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 13,
-        "soal" => "",
+        "no" => "12",
+        "soal" => "	",
         "pilihan" => [
-            "Ask the librarians for help.",
-            "Borrow an article from Dr. Frazier.",
-            "Ask Dr. Frazier for a reference.",
-            "Find a quieter place to study.",
+            "His classmated made good grades, but he didn't.",
+            "He is an exceptionally good student.",
+            "He made the best grade in his class.",
+            "He is on of the better students in his class.",
         ],
-        "jawaban" => "Ask the librarians for help.",
+        "jawaban" => "His classmated made good grades, but he didn't.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 14,
-        "soal" => "",
+        "no" => "13",
+        "soal" => "	",
         "pilihan" => [
-            "He doesn't want to take the course.",
-            "He doesn't know anyone who has taken the course.",
-            "He thinks the course requirements are unfair.",
-            "He has a general understanding of the course requirements.",
+            "The dean was asked to question several students",
+            "The humanities professor question several students.",
+            "The humanities professor was able to answer the student's questions.",
+            "The humanities professor has asked the dean a question about the some students.",
         ],
-        "jawaban" => "He has a general understanding of the course requirements.",
+        "jawaban" => "The dean was asked to question several students",
+    ]
+],
+	
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "14",
+        "soal" => "	",
+        "pilihan" => [
+            "Ask for assistance.",
+            "Leave early.",
+            "Refuse to work.",
+            "Request to work overtime.",
+        ],
+        "jawaban" => "Ask for assistance.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 15,
-        "soal" => "",
+        "no" => "15",
+        "soal" => "	",
         "pilihan" => [
-            "Frustrated because he cannot see the manager immediately.",
-            "Afraid of the manager.",
-            "Pleased with the manager's style.",
-            "Sorry he arrived too late to see the manager.",
+            "He didn't go to the concert because he had too much work to do.",
+            "He want to the concert because he didn't want to work.",
+            "Although he had a lot of work to do, he went to the concert.",
+            "He never goes to a concert if he work to do.",
         ],
-        "jawaban" => "Frustrated because he cannot see the manager immediately.",
+        "jawaban" => "He didn't go to the concert because he had too much work to do.",
     ]
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 16-20.mp3"
+    "tipe" => "audio",
+    "data" => "v6 16-20.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 16,
-        "soal" => "",
+        "no" => "16",
+        "soal" => "	",
         "pilihan" => [
-            "Make a copy of his notes for her.",
-            "Ask his professor for help.",
-            "Attend the review sessions.",
-            "Go to the chemistry lab this evening.",
+            "He may keep the library books longer.",
+            "He had to pay a late fee for the books.",
+            "He is going to the new library to look for some books.",
+            "He lost the librabry's new books.",
         ],
-        "jawaban" => "Attend the review sessions.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 17,
-        "soal" => "",
-        "pilihan" => [
-            "The woman may be exhibiting too many paintings.",
-            "He's pleased the woman has her own show.",
-            "He's willing to help the woman get ready for the show.",
-            "He'll let the woman exhibit some of his paintings.",
-        ],
-        "jawaban" => "He's willing to help the woman get ready for the show.",
+        "jawaban" => "He may keep the library books longer.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 18,
-        "soal" => "",
+        "no" => "17",
+        "soal" => "	",
         "pilihan" => [
-            "Drop out of school.",
-            "Take fewer courses.",
-            "Graduate early.",
-            "Study more seriously.",
+            "He is afraid to start smoking because of the hazardous effects.",
+            "He is afraid to He'l become fat if he stops smoking.",
+            "He is afraid that he will become more nervous if he stops smoking.",
+            "He doesn't realize the possible dangers of smoking.",
         ],
-        "jawaban" => "Take fewer courses.",
+        "jawaban" => "He is afraid to He'l become fat if he stops smoking.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 19,
-        "soal" => "",
+        "no" => "18",
+        "soal" => "	",
         "pilihan" => [
-            "Calculate how much each project will cost.",
-            "Take time to relax.",
-            "Discuss her stress with the project leader.",
-            "Decide which project is most urgent.",
+            "He studies regularly, but his grade are suffering.",
+            "He hasn't studied lately but will likely get good grades.",
+            "He is so lazy that he never gets good grades.",
+            "He probabaly will not pass because he hasn't studied.",
         ],
-        "jawaban" => "Decide which project is most urgent.",
+        "jawaban" => "He hasn't studied lately but will likely get good grades.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 20,
-        "soal" => "",
+        "no" => "19",
+        "soal" => "	",
         "pilihan" => [
-            "The man shouldn't wear his glasses in class.",
-            "The man's glasses may be too weak.",
-            "The man shouldn't sit so close to the board.",
-            "The man's glasses are no longer in style.",
+            "His meat wasn't tender.",
+            "The speaker did not have a good character.",
+            "It was difficult to meet new people in the crowd.",
+            "He has to come to the meeting.",
         ],
-        "jawaban" => "The man's glasses may be too weak.",
-    ]
-],
-[
-    "tipe" => "audio"
-    "data" => "v5 21-25.mp3"
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 21,
-        "soal" => "",
-        "pilihan" => [
-            "She isn't interested in being a historian.",
-            "She hasn't chosen a course of study.",
-            "She's studying American history.",
-            "She's a very good student.",
-        ],
-        "jawaban" => "She hasn't chosen a course of study.",
+        "jawaban" => "His meat wasn't tender.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 22,
-        "soal" => "",
+        "no" => "20",
+        "soal" => "	",
         "pilihan" => [
-            "He wishes the weather were warmer.",
-            "He's not sure when spring officially begins.",
-            "He often feels tired during the winter.",
-            "He has no time to enjoy the spring weather.",
+            "He never forgets when he has a meeting",
+            "He should have canceled the meeting.",
+            "He has to come to the meeting.",
+            "It seems that he forgot about their meeting.",
         ],
-        "jawaban" => "He wishes the weather were warmer.",
+        "jawaban" => "It seems that he forgot about their meeting.",
+    ]
+],
+[
+    "tipe" => "audio",
+    "data" => "v6 21-25.mp3"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "21",
+        "soal" => "	",
+        "pilihan" => [
+            "Fruit.",
+            "Vegetables.",
+            "Meat.",
+            "Cookies.",
+        ],
+        "jawaban" => "Fruit.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 23,
-        "soal" => "",
+        "no" => "22",
+        "soal" => "	",
         "pilihan" => [
-            "Move out of the South Dorm.",
-            "Find a bigger room.",
-            "Look for a room in the South Dorm.",
-            "Stay where she lives now.",
+            "They went to St. Augustine.",
+            "They couldn't afford a honeymoon",
+            "They went to St. Augustine.",
+            "They are still planning on going to Puerto Rico.",
         ],
-        "jawaban" => "Look for a room in the South Dorm.",
+        "jawaban" => "They went to St. Augustine.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 24,
-        "soal" => "",
+        "no" => "23",
+        "soal" => "	",
         "pilihan" => [
-            "Sally rarely borrows money.",
-            "Sally rarely repays loans quickly.",
-            "Sally has had a lot of expenses lately.",
-            "He's never lent Sally any money.",
+            "Hot dogs originated in the United States.",
+            "The  first hot dog came from Germany.",
+            "Some hot dogs are made from reindeer meat.",
+            "Even countries like Finland have a food similar to hot dogs.",
         ],
-        "jawaban" => "Sally rarely repays loans quickly.",
+        "jawaban" => "Hot dogs originated in the United States.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 25,
-        "soal" => "",
+        "no" => "24",
+        "soal" => "	",
         "pilihan" => [
-            "He has a new job at the tennis court.",
-            "He no longer likes to play tennis.",
-            "He's too busy to give tours of the campus.",
-            "He hasn't had a chance to play tennis lately.",
+            "He has a flat tire.",
+            "He has no work to do.",
+            "He has no time to relax.",
+            "His work is too simple to keep him interested.",
         ],
-        "jawaban" => "He hasn't had a chance to play tennis lately.",
-    ]
-],
-[
-    "tipe" => "audio"
-    "data" => "v5 26-30.mp3"
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 26,
-        "soal" => "",
-        "pilihan" => [
-            "The woman worked hard in the course.",
-            "Taking the course is a great experience.",
-            "The woman's experience made it unnecessary for her to take the course.",
-            "He knew that the woman had taken the course before.",
-        ],
-        "jawaban" => "The woman's experience made it unnecessary for her to take the course.",
+        "jawaban" => "He has no time to relax.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 27,
-        "soal" => "",
+        "no" => "25",
+        "soal" => "	",
         "pilihan" => [
-            "She'll make an appointment at the clinic later.",
-            "The clinic will be closed this afternoon.",
-            "She's already seen the doctor once today.",
-            "She plans to be immunized this afternoon.",
+            "Tiffany is younger than Stephanie.",
+            "Tiffany is older than Stephanie.",
+            "Tiffany and Stephanie are sisters.",
+            "Tiffany is Stephanie's mother.",
         ],
-        "jawaban" => "She plans to be immunized this afternoon.",
+        "jawaban" => "Tiffany is older than Stephanie.",
+    ]
+],
+[
+    "tipe" => "audio",
+    "data" => "v6 26-30.mp3"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "26",
+        "soal" => "	",
+        "pilihan" => [
+            "To repair it himself.",
+            "To find out what it will probably cost before the work is done.",
+            "To find a different repairman.",
+            "To find out how long it will take to repair the car.",
+        ],
+        "jawaban" => "To find out what it will probably cost before the work is done.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 28,
-        "soal" => "",
+        "no" => "27",
+        "soal" => "	",
         "pilihan" => [
-            "His desire to be an accountant isn't strong enough.",
-            "He doesn't have the skills necessary for accounting.",
-            "She's better at arithmetic than he is.",
-            "He has always been good at arithmetic.",
+            "She is writing a TV script.",
+            "She wrote her paper last night while she was watching TV.",
+            "She didn't watch TV last night because she had to write a paper.",
+            "She watched TV last night instead of working on her paper.",
         ],
-        "jawaban" => "He doesn't have the skills necessary for accounting.",
+        "jawaban" => "She watched TV last night instead of working on her paper.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 29,
-        "soal" => "",
+        "no" => "28",
+        "soal" => "	",
         "pilihan" => [
-            "The man should have used citations from the journals.",
-            "The library has very few anthropology journals.",
-            "The journal collection is large as well.",
-            "She can't find the anthropology journals.",
+            "Franklin admired the deer's beauty from his bedroom window.",
+            "Franklin closed the door quikly.",
+            "Franklin shot a deer with a  rifle.",
+            "Franklin took a photograph of a deer.",
         ],
-        "jawaban" => "The journal collection is large as well.",
+        "jawaban" => "Franklin took a photograph of a deer.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 30,
-        "soal" => "",
+        "no" => "29",
+        "soal" => "	",
         "pilihan" => [
-            "Her brother insisted that she help with his plumbing.",
-            "She refused to fix her brother's faucet.",
-            "She didn't know about her brother's problem.",
-            "Her brother helped her repair the plumbing.",
+            "Start typing immediately.",
+            "Change her topic.",
+            "Find a different typing service.",
+            "Have her paper typed by somebody else.",
         ],
-        "jawaban" => "Her brother insisted that she help with his plumbing.",
+        "jawaban" => "Have her paper typed by somebody else.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "30",
+        "soal" => "	",
+        "pilihan" => [
+            "Yolanda injured Anna.",
+            "Yolanda had to run downtown last week.",
+            "Yolanda went downtown to excercise.",
+            "Yolanda met Anna downtown unexpetedly",
+        ],
+        "jawaban" => "Yolanda met Anna downtown unexpetedly",
     ]
 ],
 [
@@ -461,1633 +459,1644 @@
         <p><center><b>PART B</b></center></p>
         <p>DIRECTION</p>
         <p>In Part B, you will hear longer conversation, after each conversation, you will be asked some question. The conversation and question will be spoken just one time. They will not be written out for you, so you will have to listen carefully in order to understand and remember what the speakers says.</p>
-        <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have chosen.</p>"
+        <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have chosen.</p>
+    "
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 31-35.mp3"
+    "tipe" => "audio",
+    "data" => "v6 31-34.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 31,
-        "soal" => "",
+        "no" => "31",
+        "soal" => "	",
         "pilihan" => [
-            "With a knife.",
-            "On the edge of some metal.",
-            "On some glass.",
-            "On a piece of paper.",
+            "He fell out of the plane",
+            "He had many broken bones",
+            "They thought he was dead",
+            "He was crazy",
         ],
-        "jawaban" => "On a piece of paper.",
+        "jawaban" => "He fell out of the plane",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 32,
-        "soal" => "",
+        "no" => "32",
+        "soal" => "	",
         "pilihan" => [
-            "How much the cut hurt.",
-            "How deep the cut was.",
-            "How easily he was cut.",
-            "How concerned the woman was.",
+            "In a hospital",
+            "On the ground",
+            "On television",
+            "On a plane",
         ],
-        "jawaban" => "How much the cut hurt.",
+        "jawaban" => "On television",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 33,
-        "soal" => "",
+        "no" => "33",
+        "soal" => "	",
         "pilihan" => [
-            "The amount of skin affected by the cut.",
-            "The cause of the cut.",
-            "The amount of bleeding.",
-            "The number of nerve endings irritated.",
+            "He fell out of a plane.",
+            "His two parachutes didn't open.",
+            "He fell while walking.",
+            "A parachute fell on him.",
         ],
-        "jawaban" => "The number of nerve endings irritated.",
+        "jawaban" => "His two parachutes didn't open.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 34,
-        "soal" => "",
+        "no" => "34",
+        "soal" => "	",
         "pilihan" => [
-            "Take a pain reliever.",
-            "Let the cut dry out.",
-            "Keep the cut closed.",
-            "Go to a doctor.",
+            "He went crazy.",
+            "He broke his leg.",
+            "He died.",
+            "He jumped from a plane again.",
         ],
-        "jawaban" => "Keep the cut closed.",
+        "jawaban" => "He jumped from a plane again.",
+    ]
+],
+[
+    "tipe" => "audio",
+    "data" => "v6 35-38.mp3"
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "35",
+        "soal" => "	",
+        "pilihan" => [
+            "Pharmacist-customer.",
+            "Teacher-student.",
+            "Doctor-patient.",
+            "Dentist-patient.",
+        ],
+        "jawaban" => "Doctor-patient.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 35,
-        "soal" => "",
+        "no" => "36",
+        "soal" => "	",
         "pilihan" => [
-            "Keep it elevated.",
-            "Put a bandage on it.",
-            "Clean it.",
-            "Ignore it.",
+            "In a few days.",
+            "Before leaving the office.",
+            "Very slowly.",
+            "Soon enough.",
         ],
-        "jawaban" => "Put a bandage on it.",
-    ]
-],
-[
-    "tipe" => "audio"
-    "data" => "v5 36-38.mp3"
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 36,
-        "soal" => "",
-        "pilihan" => [
-            "The presence of life-forms far below the Earth's surface.",
-            "The risk of infection from rare strains of bacteria.",
-            "Fictional representations of a hidden underground world.",
-            "The reliability of evidence collected by new drilling methods.",
-        ],
-        "jawaban" => "The presence of life-forms far below the Earth's surface.",
+        "jawaban" => "Before leaving the office.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 37,
-        "soal" => "",
+        "no" => "37",
+        "soal" => "	",
         "pilihan" => [
-            "Its texture.",
-            "Its size.",
-            "Its preservation.",
-            "Its shape.",
+            "Filling her lungs with air.",
+            "Exhaling slowly.",
+            "Some tests.",
+            "Some medicine.",
         ],
-        "jawaban" => "Its size.",
+        "jawaban" => "Some medicine.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 38,
-        "soal" => "",
+        "no" => "38",
+        "soal" => "	",
         "pilihan" => [
-            "The bacteria would be killed by the human immune system.",
-            "The bacteria would die if brought to the surface.",
-            "Many antidotes and remedies are available.",
-            "Drilling operations are always closely monitored.",
+            "She has a little congestion.",
+            "She's exhaling too slowly.",
+            "She didn't do well in her tests.",
+            "She does not have enough air in her lungs.",
         ],
-        "jawaban" => "The bacteria would die if brought to the surface.",
+        "jawaban" => "She has a little congestion.",
     ]
 ],
 [
     "tipe" => "petunjuk",
     "data" => "
-        <p><center><b>PART C</b></center></p>
+        <p><b><center>PART C</center></b></p>
         <p>DIRECTION</p>
         <p>In Part C, You will hear several talks. After each talk, you will be asked some questions. The talks and questions will be spoken just one time. They will not be written out for you, so you will have to listen carefully in order to understand and remember what the speaker says.</p>
-        <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have choosen.</p>"
+        <p>When you hear a question, read the four possible answers in your test book and decide which one would be the best answer to the question you have heard. Then, on your answer sheet, find the number of the problem and fill in the space that corresponds to the letter of the answer you have choosen.</p>
+    "
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 39-42.mp3"
+    "tipe" => "audio",
+    "data" => "v6 39-42.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 39,
-        "soal" => "",
+        "no" => "39",
+        "soal" => "	",
         "pilihan" => [
-            "That babies understand language before they can speak.",
-            "That babies have simple Mathematical skills.",
-            "Babies' preferences for different kinds of toys.",
-            "The influence of television on babies.",
+            "2",
+            "3",
+            "5",
+            "7",
         ],
-        "jawaban" => "That babies have simple Mathematical skills.",
+        "jawaban" => "3",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 40,
-        "soal" => "",
+        "no" => "40",
+        "soal" => "	",
         "pilihan" => [
-            "Staring at the dolls longer.",
-            "Crying loudly.",
-            "Blinking their eyes rapidly.",
-            "Reaching for the dolls.",
+            "They ran out of gas.",
+            "Some fishermen spotted them.",
+            "Their families finally found them.",
+            "They attracted the attention of a private airplane.",
         ],
-        "jawaban" => "Staring at the dolls longer.",
+        "jawaban" => "They attracted the attention of a private airplane.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 41,
-        "soal" => "",
+        "no" => "41",
+        "soal" => "	",
         "pilihan" => [
-            "They're born with the ability.",
-            "They're exceptionally intelligent.",
-            "They learned it from playing with dolls.",
-            "They've learned it from their parents.",
+            "It was starting to get dark.",
+            "They knew that they had run out of fuel.",
+            "Their families had reported them missing.",
+            "They hadn't met the private airplane when it was due to arrive.",
         ],
-        "jawaban" => "They're born with the ability.",
+        "jawaban" => "Their families had reported them missing.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 42,
-        "soal" => "",
+        "no" => "42",
+        "soal" => "	",
         "pilihan" => [
-            "Language acquisition may be negatively affected.",
-            "Babies used in experiments often develop emotional problems.",
-            "Parents may force their children to learn at too early an age.",
-            "Early coaching will interfere with creativity.",
+            "2 miles.",
+            "5 miles.",
+            "7½ miles.",
+            "15 miles.",
         ],
-        "jawaban" => "Parents may force their children to learn at too early an age.",
+        "jawaban" => "7½ miles.",
     ]
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 43-46.mp3"
+    "tipe" => "audio",
+    "data" => "v6 43-45.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 43,
-        "soal" => "",
+        "no" => "43",
+        "soal" => "	",
         "pilihan" => [
-            "To describe Jefferson's role in history.",
-            "To introduce a tour of Jefferson's home.",
-            "To train a group of architects.",
-            "To raise money for the Monticello Historical Society.",
+            "Pharmacist",
+            "Doctor",
+            "Patient",
+            "Nurse",
         ],
-        "jawaban" => "To introduce a tour of Jefferson's home.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 44,
-        "soal" => "",
-        "pilihan" => [
-            "They knew each other.",
-            "Palladio designed buildings in Virginia.",
-            "Jefferson studied in Italy.",
-            "Jefferson read books on Palladio's work.",
-        ],
-        "jawaban" => "Jefferson read books on Palladio's work.",
+        "jawaban" => "Patient",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 45,
-        "soal" => "",
+        "no" => "44",
+        "soal" => "	",
         "pilihan" => [
-            "He made his house too large.",
-            "He constructed a fence around his property.",
-            "He built his house on a mountain.",
-            "He transported unnecessary materials.",
+            "She took some pain killers.",
+            "She talked with a chiropractor.",
+            "She read the x-rays.",
+            "She did some back stretching exercises.",
         ],
-        "jawaban" => "He built his house on a mountain.",
+        "jawaban" => "She read the x-rays.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 46,
-        "soal" => "",
+        "no" => "45",
+        "soal" => "	",
         "pilihan" => [
-            "It provides a good view of the area.",
-            "It's surrounded by several towns.",
-            "It's accessible to major roads.",
-            "It's near a nature preserve.",
+            "Six weeks",
+            "Six months",
+            "Three weeks",
+            "Three month",
         ],
-        "jawaban" => "It provides a good view of the area.",
+        "jawaban" => "Three weeks",
     ]
 ],
 [
-    "tipe" => "audio"
-    "data" => "v5 47-50.mp3"
+    "tipe" => "audio",
+    "data" => "v6 46-50.mp3"
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 47,
-        "soal" => "",
+        "no" => "46",
+        "soal" => "	",
         "pilihan" => [
-            "Mr. Richardson.",
-            "The university president.",
-            "A new committee member.",
-            "The committee chairperson.",
+            "A painter.",
+            "An art critic.",
+            "A friend of Dali.",
+            "A museum guide.",
         ],
-        "jawaban" => "The committee chairperson.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 48,
-        "soal" => "",
-        "pilihan" => [
-            "They sold T-shirts.",
-            "They sold photographs.",
-            "They had a garden party.",
-            "They ran tours of the nursery.",
-        ],
-        "jawaban" => "They sold T-shirts.",
+        "jawaban" => "A museum guide.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 49,
-        "soal" => "",
+        "no" => "47",
+        "soal" => "	",
         "pilihan" => [
-            "It was the only nursery in their price range.",
-            "It was nearest the university.",
-            "They had worked with the nursery before.",
-            "Mr. Richardson was a friend of the committee chairperson.",
+            "Perfume.",
+            "Furniture.",
+            "Jewelry.",
+            "Leather goods.",
         ],
-        "jawaban" => "They had worked with the nursery before.",
+        "jawaban" => "Leather goods.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 50,
-        "soal" => "",
+        "no" => "49",
+        "soal" => "	",
         "pilihan" => [
-            "Review the budget.",
-            "Visit Richardson's Nursery.",
-            "Listen to a speech by the university president.",
-            "Conduct a tree-planting ceremony.",
+            "21",
+            "31",
+            "41",
+            "51",
         ],
-        "jawaban" => "Review the budget.",
+        "jawaban" => "21",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "48",
+        "soal" => "	",
+        "pilihan" => [
+            "Gala.",
+            "Lincoln.",
+            "Columbus.",
+            "A toreador.",
+        ],
+        "jawaban" => "Gala.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "50",
+        "soal" => "	",
+        "pilihan" => [
+            "The discovery of America bu Christoper Columbus",
+            "Crucifixion",
+            "Ecumenical Council",
+            "Hallucinogenic Toreodor.",
+        ],
+        "jawaban" => "Crucifixion",
     ]
 ],
 [
     "tipe" => "petunjuk",
     "data" => "
-        <p><center><b>SECTION 2</b></center></p>
         <p><center><b>STRUCTURE AND WRITTEN EXPRESSION</b></center></p>
-        <p><center>Time: 30 minutes</center></p>
+        <p><center>Time: 25 minutes</center></p>
         <p><center>40 questions</center></p>
         <p>DIRECTIONS</p>
-        <p>Questions number 1-15 are incomplete sentences. Beneath each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Choose the one word of phrase that best complets the sentence. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Fill in the space so that the letter inside the oval cannot be seen.</p>"
+        <p>Questions number 1-15 are incomplete sentences. Beneath each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Choose the one word of phrase that best complets the sentence. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Fill in the space so that the letter inside the oval cannot be seen.</p>
+    "
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 1,
-        "soal" => "Dairy farming is ….. leading agricultural activity in the United States.",
+        "no" => "1",
+        "soal" => "	The attorney told his client that .......................",
         "pilihan" => [
-            "A",
-            "At",
-            "Then",
-            "None",
+            "the case was of small chance to win",
+            "they had little chance of winning the case",
+            "it was nearly impossible to win him the case",
+            "the case had a minimum chance to be won by him",
         ],
-        "jawaban" => "A",
+        "jawaban" => "they had little chance of winning the case",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 2,
-        "soal" => "Although thunder and lightening are produced at the same time, light waves travel faster ....., so we see the lightening before we hear the thunder.",
+        "no" => "2",
+        "soal" => "	One of the professor's greatest atributes is .......................",
         "pilihan" => [
-            "Than sound waves do",
-            "Than sound waves are",
-            "Do sound waves",
-            "Sound waves",
+            "when he gives lectures",
+            "his ability to lecture",
+            "the way to give lectures",
+            "how in the manner that he lectures",
         ],
-        "jawaban" => "Than sound waves do",
+        "jawaban" => "his ability to lecture",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 3,
-        "soal" => "Beef cattle ….. of all livestock for economic growth in certain geographic regions.",
+        "no" => "3",
+        "soal" => "	 The bank sent a notice to its customers which contained .......................",
         "pilihan" => [
-            "The most are important",
-            "Are the most important",
-            "The most important are",
-            "That are the most important",
+            "a reminder that the interest rates would rise the following",
+            "to remember that the interest rates were going up next month.",
+            "a reminder that a raise in interest rates were to raise the following.",
+            "a remembrance that interest rates were to raise the following month.",
         ],
-        "jawaban" => "Are the most important",
+        "jawaban" => "a reminder that the interest rates would rise the following",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 4,
-        "soal" => "The discovery of the halftone process in photography in 1881 made it ..… photographs in books and newspapers.",
+        "no" => "4",
+        "soal" => "	 ....................... was the day before yesterday.",
         "pilihan" => [
-            "The possible reproduction",
-            "Possible to reproduce",
-            "The possibility of reproducing",
-            "Possibly reproduce",
+            "Frence's Independence Day",
+            "French's Independence Day",
+            "The France's Independence Day",
+            "The day of the Frence independence",
         ],
-        "jawaban" => "Possible to reproduce",
+        "jawaban" => "Frence's Independence Day",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 5,
-        "soal" => "Flag Day is a legal holiday only in the state of Pennsylvania ….. Betsy Ross sewed the first American flag.",
+        "no" => "5",
+        "soal" => "	 It was not until she had arrived home ....................... remembered her appointment with the doctor",
         "pilihan" => [
-            "Which",
-            "Where",
-            "That",
-            "Has",
+            "she",
+            "and she",
+            "that she",
+            "When she",
         ],
-        "jawaban" => "Where",
+        "jawaban" => "When she",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 6,
-        "soal" => " .....Vastness of the Grand Canyon, it is difficult to capture it in a single photograph.",
+        "no" => "6",
+        "soal" => "	George would certainly have attended the proceedings .......................",
         "pilihan" => [
-            "While the",
-            "The",
-            "For the",
-            "Because of the",
+            "had the tire not flattened itself",
+            "had he not had a flat tire",
+            "if the flat tire hadn't happened",
+            "If he didn't get a flat tire",
         ],
-        "jawaban" => "Because of the",
+        "jawaban" => "had he not had a flat tire",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 7,
-        "soal" => "Speciation, ..… results when an animal population becomes isolated by some factor, usually geographic.",
+        "no" => "7",
+        "soal" => "	....................... received law degrees as today",
         "pilihan" => [
-            "Form biological species",
-            "Biological species are formed",
-            "Which forming biological species",
-            "The formation of biological species",
+            "Woman who have never",
+            "The woman aren't ever",
+            "Never have so many woman",
+            "Never so many woman have",
         ],
-        "jawaban" => "The formation of biological species",
+        "jawaban" => "Never have so many woman",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 8,
-        "soal" => "In its pure state antimony has no important uses, but  ..… with other substances, it is extremely useful metal.",
+        "no" => "8",
+        "soal" => "	The students liked that professor's course because .......................",
         "pilihan" => [
-            "When combined physically or chemically",
-            "Combined when physically or chemically",
-            "The physically and chemically combination",
-            "It is combined physically and chemically",
+            "there was little or no homework",
+            "of there wasn't a great amount of homework",
+            "not alot of homework",
+            "there was few if any homework",
         ],
-        "jawaban" => "When combined physically or chemically",
+        "jawaban" => "there was little or no homework",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 9,
-        "soal" => "The dawn redwood appears ….. some 100 million years ago in northern forests around the world. ",
+        "no" => "9",
+        "soal" => "	George ....................... he could improve his test scores, but he did not have enough time to study.",
         "pilihan" => [
-            "was flourished",
-            "having to flourished",
-            "to have flourished",
-            "have flourished ",
+            "knew how to",
+            "knew how that",
+            "knew how",
+            "knew to",
         ],
-        "jawaban" => "to have flourished",
+        "jawaban" => "knew how",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 10,
-        "soal" => "Beginning in the Middle Ages, composers of Western music used a system of notating their compositions ….. be performed by musicians. ",
+        "no" => "10",
+        "soal" => "	......................., He would have come to class.",
         "pilihan" => [
-            "will",
+            "If Mike had been able to to finish his homework",
+            "If Mike could finish his homework",
+            "Would Mike be able to finish his homework",
+            "If Mike is able to finish his homework",
+        ],
+        "jawaban" => "If Mike had been able to to finish his homework",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "11",
+        "soal" => "	Lee contributed fifty dollars, but he wishes he could contribute.......................",
+        "pilihan" => [
+            "more fifty dollars",
+            "another fifty",
+            "the same amount also",
+            "one other fifty dollars",
+        ],
+        "jawaban" => "another fifty",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "12",
+        "soal" => "	The people at the party were worried about Janet because no one was aware .......................",
+        "pilihan" => [
+            "the place",
+            "of the place where",
+            "of where",
+            "where that",
+        ],
+        "jawaban" => "of where",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "13",
+        "soal" => "	Since he changed profession, Fred's yearly income has .......................",
+        "pilihan" => [
+            "just about gone up three times",
+            "almost grown by three times",
+            "got almost three times bigger",
+            "nearly tripled",
+        ],
+        "jawaban" => "nearly tripled",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "14",
+        "soal" => "	Nancy hasn't begun working on her Ph.D. ....................... working on her master's",
+        "pilihan" => [
+            "still while she is already",
+            "yet because she is still",
+            "yet as result she is still",
+            "Still because she is yet",
+        ],
+        "jawaban" => "yet because she is still",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "15",
+        "soal" => "	The director of this organization must know .......................",
+        "pilihan" => [
+            "money mangement, selling, the idea of being able to satisfy the stockholder",
+            "how to manage money, sell his product, and satisfy stockholders",
+            "how to manage money, selling his product, and be able to satisfy stockholders",
+            "money mangement, selling, and able to satisfy the stockholder",
+        ],
+        "jawaban" => "how to manage money, sell his product, and satisfy stockholders",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "16",
+        "soal" => "	The artist tried <u>stimulate</u> <u>interest in</u> painting <u>by taking</u> his students <u>to the</u> museum.",
+        "pilihan" => [
+            "stimulate",
+            "interest in",
+            "by taking",
+            "to the",
+        ],
+        "jawaban" => "stimulate",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "17",
+        "soal" => "	<u>While</u> they <u>were</u> away at the beach, they allowed <u>their neighboards</u> <u>use</u> barbeque grill.",
+        "pilihan" => [
+            "While",
+            "were",
+            "their neighboards",
+            "use",
+        ],
+        "jawaban" => "use",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "18",
+        "soal" => "	Today was <u>such beautiful</u> day that I couldn't bring <u>myself</u> <u>to complete</u> all <u>my chores</u>.",
+        "pilihan" => [
+            "such beautiful",
+            "myself",
+            "to complete",
+            "my chores",
+        ],
+        "jawaban" => "such beautiful",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "19",
+        "soal" => "	They are <u>planning on</u> <u>attending</u> the converntion <u>next</u> month, and <u>so I am</u>.",
+        "pilihan" => [
+            "planning on",
+            "attending",
+            "next",
+            "so I am",
+        ],
+        "jawaban" => "so I am",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "20",
+        "soal" => "	She wishes that we <u>didn't send</u> <u>her the candy</u> yesterday <u>because</u> she is <u>on</u> a diet.",
+        "pilihan" => [
+            "didn't send",
+            "her the candy",
+            "because",
+            "on",
+        ],
+        "jawaban" => "didn't send",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "21",
+        "soal" => "	The <u>athlete</u>, together <u>with</u> <u>his coach</u> and several relatives, <u>are</u> traveling to the Olympic Games.",
+        "pilihan" => [
+            "athlete",
+            "with",
+            "his coach",
+            "are",
+        ],
+        "jawaban" => "are",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "22",
+        "soal" => "	Each <u>of the</u> nurses <u>report</u> to the operating room when <u>his or her name</u> <u>is called</u>.",
+        "pilihan" => [
+            "of the",
+            "report",
+            "his or her name",
+            "is called",
+        ],
+        "jawaban" => "report",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "23",
+        "soal" => "	<u>Before</u> she moved here, Ailine had <u>been</u> president <u>of the</u> organization <u>since</u> for years.",
+        "pilihan" => [
+            "Before",
+            "been",
+            "of the",
+            "since",
+        ],
+        "jawaban" => "since",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "24",
+        "soal" => "	Nancy said <u>that</u> she <u>went</u> <u>to</u> the supermarket <u>before coming</u>.",
+        "pilihan" => [
             "that",
-            "and when to",
-            "so they could",
+            "went",
+            "to",
+            "before coming",
         ],
-        "jawaban" => "so they could",
+        "jawaban" => "went",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 11,
-        "soal" => "Civil Rights are the freedoms and rights ..... as a member of a community, state, or nation. ",
-        "pilihan" => [
-            "may have a person",
-            "may have a person who",
-            "a person may have",
-            "and a person may have",
-        ],
-        "jawaban" => "a person may have",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 12,
-        "soal" => "Richard Wright enjoyed success and influence ..... among Black American writers of his era. ",
-        "pilihan" => [
-            "were unparalleled",
-            "are unparalleled",
-            "unparalleled",
-            "the unparalleled",
-        ],
-        "jawaban" => "unparalleled",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 13,
-        "soal" => " of large mammals once dominated the North American Prairies: the American bison and the pronghorn antelope. ",
-        "pilihan" => [
-            "There are two species",
-            "With two species",
-            "Two species are",
-            "Two species",
-        ],
-        "jawaban" => "Two species",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 14,
-        "soal" => "Franklin D. Roosevelt was ..... the great force of radio and the opportunity it provided for taking government policies directly to the people. ",
-        "pilihan" => [
-            "as the first President he understood fully",
-            "the first President that, to fully understand",
-            "the first President fully understand",
-            "the first President to understand fully",
-        ],
-        "jawaban" => "the first President to understand fully",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 15,
-        "soal" => "During the late fifteenth century, ..... of the native societies of America had professions in the fields of arts and crafts.",
-        "pilihan" => [
-            "only a few",
-            "a few but",
-            "few, but only",
-            "a few only",
-        ],
-        "jawaban" => "only a few",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 16,
-        "soal" => "The <u>firstly</u> naval battle of the Revolutionary War <u>was</u> fought <u>off</u> the coast of Machias, Maine,<u>in</u> June 1775. ",
-        "pilihan" => [
-            "firstly",
-            "was",
-            "off",
-            "in",
-        ],
-        "jawaban" => "firstly",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 17,
-        "soal" => "The <u>public ceremonies</u> of the Plains Indians are <u>lesser</u> elaborate <u>than those</u> of the Navajo in <u>the</u> Southwest. ",
-        "pilihan" => [
-            "public ceremonies",
-            "lesser",
-            "than those",
-            "the",
-        ],
-        "jawaban" => "lesser",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 18,
-        "soal" => "In <u>some</u> species of fish, <u>such the</u> three-spined stickleback, the male, not the female, <u>performs</u> the task of <u>caring</u> for the young. ",
-        "pilihan" => [
-            "some",
-            "such the",
-            "performs",
-            "caring",
-        ],
-        "jawaban" => "such the",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 19,
-        "soal" => "When she <u>retires</u> in September 1989, <u>tennis champion</u> Christine Evert was <u>the most</u> famous <u>woman athlete</u> in the United States. ",
-        "pilihan" => [
-            "retires",
-            "tennis champion",
-            "the most",
-            "woman athlete",
-        ],
-        "jawaban" => "retires",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 20,
-        "soal" => "u>The</u> ancient Romans used vessels <u>equipped</u> with sails <u>and</u> banks of oars <u>to transporting</u> their armies. ",
-        "pilihan" => [
-            "The",
-            "equipped",
-            "and",
-            "to transporting",
-        ],
-        "jawaban" => "to transporting",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 21,
-        "soal" => "Dinosaurs <u>are</u> traditionally classified as cold-blooded reptiles, <u>but</u> recent evidence based on eating habits, posture, and skeletal <u>structural</u> suggests some <u>may have been</u> warm-blooded. ",
+        "no" => "25",
+        "soal" => "	Mumps <u>are</u> a very <u>common disease</u> <u>which</u> <u>usually</u> affects children.",
         "pilihan" => [
             "are",
-            "but",
-            "structural",
-            "may have been",
+            "common disease",
+            "which",
+            "usually",
         ],
-        "jawaban" => "structural",
+        "jawaban" => "are",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 22,
-        "soal" => "Since the Great Depression of the 1930’ s, social <u>programs</u> such as Social Security have <u>been built</u> into the economy <u>to help</u> avert <u>severity</u> business declines. ",
+        "no" => "26",
+        "soal" => "	Profesor Duncan <u>teaches</u> <u>both</u> <u>anthropology</u> as well as sociology <u>each fall</u>.",
         "pilihan" => [
-            "programs",
-            "been built",
-            "to help",
-            "severity",
+            "teaches",
+            "both",
+            "anthropology",
+            "each fall",
         ],
-        "jawaban" => "severity",
+        "jawaban" => "both",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 23,
-        "soal" => "In the 1970’s <u>consumer</u> activities <u>succeeded in</u> promoting laws that set <u>safety</u> standards for automobiles, children’ s clothing, and a <u>widely</u> range of household products. ",
+        "no" => "27",
+        "soal" => "	My brother is <u>in</u> California <u>on</u> vacation, but I wish he <u>was</u> here so that he could help <u>me repair my car</u>.",
         "pilihan" => [
-            "consumer",
-            "succeeded in",
-            "safety",
-            "widely",
+            "in",
+            "on",
+            "was",
+            "me repair my car",
         ],
-        "jawaban" => "widely",
+        "jawaban" => "was",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 24,
-        "soal" => "Zoos in New Orleans, San Diego, Detroit, and the Bronx <u>have become</u> biological parks <u>where</u> animals <u>roams free</u> and people <u>watch from</u> across a moat. ",
+        "no" => "28",
+        "soal" => "	I <u>certainly</u> appreciate <u>him</u> <u>telling us</u> about the daily in <u>delivering</u> the materials because he had planned to begin work tomorrow.",
         "pilihan" => [
-            "have become",
-            "where",
-            "roams free",
-            "watch from",
+            "certainly",
+            "him",
+            "telling us",
+            "delivering",
         ],
-        "jawaban" => "roams free",
+        "jawaban" => "him",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 25,
-        "soal" => "In human beings, as in other <u>mammals</u>, hairs <u>around</u> the eyes are ears and in the nose <u>prevent</u> dust, insects, and other matter from <u>entering</u> these organs. ",
+        "no" => "29",
+        "soal" => "	The chemistry instructor explained the experiment <u>in</u> <u>such of a way</u> that it <u>was</u> <u>easily understood</u>.",
         "pilihan" => [
-            "mammals",
-            "around",
-            "prevent",
-            "entering",
+            "in",
+            "such of a way",
+            "was",
+            "easily understood",
         ],
-        "jawaban" => "mammals",
+        "jawaban" => "such of a way",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 26,
-        "soal" => "The Rocky Mountains <u>were</u> explored <u>by</u> fur traders during the early 1800’ s in <u>a</u> decades <u>preceding</u> the United States Civil War. ",
+        "no" => "30",
+        "soal" => "	Rudolp Nureyew <u>has become</u> one of the <u>greatest</u> <u>dancer</u> that the ballet world has <u>ever known</u>.",
         "pilihan" => [
-            "were",
-            "by",
+            "has become",
+            "greatest",
+            "dancer",
+            "ever known",
+        ],
+        "jawaban" => "dancer",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "31",
+        "soal" => "	The harder he <u>tried</u>, the <u>worst</u> he <u>danced</u> before the <u>large</u> audience.",
+        "pilihan" => [
+            "tried",
+            "worst",
+            "danced",
+            "large",
+        ],
+        "jawaban" => "worst",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => [
+        "no" => "32",
+        "soal" => "	When Keith visited Alaska, he <u>lived</u> in <u>a</u> igloo in the winter <u>months</u> <u>as well</u> as in the spring.",
+        "pilihan" => [
+            "lived",
             "a",
-            "preceding",
+            "months",
+            "as well",
         ],
         "jawaban" => "a",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 27,
-        "soal" => "The works of the <u>author</u> Herman Melville are <u>literary</u> creations of a high order, blending <u>fact</u>, fiction, adventure, and subtle <u>symbolic</u>. ",
+        "no" => "33",
+        "soal" => "	The girls <u>were sorry</u> to <u>had missed</u> the singers <u>when</u> they <u>arrived at</u> the airport.",
         "pilihan" => [
-            "author",
-            "literary",
-            "fact",
-            "symbolic",
-        ],
-        "jawaban" => "symbolic",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 28,
-        "soal" => "Each chemical element is characterized <u>to</u> the number of protons that an atom of <u>that</u> element contains, <u>called</u> <u>its</u> atomic number. ",
-        "pilihan" => [
-            "to",
-            "that",
-            "called",
-            "its",
-        ],
-        "jawaban" => "that",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 29,
-        "soal" => "The body structure that <u>developed</u> in birds over <u>millions</u> of years <u>is</u> well designed for flight, <u>being</u> both lightly in weight and remarkably strong. ",
-        "pilihan" => [
-            "developed",
-            "millions",
-            "is",
-            "being",
-        ],
-        "jawaban" => "being",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 30,
-        "soal" => "u>From</u> 1905 to 1920, American novelist Edith Wharton <u>was</u> at the height of her writing career, publishing <u>of her</u> three <u>most</u> famous novels. ",
-        "pilihan" => [
-            "From",
-            "was",
-            "of her",
-            "most",
-        ],
-        "jawaban" => "of her",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 31,
-        "soal" => "In the early twentieth century, there was considerable <u>interesting</u> among sociologists in the fact <u>that</u> in the United States <u>the family</u> was losing its <u>traditional</u> roles. ",
-        "pilihan" => [
-            "interesting",
-            "that",
-            "the family",
-            "traditional",
-        ],
-        "jawaban" => "interesting",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 32,
-        "soal" => "u>Although</u> pure diamond is colorless and transparent, <u>when</u> contaminated with other material <u>it</u> may appear in various <u>color</u>, ranging from pastels to opaque black. ",
-        "pilihan" => [
-            "Although",
+            "were sorry",
+            "had missed",
             "when",
-            "it",
-            "color",
+            "arrived at",
         ],
-        "jawaban" => "color",
+        "jawaban" => "had missed",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 33,
-        "soal" => "Comparative anatomy is <u>concerned</u> to the <u>structural</u> differences <u>among</u> animal <u>forms</u>.",
+        "no" => "34",
+        "soal" => "	Keith is one of <u>the</u> <u>most</u> inteligent boys <u>of</u> the <u>science</u> class.",
         "pilihan" => [
-            "concerned",
-            "structural",
-            "among",
-            "forms",
+            "the",
+            "most",
+            "of",
+            "science",
         ],
-        "jawaban" => "concerned",
+        "jawaban" => "of",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 34,
-        "soal" => "A seismograph records oscillation of the ground <u>caused by</u> seismic waves, vibrations that <u>travel</u> from <u>its</u> point of origin <u>through</u> the Earth or along its surface. ",
+        "no" => "35",
+        "soal" => "	Several people <u>have</u> <u>apparent</u> tried to change <u>the man's mind</u>, but he refuses <u>to listen</u>.",
         "pilihan" => [
-            "caused by",
-            "travel",
-            "its",
-            "through",
+            "have",
+            "appar"ent,
+            "the man's min"d,
+            "to listen",
         ],
-        "jawaban" => "its",
+        "jawaban" => "appar"ent,
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 35,
-        "soal" => "Electric lamps came into widespread use during the early 1900’s and <u>have replaced</u> other <u>type</u> of fat, gas, or <u>oil</u> lamps for <u>almost every</u> purpose. ",
+        "no" => "36",
+        "soal" => "	<u>Many</u> of the population in the <u>rural areas</u> is <u>composed</u> of manual <u>laborers</u>.",
         "pilihan" => [
-            "have replaced",
-            "type",
-            "oil",
-            "almost every",
+            "Many",
+            "rural areas",
+            "composed",
+            "laborers",
         ],
-        "jawaban" => "type",
+        "jawaban" => "Many",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 36,
-        "soal" => "Located in Canada, the Columbia Icefield <u>covers area</u> of 120 square miles <u>and</u> is 3,300 feet <u>thick</u> in some <u>places</u>. ",
+        "no" => "37",
+        "soal" => "	The leader Emphasized <u>that need</u> <u>for justice</u> and equality <u>between</u> his <u>people</u>.",
         "pilihan" => [
-            "covers area",
-            "and",
-            "thick",
-            "places",
+            "that need",
+            "for justice",
+            "between",
+            "people",
         ],
-        "jawaban" => "covers area",
+        "jawaban" => "between",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 37,
-        "soal" => "Composer Richard Rodgers and lyricist Oscar Hammerstein II <u>brought to</u> the musical <i>Oklahoma!</i> <u>extensive</u> musical and theatrical backgrounds as well as <u>familiar</u> with the <u>traditional</u> forms of Operetta and musical comedy. ",
+        "no" => "38",
+        "soal" => "	The influence of the <u>nation's</u> literature, art, and <u>science</u> <u>have</u> captured <u>widespread</u> attention.",
         "pilihan" => [
-            "brought to",
-            "extensive",
-            "familiar",
-            "traditional",
+            "nation's",
+            "science",
+            "have",
+            "widespread",
         ],
-        "jawaban" => "familiar",
+        "jawaban" => "have",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 38,
-        "soal" => "Because of <u>its</u> vast tracts of <u>virtually</u> uninhabited northern forest, Canada has <u>one</u> of the lowest population <u>density</u> in the world. ",
+        "no" => "39",
+        "soal" => "	The town we visited <u>was</u> a <u>four-days</u> jurney from our hotel, so we <u>took</u> the train instead <u>of the</u> bus.",
         "pilihan" => [
-            "its",
-            "virtually",
-            "one",
-            "density",
+            "was",
+            "four-days",
+            "took",
+            "of the",
         ],
-        "jawaban" => "density",
+        "jawaban" => "four-days",
     ]
 ],
 [
-    "tipe" => "soal",
+    "tipe" => "petunjuk",
     "data" => [
-        "no" => 39,
-        "soal" => "Rice, <u>which it still</u> forms the staple diet of <u>much</u> of the world’ s population, grows <u>best</u> in <u>hot</u>, wet lands. ",
+        "no" => "40",
+        "soal" => "	He has <u>less</u> friends in <u>his</u> classes now <u>than</u> he had <u>last year</u>.",
         "pilihan" => [
-            "which it still",
-            "much",
-            "best",
-            "hot",
+            "less",
+            "his",
+            "than",
+            "last year",
         ],
-        "jawaban" => "which it still",
+        "jawaban" => "less",
     ]
 ],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 40,
-        "soal" => "Government money appropriated <u>for art</u> in the 1930’ s made possible <u>hundreds of</u> murals and statues still <u>admiration</u> in small towns <u>all over</u> the United States.",
-        "pilihan" => [
-            "for art",
-            "hundreds of",
-            "admiration",
-            "all over",
-        ],
-        "jawaban" => "admiration",
-    ]
-],
-
 [
     "tipe" => "petunjuk",
     "data" => "
         <p><center><b>SECTION 3</b></center></p>
         <p><center><b>READING COMPREHENSION</b></center></p>
-        <p><center>Time : 60 Minutes</center></p>
+        <p><center>Time : 55 Minutes</center></p>
         <p><center>50 Questions</center></p>
         <p>DIRECTIONS</p>
-        <p>In this section, you will read a number of passages. Each one is followed by approximately ten questions about it. For 1-50, chose the one best answer, (A), (B), (C), and (D), to each question. Then, find the number of the question on your answer sheet, and fill in the space that corresponds to the letter of the answer you have choosen. Answer all of the questions following a passage on the basis of what is stated in that passage.</p>"
+        <p>In this section, you will read a number of passages. Each one is followed by approximately ten questions about it. For 1-50, chose the one best answer, (A), (B), (C), and (D), to each question. Then, find the number of the question on your answer sheet, and fill in the space that corresponds to the letter of the answer you have choosen. Answer all of the questions following a passage on the basis of what is stated in that passage.</p>
+    "
 ],
 [
     "tipe" => "petunjuk",
     "data" => "
-        <p>Question 1- 10 </p>
-        <p>The conservatism of the early English colonists in North America, their strong <b>(1) attachment to</b> the English way of doing things, would play a major part in the furniture that was made in New England. The very tools that the first New England furniture makers used were, after all, not much different from those used for centuries – even millennia: basic hammers, saws, chisels, planes, augers, compasses, and measures. These were the tools used more or less by all people who worked with wood: carpenters, barrel makers, and shipwrights. At most the furniture makers might have had planes with special edges or more delicate chisels, but there could not have been much specialization in the early years of the colonies.</p>
-        <p>The furniture makers in those early decades of the 1600’ s were known as “joiners,” for the primary method of constructing furniture, at least among the English of this   time, was that of mortise-and-tenon joinery. The mortise is the hole chiseled and cut into one piece of wood, while the tenon is the tongue or <b>(2) protruding</b> element shaped from another piece of wood so that it fits into the mortise; and another small hole is then drilled (with the auger) through the mortised end and the tenon so that a whittled peg can secure the joint – thus the term “joiner.” Panels were fitted into slots on the basic frames. This kind of construction was used for making everything from houses to chests. </p>
-        <p>Relatively little hardware was used during this period. Some nails – forged by hand – were used, but no screws or glue. Hinges were often made of leather, but metal hinges were also used. The cruder varieties were made by blacksmiths in the colonies, but the finer metal elements were imported. Locks and escutcheon plates – the latter to <b>(7) shield</b> the wood from the metal key – would often be imported. </p>
-        <p>Above all, what the early English colonists imported was their knowledge of, familiarity with, and dedication to the traditional types and designs of furniture <b>(8) they</b> knew in England.</p>"
+        <p><i><b>Questions 1 through 10 are based on the following reading passage.</b></i></p>
+        <p>Elizhabeth Blackwell was born in England in 1821 and emigrated to New York City when she was ten years old. One day she decided that she wanted to become a doctor. That was nearly impossible for a woman in the midle of the ninteenth century. After writing many letters seeking admission to medical schools, she was finally accepted by a doctor in Philadelpia, so determined was she that she taught school and gave music lessons to earn money for her tuition.</p>
+        <p>In 1849, after graduation from medical school, she decided to further her education in Paris. She wanted to be a surgeon, but a serious eye infection forced her to <b>abandon</b> the idea.</p>
+        <p>Upon returning to the united states, she found it difficult to start her own practice becasue she was a woman. By 1857, Elizhabet and her sister also a doctor, along with another female doctor, managed to open a new horpital, the first for women and children. Besides being the first female physician in the United States and founding her own hospital, she also established the first medical school for woman.</p>
+    "
 ],
+
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 1,
-        "soal" => "The phrase “attachment to” in the text is closest in meaning to ",
+        "no" => "1",
+        "soal" => "	Why couldn’t elizhabeth Blackwell realize her dream of becoming a surgeon? ........................",
         "pilihan" => [
-            "Control of",
-            "Distance from",
-            "Curiosity about",
-            "Preference for",
+            "It was difficult for her to start a practice in the United States.",
+            "A serious eye infection halted her quest.",
+            "She decided to further her education in Paris.",
+            "She couldn't get admitted to medical school.",
         ],
-        "jawaban" => "Preference for",
+        "jawaban" => "A serious eye infection halted her quest.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 2,
-        "soal" => "The word “protruding” in the text is closest in meaning to",
+        "no" => "2",
+        "soal" => "	What main obstacle almost destroyed Elizabeth's chances for becoming a doctor? ........................",
         "pilihan" => [
-            "Parallel",
-            "Simple",
-            "Projecting",
-            "Important",
+            "She couldn't establish her hospital.",
+            "She couldn't graduate from medical school.",
+            "She wrote too many letters.",
+            "She was a woman.",
         ],
-        "jawaban" => "Projecting",
+        "jawaban" => "She was a woman.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 3,
-        "soal" => "The relationship of a mortise and a tenon is most similar to that of ",
+        "no" => "3",
+        "soal" => "	How many years elapsed between her graduation from medical school and the opening of her hospital? ",
         "pilihan" => [
-            "A lock and a key",
-            "A book and its cover",
-            "A cup and a saucer",
-            "A hammer and a nail",
+            "8.",
+            "10.",
+            "19.",
+            "36.",
         ],
-        "jawaban" => "A lock and a key",
+        "jawaban" => "8.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 4,
-        "soal" => "For what purpose did woodworkers use an auger ",
+        "no" => "4",
+        "soal" => "	All of the following are <q>firsts</q> in the life of Elizabeth Blackwell EXCEPT ........................",
         "pilihan" => [
-            "To whittle a peg",
-            "To make a tenon",
-            "To drill a hole",
-            "To measure a panel",
+            "She establised the first medical school for women.",
+            "She and several other woman founded the first hospital for women and children.",
+            "She was the first woman surgeon in the United States.",
+            "She became the first female physician in the United States.",
         ],
-        "jawaban" => "To drill a hole",
+        "jawaban" => "She was the first woman surgeon in the United States.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 5,
-        "soal" => "Which of the following were NOT used in the construction of colonial furniture?",
+        "no" => "5",
+        "soal" => "	When did Elizabeth Blackwell graduated from medical school? ........................",
         "pilihan" => [
-            "Mortises",
-            "Nails",
-            "Hinges",
-            "Screws",
+            "1821.",
+            "1849.",
+            "1857.",
+            "1875.",
         ],
-        "jawaban" => "Screws",
+        "jawaban" => "1849.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 6,
-        "soal" => "The author implies that colonial metalworkers were ",
+        "no" => "6",
+        "soal" => "	The word <q>abandon</q> in paragraph 2 is closest in meaning to ........................",
         "pilihan" => [
-            "Unable to make elaborate parts",
-            "More skilled than woodworkers",
-            "More conservative than other colonists",
-            "Frequently employed by joiners",
+            "Look into.",
+            "Continue.",
+            "Give up.",
+            "Undertake.",
         ],
-        "jawaban" => "Unable to make elaborate parts",
+        "jawaban" => "Give up.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 7,
-        "soal" => "The word “ shield” in the text is closest in meaning to ",
+        "no" => "7",
+        "soal" => "	What is the main idea of this passage? ........................",
         "pilihan" => [
-            "Decorate",
-            "Copy",
-            "Shape",
-            "Protect",
+            "Elizabeth Blackwell founded the first medical school for women.",
+            "Elizabeth Blackwell even taught music to pay for her medical studies.",
+            "Elizabeth Blackwell had to abandon her plans to become a doctor because of an eye infection.",
+            "Elizabeth Blackwell overcame serious obstacles to become the first woman doctor in the United States.",
         ],
-        "jawaban" => "Protect",
+        "jawaban" => "Elizabeth Blackwell overcame serious obstacles to become the first woman doctor in the United States.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 8,
-        "soal" => "The word “ they” in the text refers to",
+        "no" => "8",
+        "soal" => "	In what city was Elizhabeth Blackwell finnaly accepted in medical school?",
         "pilihan" => [
-            "Designs",
-            "Types",
-            "Colonists",
-            "All",
+            "England",
+            "New york",
+            "Philadelpia",
+            "Paris",
         ],
-        "jawaban" => "Colonists",
+        "jawaban" => "Philadelpia",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 9,
-        "soal" => "The author implies that the colonial joiners ",
+        "no" => "9",
+        "soal" => "	The word <q>founding</q> in the last paragrah means most nearly the same as ........................",
         "pilihan" => [
-            "Were highly paid",
-            "Based their furniture on English models",
-            "Used many specialized tools",
-            "Had to adjust to using new kinds of wood in New England",
+            "Buying.",
+            "Establishing.",
+            "Looking for.",
+            "Locating.",
         ],
-        "jawaban" => "Based their furniture on English models",
+        "jawaban" => "Establishing.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 10,
-        "soal" => "Which of the following terms does the author explain in the passage? ",
+        "no" => "10",
+        "soal" => "	Why was it nearly impossible for Elizabeth Blackwell to get into medical school? ........................",
         "pilihan" => [
-            "“millennia” (paragraph 1)",
-            "“joiners” (paragraph 2)",
-            "“blacksmiths” (paragraph 3)",
-            "“colonists” (paragraph 4)",
+            " Her family didn't want her to be a doctor.",
+            "She wanted to be part of a profession that no woman had ever entered before.",
+            "She had little or no money to pay tuition.",
+            "She had a serious eye infection.",
         ],
-        "jawaban" => "“joiners” (paragraph 2)",
-    ]
-],
-[
-    "tipe" => "petunjuk",
-    "data" => "
-        <p>Question 11 – 20 </p>
-        <p>In addition to their military role, the forts of the nineteenth century provided numerous other benefits for the American West. The establishment of these posts opened new roads and provided for the protection of <b>(12) daring</b> adventurers and expeditions as well as established settlers. Forts also served as bases where enterprising entrepreneurs could bring commerce to the West, providing supplies and refreshments to soldiers as well as to pioneers. Posts like Fort Laramie provided supplies for wagon trains traveling the     natural highways toward new frontiers. Some posts became stations for the pony express; still <b>(14) others</b>, such as Fort Davis, were stagecoach stops for weary travelers. All    of these functions, of course, suggest that the contributions of the forts to the civilization and development of the West extended beyond patrol duty.</p>
-        <p>Through the establishment of military posts, yet other contributions were made to the development of western culture. Many posts maintained libraries or reading rooms, and some – for example, Fort Davis – had schools. Post chapels provided a setting for religious services and weddings. Throughout the wilderness, post bands provided entertainment and <b>(15) boosted</b> morale. During the last part of the nineteenth century, to reduce expenses, gardening was encouraged at the forts, thus making experimental  agriculture another activity of the military. The military stationed at the various forts also played a role in civilian life by assisting in maintaining order, and civilian officials often called on the army for protection.</p>
-        <p>Certainly, among other significant contributions the army made to the improvement of the conditions of life was the investigation of the relationships among health, climate, and architecture. From the earliest colonial times throughout the nineteenth century, disease ranked as the foremost problem in defense. It slowed construction of forts and <b>(18) inhibited</b> their military functions. Official documents from many regions contained innumerable reports of sickness that virtually incapacitated entire garrisons. In response to the problems, detailed observations of architecture and climate and their relationships to the frequency of the occurrence of various diseases were recorded at various posts across the nation by military surgeons.</p>"
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 11,
-        "soal" => "Which of the following statements best expresses the main idea of the passage?",
-        "pilihan" => [
-            "By the nineteenth century, forts were no longer used by the military.",
-            "Surgeons at forts could not prevent outbreaks of disease.",
-            "Forts were important to the development of the American West",
-            "Life in nineteenth-century forts was very rough.",
-        ],
-        "jawaban" => "Forts were important to the development of the American West",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 12,
-        "soal" => "The word “daring” in the text is closest in meaning to",
-        "pilihan" => [
-            "Lost",
-            "Bold",
-            "Lively",
-            "Foolish",
-        ],
-        "jawaban" => "Bold",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 13,
-        "soal" => "Which of the following would a traveler be likely be LEAST likely to obtain at Fort Laramie? ",
-        "pilihan" => [
-            "Fresh water",
-            "Food",
-            "Formal clothing",
-            "Lodging",
-        ],
-        "jawaban" => "Formal clothing",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 14,
-        "soal" => "The word “others” in the text refers to  ",
-        "pilihan" => [
-            "Posts",
-            "Wagon trains",
-            "Frontiers",
-            "Highways",
-        ],
-        "jawaban" => "Posts",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 15,
-        "soal" => "The word “boosted” in the text is closest in meaning to ",
-        "pilihan" => [
-            "Influenced",
-            "Established",
-            "Raised",
-            "Maintained",
-        ],
-        "jawaban" => "Raised",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 16,
-        "soal" => "Which of the following is the most likely inference about the decision to promote gardening at forts? ",
-        "pilihan" => [
-            "It was expensive to import produce from far away.",
-            "Food brought in from outside was often spoiled",
-            "Gardening was a way to occupy otherwise idle soldiers.",
-            "The soil near the forts was very fertile.",
-        ],
-        "jawaban" => "It was expensive to import produce from far away.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 17,
-        "soal" => "According to the passage, which of the following posed the biggest obstacle to the development of military forts? ",
-        "pilihan" => [
-            "Insufficient shelter",
-            "Shortage of materials",
-            "Attacks by wild animals",
-            "Illness",
-        ],
-        "jawaban" => "Illness",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 18,
-        "soal" => "The word “inhibited” in the text is closest in meaning to ",
-        "pilihan" => [
-            "Involved",
-            "Exploited",
-            "United",
-            "Hindered",
-        ],
-        "jawaban" => "Hindered",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 19,
-        "soal" => "How did the military assists in the investigation of health problems? ",
-        "pilihan" => [
-            "By registering annual birth and death rates",
-            "By experiments with different building materials",
-            "By maintaining records of diseases and potential causes",
-            "By monitoring the soldiers’ diets",
-        ],
-        "jawaban" => "By maintaining records of diseases and potential causes",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 20,
-        "soal" => "The author organizes the discussion of forts by ",
-        "pilihan" => [
-            "Describing their locations",
-            "Comparing their sizes",
-            "Explaining their damage to the environment",
-            "listing their contributions to western life",
-        ],
-        "jawaban" => "listing their contributions to western life",
+        "jawaban" => "She wanted to be part of a profession that no woman had ever entered before.",
     ]
 ],
 [
     "tipe" => "petunjuk",
     "data" => "
-        <p>Question 21 – 30 </p>
-        <p>Anyone who has handled a fossilized bone knows that it is usually not exactly like its modern <b>(22) counterpart</b>, the most obvious difference being that it is often much heavier. Fossils often have the quality of stone rather than of organic materials, and this has led to the use of the term “petrifaction” (to bring about rock). The implication is that bone, and other tissues, have somehow been turned into stone, and this is certainly the explanation given in some texts. But it is wrong interpretation; fossils are frequently so dense because the <b>(24) pores</b> and other spaces in the bone have become filled with minerals taken up from the surrounding sediments. Some fossil bones have all the interstitial spaces filled with foreign minerals, including the marrow cavity, if there is one, while others have taken up but little from their surroundings. Probably all of the minerals deposited within the bone have been recrystallized from solution by the action of water percolating thru them. The degree of mineralization appears to be determined by the nature of the environment in which the bone was deposited and not by the antiquity of the bone. For example, the black fossil bones that are so common in many parts of Florida are heavily mineralized, but they are only about 20,000 years old, whereas many of the dinosaur bones from western Canada, which are about 75 million years old, are only partially filled in. Under optimum conditions the process of mineralization probably takes thousands rather than millions of years, perhaps considerably less. </p>
-        <p>The amount of change that has occurred in fossil bone, even in bone as old as that of dinosaurs, is often remarkably small. We are therefore usually able to see the microscopic structures of the bone, including such fine details as the lacunae where the living bone cells once resided. The natural bone mineral, the hydroxyapatite, is virtually unaltered too – <b>(28) it</b> has the same crystal structure as that of modern bone. Although nothing remains of the original collagen, some of its component amino acids   are usually still <b>(29) detectable</b>, together with amino acids of the noncollagen proteins of bone.</p>"
+        <p><i><b>Question 11 through 21 are based on the following passage</b></i></p>
+        <p>Glands manufacture and secrete necessary substances. Exocrine glands secrete their products trough ducts, but endocrine glands, or ductless glands, release their products directly into the bloodstream.</p>
+        <p>One important endocrine glands is the thyroid gland. It is in the neck and has two lobes, one one each side of the windpipe. The thyroid gland collects iodine from the blood and produces thyroxine, an important hormone, which it stores in an inactive form. When thyroxine is needed by the body, the thyroid gland secretes it directly into the bloodstream. Thyroxine is combined int the body cells with other chemicals and effects many functions of the body.</p>
+        <p>The thyroid gland may be underactive or overactive, resulting in problem. An underactive thyroid causes hypothyroidism, while an overactive one causes Hyperthyroidism. The former problem, called myxedema in adults and cretinism in children, causes the growth process to slow down. A cretin's body and mind do not grow to their full potential. Hyperthyroidism, on the other hand, results in extreme nervousness, an increase in heart action, and other problems.</p>
+        <p>Either  hypothyroidism or hyperthyroidism may result in goither, or an enlarged thyroid gland. A goiter will appear when the body is not getting enough iodine. Goiter is less common today, since most people use iodized salt.</p>
+        <p>Kieven Russia also enjoyed a century of rebirth some two hundred years later under the able rule of yaroslav the Wise. Like Charlemagne, he founded schools, established libraries, and brought about many architectural achievements.</p>
+    "
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 21,
-        "soal" => "What does the passage mainly discuss?",
+        "no" => "11",
+        "soal" => "	The thyroid gland is called an endocrine gland because it ........................",
         "pilihan" => [
-            "The location of fossils in North America",
-            "The composition of fossils",
-            "Determining the size and weight of fossils",
-            "Procedures for analyzing fossils",
+            "is located in the neck",
+            "secretes directly into the bloodstream",
+            "has lobes",
+            "has ducts",
         ],
-        "jawaban" => "The composition of fossils",
+        "jawaban" => "secretes directly into the bloodstream",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 22,
-        "soal" => "The word “counterpart” in the text is closest in meaning to",
+        "no" => "12",
+        "soal" => "	The word <q>it</q> in the first line paragraph 2 refers to ........................ ",
         "pilihan" => [
-            "Species",
-            "Version",
-            "Change",
-            "Material",
+            "thyroid gland",
+            "iodine",
+            "blood",
+            "thyroxine",
         ],
-        "jawaban" => "Version",
+        "jawaban" => "thyroid gland",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 23,
-        "soal" => "Why is fossilized bone heavier than ordinary bone? ",
+        "no" => "13",
+        "soal" => "	A cretin is ........................",
         "pilihan" => [
-            "Bone tissue solidifies with age.",
-            "The marrow cavity gradually fills with water",
-            "The organic materials turn to stone",
-            "Spaces within the bone fill with minerals.",
+            "an extremely irritable child",
+            "a young person with hypothyroidism",
+            "an adult with an underperforming thyroid gland",
+            "a child with  hyperthyroidism",
         ],
-        "jawaban" => "Spaces within the bone fill with minerals.",
+        "jawaban" => "a young person with hypothyroidism",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 24,
-        "soal" => "The word “pores” in the text is closest in meaning to:",
+        "no" => "14",
+        "soal" => "	Which of the following is a probable result of myxederma? ........................",
         "pilihan" => [
-            "Joints",
-            "Tissues",
-            "Lines",
-            "Holes",
+            "perspiration",
+            "overproduction of thyroxine",
+            "hyperactivity",
+            "sluggishness",
         ],
-        "jawaban" => "Holes",
+        "jawaban" => "sluggishness",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 25,
-        "soal" => "What can be inferred about a fossil with a high degree of mineralization?",
+        "no" => "15",
+        "soal" => "	The word <q>former</q> in line 9 refers to ........................",
         "pilihan" => [
-            "It was exposed to large amounts of mineral-laden water throughout time.",
-            "Mineralization was complete within one year of the animal’ s death.",
-            "Many colorful crystals can be found in such a fossil.",
-            "It was discovered in western Canada.",
+            "perspiration",
+            "overproduction of thyroxine",
+            "overactive thyroid",
+            "hypothyroidism",
         ],
-        "jawaban" => "It was exposed to large amounts of mineral-laden water throughout time.",
+        "jawaban" => "hypothyroidism",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 26,
-        "soal" => "Which of the following factors is most important in determining the extent of mineralization in fossil bones? ",
+        "no" => "16",
+        "soal" => "	 A goiter is ........................",
         "pilihan" => [
-            "The age of fossil",
-            "Environmental conditions",
-            "The location of the bone in the animal’ s body.",
-            "The type of animal the bone came from",
+            "a chemical",
+            "an underactive thyroid gland",
+            "a swollen thyroid gland",
+            "a person with myxedrma",
         ],
-        "jawaban" => "Environmental conditions",
+        "jawaban" => "a swollen thyroid gland",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 27,
-        "soal" => "Why does the author compare fossils found in western Canada to those found in Florida? ",
+        "no" => "17",
+        "soal" => "	Exocrine and endocrine glands are distinguished from each other by whether they........................",
         "pilihan" => [
-            "To prove that a fossil’ s age cannot be determined by the amount of mineralization.",
-            "To discuss the large quantity of fossils found in both places",
-            "To suggest that fossils found in both places were the same age.",
-            "To explain why scientists are especially interested in Canadian fossils",
+            "result in an enlarged or shrunken goiter.",
+            "cause myxedema or cretinism.",
+            "cause hyperthyroidism or hypothyroidism.",
+            "secrete through ducts or without ducts.",
         ],
-        "jawaban" => "To prove that a fossil’ s age cannot be determined by the amount of mineralization.",
+        "jawaban" => "secrete through ducts or without ducts.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 28,
-        "soal" => "The word “ it” in the text refers to ",
+        "no" => "18",
+        "soal" => "	In line 1, the word <q>secrete</q> is closest in meaning to ........................",
         "pilihan" => [
-            "Hydroxyapatite",
-            "Microscopic structure",
-            "Crystal structure",
-            "Modern bone",
+            "absorb.",
+            "display.",
+            "emit.",
+            "indiscernible.",
         ],
-        "jawaban" => "Hydroxyapatite",
+        "jawaban" => "emit.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 29,
-        "soal" => "The word “detectable” in line 26 is closest in meaning to ",
+        "no" => "19",
+        "soal" => "	If a thyroid is not working enough, the illness is known as ........................",
         "pilihan" => [
-            "Sizable",
-            "Active",
-            "Moist",
-            "Apparent",
+            "Hypothyroidism.",
+            "Excretion.",
+            "Hyperactivity.",
+            "Hyperthyroidism.",
         ],
-        "jawaban" => "Apparent",
+        "jawaban" => "Hyperthyroidism.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 30,
-        "soal" => "Which of the following does NOT survive in fossils? ",
+        "no" => "20",
+        "soal" => "	The main idea of the passage is ........................",
         "pilihan" => [
-            "Noncollagen proteins",
-            "Hydroxyapatite",
-            "Collagen",
-            "Amino acid",
+            "how glands work.",
+            "the function and illnesses of the thyroid gland.",
+            "secretion with and without glands.",
+            "the illnesses of an overactive thyroid gland.",
         ],
-        "jawaban" => "Collagen",
-    ]
-],
-[
-    "tipe" => "petunjuk",
-    "data" => "
-        <p>Question 31 – 40 </p>
-        <p>In the last third of the nineteenth century a new housing form was quietly being developed. In 1869 the Stuyvesant, considered New York’ s first apartment house was   built on East Eighteenth Street. The building was financed by the developer Rutherfurd Line Stuyvesant and designed by Richard Morris Hunt, the first American architect to graduate from the Ecole des Beaux Arts in Paris. Each man had lived in Paris, and each understood the economics and social potential of this Parisian housing form. But the Stuyvesant was at best a limited success. In spite of Hunt’ s <b>(32) inviting</b> façade, the living space was awkwardly arranged. Those who could afford them were quite content to remain in the more <b>(34) sumptuous</b>, single-family homes, leaving the Stuyvesant to young married couples and bachelors. </p>
-        <p>The fundamental problem with the Stuyvesant and the other early apartment buildings that quickly followed, in the 1870’ s and early 1880’ s was that they were confined to the typical New York building lot. That lot was a rectangular area 25 feet wide by 100   feet deep – a shape perfectly suited for a row house. The lot could also accommodate a rectangular tenement, though it could not <b>(38) yield</b> the square, well-lighted, and logically arranged rooms that great apartment buildings require. But even with the awkward interior configurations of the early apartment buildings, the idea caught on. It met the needs of a large and growing population that wanted something better than tenements but could not afford or did not want row houses.</p>
-        <p>So while the city’ s newly emerging social leadership commissioned their mansions,apartment houses and hotels began to sprout in multiple lots, thus breaking the initial space constraints. In the closing decades of the nineteenth century, large apartment houses began dotting the developed portions of New York City, and by the opening decades of the twentieth century, spacious buildings, such as the Dakota and the Ansonia finally transcended the tight confinement of row house building lots. From there it was only a small step to building luxury apartment houses on the newly created Park Avenue right next to the fashionable Fifth Avenue shopping area.</p>"
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 31,
-        "soal" => "The new housing form discussed in passage refers to",
-        "pilihan" => [
-            "Single-family homes",
-            "Apartment buildings",
-            "Row houses",
-            "Hotels",
-        ],
-        "jawaban" => "Apartment buildings",
+        "jawaban" => "the function and illnesses of the thyroid gland.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 32,
-        "soal" => "The word “inviting” in the text is closest in meaning to",
+        "no" => "21",
+        "soal" => "	The function of the thyroid gland is described in paragraph  ........................",
         "pilihan" => [
-            "Open",
-            "Encouraging",
-            "Attractive",
-            "Asking",
+            "1",
+            "2",
+            "3",
+            "4",
         ],
-        "jawaban" => "Attractive",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 33,
-        "soal" => "Why was the Stuyvesant a limited success? ",
-        "pilihan" => [
-            "The arrangement of the rooms was not convenient.",
-            "Most people could not afford to live there.",
-            "There were no shopping areas nearby.",
-            "It was in a crowded neighborhood.",
-        ],
-        "jawaban" => "The arrangement of the rooms was not convenient.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 34,
-        "soal" => "The word “sumptuous” in the text is closest in meaning to ",
-        "pilihan" => [
-            "Luxurious",
-            "Unique",
-            "Modern",
-            "Distant",
-        ],
-        "jawaban" => "Luxurious",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 35,
-        "soal" => "It can be inferred that the majority of people who lived in New York’s first apartments were",
-        "pilihan" => [
-            "Highly educated",
-            "Unemployed",
-            "Wealthy",
-            "Young",
-        ],
-        "jawaban" => "Young",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 36,
-        "soal" => "It can be inferred that a New York apartment building in the 1870’ s and 1880’ s had all of the following characteristics EXCEPT:  ",
-        "pilihan" => [
-            "Its room arrangement was not logical.",
-            "It was rectangular.",
-            "It was spacious inside.",
-            "It had limited light.",
-        ],
-        "jawaban" => "It was spacious inside.",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 37,
-        "soal" => "The word “ yield” in the text is closest in meaning to ",
-        "pilihan" => [
-            "Harvest",
-            "Surrender",
-            "Amount",
-            "Provide",
-        ],
-        "jawaban" => "Provide",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 38,
-        "soal" => "Why did the idea of living in an apartment become popular in the late 1800’ s? ",
-        "pilihan" => [
-            "Large families needed housing with sufficient space.",
-            "Apartments were preferable to tenements and cheaper than row houses",
-            "The city officials of New York wanted housing that was centrally located.",
-            "The shape of early apartments could accommodate a variety of interior designs.",
-        ],
-        "jawaban" => "Apartments were preferable to tenements and cheaper than row houses",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 39,
-        "soal" => "The author mentions the Dakota and the Ansonia in paragraph 3 because",
-        "pilihan" => [
-            "They are examples of large, welldesigned apartment buildings",
-            "Their design is similar to that of row houses",
-            "They were built on a single building lot",
-            "They are famous hotels",
-        ],
-        "jawaban" => "They are examples of large, welldesigned apartment buildings",
-    ]
-],
-[
-    "tipe" => "soal",
-    "data" => [
-        "no" => 40,
-        "soal" => "The word “ newly” in the text is closest in meaning to ",
-        "pilihan" => [
-            "Rather",
-            "Usually",
-            "Sometime",
-            "Just",
-        ],
-        "jawaban" => "Just",
+        "jawaban" => "2",
     ]
 ],
 [
     "tipe" => "petunjuk",
     "data" => "
-        <p>Question 41 – 50 </p>
-        <p>A snowfall consists of myriads of <b>(42) minute</b> ice crystals that fall to the ground in the form of frozen precipitation. The formation of snow begins with these ice crystals in the subfreezing strata of the middle and upper atmosphere when there is an adequate supply of moisture present. At the core of every ice crystal is a minuscule nucleus, a solid particle of matter around which moisture condenses and freezes. Liquid water droplets floating in the supercooled atmosphere and free ice crystals cannot coexist within the same cloud, since the vapor pressure of ice is less than that of water. This enables the ice crystals to rob the liquid droplets of their moisture and grow continuously. The process can be very rapid, quickly creating sizable ice crystals, some of which <b>(44) adhere</b> to each other to create a cluster of ice crystals or a snowflake. Simple flakes possess a variety of beautiful forms, usually hexagonal, though the symmetrical shapes reproduced in most microscope photography of snowflakes are not usually found in actual snowfalls. Typically, snowflakes in actual snowfall consists of broken fragments and clusters of adhering ice crystals.</p>
-        <p>For a snowfall to continue once <b>(46) it</b> starts, there must be a constant inflow of moisture to supply the nuclei. This moisture is supplied by the passage of an airstream over a water surface and its subsequent lifting to higher regions of the atmosphere. The Pacific Ocean is the source of moisture for most snowfalls west of the Rocky Mountains, while the Gulf of Mexico and the Atlantic Ocean feed water vapor into the air currents over the central and eastern sections of the United States. Other geographical features also can be the source of moisture for some snowstorms. For example, areas adjacent to the Great Lakes experience their own unique lake-effect storms, employing a variation of the process on a local scale. In addition, mountainous section or rising terrain can <b>(49) initiate</b> snowfalls by the geographical lifting of a moist airstream.</p>"
+        <p><b><i>Question 22 through 30 are based on the following passage</i></b></p>
+        <p>A recent investigation by scientists at the U.S. Geological Survey shows that strange animal behavior might help predict earthquakes. Investigators found such occurrences within a ten-kilometer radius of the epicenter of a fairly recent quake. Some birds screeched and flew about wildly; dogs yelped and ran around uncontrollably.</p>
+        <p>Scientists believe that animals can perceive environmental changes several hours or even days before the mishap. Animals were noted as being restles for several weeks before a Tashkent, Uzbekistan, earthquake. An hour before the disaster, domestic animals refused to go indoors , and dogs howled and barked furiously. In 1960, an earthquake struck Agadir in Morocco. Survivors recall that stray animals, including dogs, were seen streaming out of town before the earthquake. In a safari zoo near San Francisco, Ilamas would not eat the evening before a 1979 quake, and they ran around wildly all night.</p>
+        <p>Unusual animal behavior preceding earthquakes has been noted for centuries. British Admiral Robert Fitzroy  reported huge flocks of screaming seabirds over Concepcion, Chile, in 1835. An hour and a half later, dogs were seen fleeing , and ten minutes later the town was destroyed. Similar stories of chickens running around in apparent states of panic, horses trembling, and dogs barking incessantly were recorded throughout the eighteenth and nine-teenth centuries by survivors of earthquake destruction in India, Yugoslavia, Peru, Mexico, and the United States.</p>
+        <p>In 1976, after monitoring bizzare animal behavior, the Chinese predicted a devastating earthquake. Although hundreds of thousands of people were killed, the government was able to evacuate millions of other people and thus keep the death toll at a lower level.</p>
+    "
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 41,
-        "soal" => "Which of the following questions does author answer in the first paragraph?",
+        "no" => "22",
+        "soal" => "	What prediction may be made by observing animal behavior?  ........................",
         "pilihan" => [
-            "Why are snowflakes hexagonal?",
-            "What is the optimum temperature for snow?",
-            "In which months does most snow fall?",
-            "How are snowflakes formed?.",
+            "The fact that an earthquake has occurred.",
+            "The ten-kilometer radius from the epicenter.",
+            "The number of people who will die.",
+            "An impending earthquake.",
         ],
-        "jawaban" => "How are snowflakes formed?.",
+        "jawaban" => "An impending earthquake.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 42,
-        "soal" => "The word “minute” in the text is closest in meaning to",
+        "no" => "23",
+        "soal" => "	The author implies that animals are aware of an impending earthquake because  ........................",
         "pilihan" => [
-            "Tiny",
-            "Quick",
-            "Clear",
-            "Sharp",
+            "They react to other animal behavior.",
+            "they are generally closer to the epicenter than the human observers. ",
+            "they have certain instinctive abilities to perceive that humans do not possess.",
+            "of their superior intelligence.",
         ],
-        "jawaban" => "Tiny",
+        "jawaban" => "they have certain instinctive abilities to perceive that humans do not possess.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 43,
-        "soal" => "What is at the center of an ice crystal? ",
+        "no" => "24",
+        "soal" => "	The word <q>Evacuate</q> in the last paragraph is closest in meaning to  ........................",
         "pilihan" => [
-            "A small snowflake",
-            "A nucleus",
-            "A drop of water",
-            "A hexagon",
+            "Remove",
+            "Exile",
+            "Destroy",
+            "Emaciate",
         ],
-        "jawaban" => "A nucleus",
+        "jawaban" => "Remove",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 44,
-        "soal" => "The word “adhere” in the text is closest in meaning to",
+        "no" => "25",
+        "soal" => "	All of the following statements are true EXCEPT  ........................",
         "pilihan" => [
-            "Belong",
-            "Relate",
-            "Stick",
-            "Speed",
+            "Some animals may be able to sense an approaching earthquake.",
+            "By observing animal behavior scientists perhaps can predict earthquakes.",
+            "By observing animal behavior scientists perhaps can predict earthquakes.",
+            "Some animals may be able to sense an approaching earthquake.",
         ],
-        "jawaban" => "Stick",
+        "jawaban" => "Some animals may be able to sense an approaching earthquake.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 45,
-        "soal" => "What is the main topic of the second paragraph?",
+        "no" => "26",
+        "soal" => "	In paragraph 1, the word <q>epicenter</q> is nearest in meaning to  ........................",
         "pilihan" => [
-            "How ice crystals form",
-            "How moisture affects temperature",
-            "What happens when ice crystals melt",
-            "Where the moisture to supply the nuclei comes from",
+            "Stratosphere.",
+            "Contour.",
+            "Periphery.",
+            "Core.",
         ],
-        "jawaban" => "Where the moisture to supply the nuclei comes from",
+        "jawaban" => "Core.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 46,
-        "soal" => "The word “it” in the text refers to",
+        "no" => "27",
+        "soal" => "	The passage implies that if scientists can accurately predict earthquakes, there will be",
         "pilihan" => [
-            "Snowfall",
-            "Snowflake",
-            "Cluster",
-            "Moisture",
+            "fewer environmental canges.",
+            "fewer people evacuated.",
+            "a lower death rate.",
+            "fewer animals going crazy.",
         ],
-        "jawaban" => "Snowfall",
+        "jawaban" => "a lower death rate.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 47,
-        "soal" => "What is necessary for a snowfall to persist?",
+        "no" => "28",
+        "soal" => "	In last paragraph, <q>devastating</q> means most nearly te same as  ........................",
         "pilihan" => [
-            "A decrease in the number of snowflakes",
-            "Lowered vapor pressure in ice crystals",
-            "A continuous infusion of moisture",
-            "A change in the direction of the airstream",
+            "forthcoming.",
+            "intense.",
+            "voracious.",
+            "destructive.",
         ],
-        "jawaban" => "A continuous infusion of moisture",
+        "jawaban" => "destructive.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 48,
-        "soal" => "How do lake-effect snowstorms form?",
+        "no" => "29",
+        "soal" => "	The main idea of this passage is that  ........................",
         "pilihan" => [
-            "Water temperature drop below freezing.",
-            "Moisture rises from a lake into the airstream.",
-            "Large quantities of wet air come off a nearby mountain.",
-            "Millions of ice crystals form on the surface of a large lake.",
+            "earthquakes can be prevented by observing animal behavior.",
+            "scientists can interpret animal behavior.",
+            "observing animal behavior can help people prepare for earthquakes.",
+            "people need to prepare animals for earthquakes.",
         ],
-        "jawaban" => "Moisture rises from a lake into the airstream.",
+        "jawaban" => "observing animal behavior can help people prepare for earthquakes.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 49,
-        "soal" => "The word “initiate” in the text is closest in meaning to",
+        "no" => "30",
+        "soal" => "	Where in the reading  is it explained that the phenomena of animals' reacting to earthquakes has been 	reported for hundreds of years?   ........................",
         "pilihan" => [
-            "Enhance",
-            "Alter",
-            "Increase",
-            "Begin",
+            "paragraph 1",
+            "paragraph 2",
+            "paragraph 3",
+            "paragraph 4",
         ],
-        "jawaban" => "Begin",
+        "jawaban" => "paragraph 3",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><i><b>Questions 31 through 39 are based on the following passage.</b></i></p>
+        <p>As far back as 700 B.C., people have talked about children being cared for by wolves. Romulus and Remus, the legendary twin founders of Rome, were purported to have been cared for by wolves. According to legend, Mars fathered the two boys. As a result, a relative of their mother imprisoned her and ordered that the boys be drowned in the Tiber River. However, a she-wolf saved them from this horrible fate and took them back to her lair to care for them. Legend has it that when a she-wolf loses her litter, she seeks a human child to take its place.</p>
+        <p>This seemingly preposterous idea did not become credible until the late nineteenth century when a French doctor actually found a naked ten-year-old boy wandering in the woods. He did not walk erect, could not speak intelligibly, nor could he relate to people. He only growled and stared at them. Finally, the doctor won the boy's confidence and began to work with him. After many long years of devoted and patient instruction, the doctor was able to get the boy to clothe and feed himself, recognize and utter a number of words, and write letters and form words.</p> 
+    "
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "31",
+        "soal" => "	The French doctor found the boy  ........................",
+        "pilihan" => [
+            "speaking intelligibly.",
+            "growling at him.",
+            "at his doorstep.",
+            "wandering in the woods.",
+        ],
+        "jawaban" => "wandering in the woods.",
     ]
 ],
 [
     "tipe" => "soal",
     "data" => [
-        "no" => 50,
-        "soal" => "Which of the following could account for the lack of snowfall in a geographical location close to mountains and a major water source?",
+        "no" => "32",
+        "soal" => "	In the the end of the first paragraph, the word <q>litter<q> means most nearly the same as  ........................",
         "pilihan" => [
-            "Ground temperatures below the freezing point",
-            "Too much moisture in the air",
-            "Too much wind off the mountains",
-            "Atmospheric temperatures above the freezing point.",
+            "hair.",
+            "offspring.",
+            "master.",
+            "garbage.",
         ],
-        "jawaban" => "Atmospheric temperatures above the freezing point.",
+        "jawaban" => "offspring.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "33",
+        "soal" => "	The doctor was able to work with the boy because  ........................",
+        "pilihan" => [
+            "the boy was dedicated and patient.",
+            "the boy liked to dress up.",
+            "the boy trusted him.",
+            "the boy was highly intelligent.",
+        ],
+        "jawaban" => "the boy trusted him.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "34",
+        "soal" => "	The word <q>utter</q> in the last of second paragraph is nearest in meaning to  ........................",
+        "pilihan" => [
+            "absolute.",
+            "speak.",
+            "scream.",
+            "read.",
+        ],
+        "jawaban" => "speak.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "35",
+        "soal" => "	All of the following statements are true EXCEPT  ........................",
+        "pilihan" => [
+            "Examples of wolves' caring for human children can be found only in the nineteenth century.",
+            "The young boy never was able to speak perfectly.",
+            "The French doctor succeeded in domesticating the boy somewhat.",
+            "She-wolves have been said to substitute human children for their lost litters.",
+        ],
+        "jawaban" => "Examples of wolves' caring for human children can be found only in the nineteenth century.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "36",
+        "soal" => "	The word <q>preposterous</q> in the first line of second paragraph is closest in meaning to  ........................",
+        "pilihan" => [
+            "dedicated.",
+            "scientific.",
+            "wonderful.",
+            "absurd.",
+        ],
+        "jawaban" => "absurd.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "37",
+        "soal" => "	The main idea of the passage is that according to legend  ........................",
+        "pilihan" => [
+            "A French doctor saved Romulus and Remus from drowning.",
+            "Romulus and Remus were cared for by a she-wolf.",
+            "She-wolves replace their dead offspring with human children.",
+            "Children who are raised by wolves can be rehabilitated.",
+        ],
+        "jawaban" => "Romulus and Remus were cared for by a she-wolf.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "38",
+        "soal" => "	According to the legend, Romulus and Remus were  ........................",
+        "pilihan" => [
+            "drowned in the Tiber River in 700 B.C.",
+            "discovered by a French doctor.",
+            "the founders of Rome.",
+            "found abandoned in Rome.",
+        ],
+        "jawaban" => "the founders of Rome.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "39",
+        "soal" => "	Where in the passage is it stated that, according to legend, Romulus and Remus founded Rome? ..........",
+        "pilihan" => [
+            "lines 1 – 2.",
+            "lines 5 – 6.",
+            "lines 7 – 8.",
+            "lines 9 – 10.",
+        ],
+        "jawaban" => "lines 1 – 2.",
+    ]
+],
+[
+    "tipe" => "petunjuk",
+    "data" => "
+        <p><b><i>Questions 40 through 50 are based on the following passage.</i></b></p>
+        <p><i>Vibrio parahaemolyticus</i> is a bacterial organism that has been isolated from sea water, shellfish, finfish, plankton, and salt springs. It has been a major cause of food poisoning in Japan, compelling the Japanese to do several studies on it. They have confirmed the presence of V. Parahaemolyticus in the north and central Pacific, with the highest abundance in inshore waters, particularly in or near large harbors.</p>
+        <p>A man named Nishio studied the relationship between the chloride content of sea water and the seasonal distribution of <i>V. parahaemolyticus</i>  and concluded that while the isolation of the organism was independent of the sodium chloride content, the distribution of the bacteria in sea water was dependent on the water temperature. In fact, it has been isolated in high frequencies during summer, from June to September, but was not isolated with the same frequency in winter.</p>
+        <p>Within four or five days after eating contaminated foods, a person will begin to experience diarrhea, the most common symptom; this will very often be accompanied by stomach cramps, nausea, and vomiting. Headache and fever, with or without chills, may also be experienced.</p>     
+    "
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "40",
+        "soal" => "	Which of the following locations would be most likely to have a high concentration of <i>Vibrio 	parahaemolyticus</i>?  ........................",
+        "pilihan" => [
+            "Sediment.",
+            "The middle of the ocean.",
+            "A sea.",
+            "A bay.",
+        ],
+        "jawaban" => "A bay.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "41",
+        "soal" => "	The word <q>inshore</q> in the last line of the first paragraph is closest in meaning to  ........................",
+        "pilihan" => [
+            "cold.",
+            "active.",
+            "deep",
+            "near the coast",
+        ],
+        "jawaban" => "near the coast",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "42",
+        "soal" => "	The word <q>it</q> in the second paragraph refers to ........................",
+        "pilihan" => [
+            "Water temperature.",
+            "Sodium chloride content.",
+            "Sea water.",
+            "<i>Vibrio parahaemolyticus.</i>",
+        ],
+        "jawaban" => "<i>Vibrio parahaemolyticus.</i>",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "43",
+        "soal" => "	The safest time or eating seafood in the north Pacific is probably ........................",
+        "pilihan" => [
+            "August.",
+            "November.",
+            "July.",
+            "September.",
+        ],
+        "jawaban" => "November.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "44",
+        "soal" => "	The most common symptom of <i>V. Parahaemolyticus</i> poisoning is ........................",
+        "pilihan" => [
+            "September.",
+            "July.",
+            "November.",
+            "August.",
+        ],
+        "jawaban" => "November.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "45",
+        "soal" => "	The word <q>this</q> in the last paragraph refers to ........................",
+        "pilihan" => [
+            "Diarrhea.",
+            "A person.",
+            "Symptoms.",
+            "Contaminated foods.",
+        ],
+        "jawaban" => "Diarrhea.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "46",
+        "soal" => "	The incubation period for this illness is ........................",
+        "pilihan" => [
+            "Several months.",
+            "4 to 5 days.",
+            "3 to 4 hours.",
+            "2 to 3 days.",
+        ],
+        "jawaban" => "4 to 5 days.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "47",
+        "soal" => "	In the first line of third paragraph, <q>contaminated</q> is closest in meaning to ........................",
+        "pilihan" => [
+            "Ocean.",
+            "Tainted.",
+            "Salty.",
+            "Cooked.",
+        ],
+        "jawaban" => "Tainted.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "48",
+        "soal" => "	Nishio's study showed that ........................",
+        "pilihan" => [
+            "the presence of V. Parahaemolyticus was dependent on neither the salt content nor the water temperature.",
+            "the presence of V. Parahaemolyticus was dependent only on the salt content.",
+            "the presence of V. Parahaemolyticus was independent of both the water temperature and the salt content.",
+            "the presence of <i>V. parahaemolyticus</i> was dependent on the water temperature.",
+        ],
+        "jawaban" => "the presence of <i>V. parahaemolyticus</i> was dependent on the water temperature.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "49",
+        "soal" => "	The word <q>cramps</q> in the last paragraph means most nearly the same as ........................",
+        "pilihan" => [
+            "noises.",
+            "toxicity.",
+            "severe pain.",
+            "high temperature.",
+        ],
+        "jawaban" => "severe pain.",
+    ]
+],
+[
+    "tipe" => "soal",
+    "data" => [
+        "no" => "50",
+        "soal" => "	The word <q>isolation</q> in the second paragraph is closest in meaning to ........................",
+        "pilihan" => [
+            "conjunction.",
+            "impurity.",
+            "discovery.",
+            "separation.",
+        ],
+        "jawaban" => "separation.",
     ]
 ],
