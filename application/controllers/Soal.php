@@ -50,6 +50,10 @@ class Soal extends CI_Controller {
             $data['listening'] = $this->Soal_model->get_soal_listeningv6();
             $data['structure'] = $this->Soal_model->get_soal_structurev6();
             $data['reading'] = $this->Soal_model->get_soal_readingv6();
+        } else if($soal['tipe_soal'] == 7){
+            $data['listening'] = $this->Soal_model->get_soal_listeningv7();
+            $data['structure'] = $this->Soal_model->get_soal_structurev7();
+            $data['reading'] = $this->Soal_model->get_soal_readingv7();
         }
 
         $this->load->view("pages/layout/header-user", $data);
@@ -99,6 +103,8 @@ class Soal extends CI_Controller {
                 $soal = $this->Soal_model->get_soal_listeningv5();
             } else if($tes['tipe_soal'] == 6){
                 $soal = $this->Soal_model->get_soal_listeningv6();
+            } else if($tes['tipe_soal'] == 7){
+                $soal = $this->Soal_model->get_soal_listeningv7();
             }
 
             $k = 0;
@@ -137,6 +143,8 @@ class Soal extends CI_Controller {
                 $soal = $this->Soal_model->get_soal_structurev5();
             } else if($tes['tipe_soal'] == 6){
                 $soal = $this->Soal_model->get_soal_structurev6();
+            } else if($tes['tipe_soal'] == 7){
+                $soal = $this->Soal_model->get_soal_structurev7();
             }
             
             $k = 0;
@@ -175,6 +183,8 @@ class Soal extends CI_Controller {
                 $soal = $this->Soal_model->get_soal_readingv5();
             } else if($tes['tipe_soal'] == 6){
                 $soal = $this->Soal_model->get_soal_readingv6();
+            } else if($tes['tipe_soal'] == 7){
+                $soal = $this->Soal_model->get_soal_readingv7();
             }
 
             $k = 0;

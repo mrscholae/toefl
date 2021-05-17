@@ -5249,6 +5249,10 @@ class Soal_model extends CI_Model {
                 ]
             ],
             [
+                "tipe" => "petunjuk",
+                "data" => "In questions 16-40 each sentences has four underlined words of phrases. The four underlined parts of the ‎sentence are marked (A), (B), (C), and (D). indentify the one underlined word of phrase that must be changed ‎in order for the sentence to be correct. Then, on your answer sheet, find the number of the question and fill in ‎the space that correspondends to the letter of the answer you have choosen.‎"
+            ],
+            [
                 "tipe" => "soal",
                 "data" => [
                     "no" => 16,
@@ -7370,6 +7374,10 @@ class Soal_model extends CI_Model {
                 ]
             ],
             [
+                "tipe" => "petunjuk",
+                "data" => "In questions 16-40 each sentences has four underlined words of phrases. The four underlined parts of the ‎sentence are marked (A), (B), (C), and (D). indentify the one underlined word of phrase that must be changed ‎in order for the sentence to be correct. Then, on your answer sheet, find the number of the question and fill in ‎the space that correspondends to the letter of the answer you have choosen.‎"
+            ],
+            [
                 "tipe" => "soal",
                 "data" => [
                     "no" => 16,
@@ -9485,6 +9493,10 @@ class Soal_model extends CI_Model {
                 ]
             ],
             [
+                "tipe" => "petunjuk",
+                "data" => "In questions 16-40 each sentences has four underlined words of phrases. The four underlined parts of the ‎sentence are marked (A), (B), (C), and (D). indentify the one underlined word of phrase that must be changed ‎in order for the sentence to be correct. Then, on your answer sheet, find the number of the question and fill in ‎the space that correspondends to the letter of the answer you have choosen.‎"
+            ],
+            [
                 "tipe" => "soal",
                 "data" => [
                     "no" => 16,
@@ -11598,6 +11610,10 @@ class Soal_model extends CI_Model {
                 ]
             ],
             [
+                "tipe" => "petunjuk",
+                "data" => "In questions 16-40 each sentences has four underlined words of phrases. The four underlined parts of the ‎sentence are marked (A), (B), (C), and (D). indentify the one underlined word of phrase that must be changed ‎in order for the sentence to be correct. Then, on your answer sheet, find the number of the question and fill in ‎the space that correspondends to the letter of the answer you have choosen.‎"
+            ],
+            [
                 "tipe" => "soal",
                 "data" => [
                     "no" => "16",
@@ -12713,6 +12729,2081 @@ class Soal_model extends CI_Model {
                     "jawaban" => "separation.",
                 ]
             ],
+        ];
+
+        return $data;
+    }
+
+    public function get_soal_listeningv7(){
+        $data = [
+            [
+                "tipe" => "audio",
+                "data" => "v7 1-5.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 1,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Looking for beverage",
+                        "Taking a glass of drink",
+                        "Looking at drinks",
+                        "Buying a glass",
+                    ],
+                    "jawaban" => "Looking for beverage",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 2,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He cannot get a help soon.",
+                        "He will give his hand to do something.",
+                        "He pleases Jane to go.",
+                        "He helped Jane last time.",
+                    ],
+                    "jawaban" => "He will give his hand to do something.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 3,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She believes that she can do the exam.",
+                        "She is confident with her ability in examination.",
+                        "She wonders that she passed the test.",
+                        "She believes that she get a good score.",
+                    ],
+                    "jawaban" => "She wonders that she passed the test.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 4,
+                    "soal" => "",
+                    "pilihan" => [
+                        "To have much money",
+                        "To buy a car",
+                        "To rent a vehicle",
+                        "To have savings",
+                    ],
+                    "jawaban" => "To have savings",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 5,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She prefers to drink coffee rather than to drink tea.",
+                        "She enjoys drinking coffee.",
+                        "She doesn’t like tea.",
+                        "She likes coffee.",
+                    ],
+                    "jawaban" => "She prefers to drink coffee rather than to drink tea.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 6-10.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 6,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He assumes that the exam will start later.",
+                        "He believes that the test is in the morning.",
+                        "He knows when the test starts.",
+                        "He tells the woman that the test will start in the morning.",
+                    ],
+                    "jawaban" => "He believes that the test is in the morning.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 7,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The lecturer waited for the woman.",
+                        "I waited for the lecturer.",
+                        "I don’t go home immediately.",
+                        "The lecturer asked me to go home.",
+                    ],
+                    "jawaban" => "I waited for the lecturer.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 8,
+                    "soal" => "",
+                    "pilihan" => [
+                        "My teacher gave me the next paper.",
+                        "I did my test easily.",
+                        "My teacher corrected my paper.",
+                        "I asked my teacher the paper.",
+                    ],
+                    "jawaban" => "My teacher corrected my paper.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 9,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He is forced to go to bed early.",
+                        "His mom doesn’t stay up late.",
+                        "His mom goes to bed quite early.",
+                        "He wants to go to bed by himself.",
+                    ],
+                    "jawaban" => "He is forced to go to bed early.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 10,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The TOEFL test would start this week.",
+                        "She would also like to join TOEFL test.",
+                        "She doesn’t think that the TOEFL test would be a good idea.",
+                        "The TOEFL test would be easy for her.",
+                    ],
+                    "jawaban" => "She would also like to join TOEFL test.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 11-15.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 11,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He agrees with the woman’s idea.",
+                        "He doesn’t like what the woman said.",
+                        "He wants to reach his dream.",
+                        "He says that the woman is lazy.",
+                    ],
+                    "jawaban" => "He agrees with the woman’s idea.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 12,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He is very busy.",
+                        "He has lots of free time.",
+                        "It is unimportant to go to beach.",
+                        "He will join if he has time.",
+                    ],
+                    "jawaban" => "He is very busy.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 13,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The office opens daily.",
+                        "You can’t go to the office.",
+                        "The office should be closed.",
+                        "The office closes on Sunday.",
+                    ],
+                    "jawaban" => "The office closes on Sunday.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 14,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The weather supported their journey.",
+                        "The view was worse.",
+                        "Neither the view nor the weather was satisfying.",
+                        "He thought the weather was bad.",
+                    ],
+                    "jawaban" => "He thought the weather was bad.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 15,
+                    "soal" => "",
+                    "pilihan" => [
+                        "They should take a part in TOEFL test.",
+                        "TOEFL test should be announced.",
+                        "They should look for the information about TOEFL test.",
+                        "The man wants to join the test.",
+                    ],
+                    "jawaban" => "They should take a part in TOEFL test.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 16-20.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 16,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The exam will be easy for Joe.",
+                        "He believes Joe is able to work the exam.",
+                        "He’s told Joe she’ll go far.",
+                        "He is far from Joe.",
+                    ],
+                    "jawaban" => "He believes Joe is able to work the exam.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 17,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He always buys the parcel.",
+                        "He would buy the parcel later.",
+                        "He didn’t purchase the parcel.",
+                        "She wants his parcel.",
+                    ],
+                    "jawaban" => "He didn’t purchase the parcel.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 18,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The woman always rode her bike.",
+                        "The woman did not know how to ride a bike.",
+                        "The woman was not coming.",
+                        "The woman was an expert bike rider.",
+                    ],
+                    "jawaban" => "The woman did not know how to ride a bike.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 19,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She doesn’t lend him a pen.",
+                        "She only gets one pen.",
+                        "She is too kind not to lend him.",
+                        "He should borrow others.",
+                    ],
+                    "jawaban" => "She only gets one pen.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 20,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He should go to the garage.",
+                        "He should service by himself.",
+                        "She asks the man to check his vehicle in the garage.",
+                        "His vehicle needs fixing.",
+                    ],
+                    "jawaban" => "She asks the man to check his vehicle in the garage.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 21-25.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 21,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The service is bad to the guest.",
+                        "He doesn’t like the service not the receptionist.",
+                        "He doesn’t know at all.",
+                        "The guest looks so happy when meeting the receptionist.",
+                    ],
+                    "jawaban" => "The service is bad to the guest.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 22,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She gives the pilot permission to take off.",
+                        "The pilot needs to land.",
+                        "She gives her number to the man.",
+                        "She thinks her number is important for him.",
+                    ],
+                    "jawaban" => "She gives the pilot permission to take off.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 23,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He doesn’t want to go around.",
+                        "He wants to go around if the weather is good.",
+                        "He is sick of the woman.",
+                        "He is really a good man.",
+                    ],
+                    "jawaban" => "He doesn’t want to go around.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 24,
+                    "soal" => "",
+                    "pilihan" => [
+                        "The exercises are not difficult.",
+                        "She can do the best.",
+                        "She thinks that she expects too much.",
+                        "She is the winner.",
+                    ],
+                    "jawaban" => "The exercises are not difficult.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 25,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She will have a course.",
+                        "She only says “yes”",
+                        "She is going to join the course.",
+                        "She is confusing.",
+                    ],
+                    "jawaban" => "She is going to join the course.",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 26-30.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 26,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Help the woman soon.",
+                        "Purchase the soap at the store.",
+                        "Go to the kitchen.",
+                        "Ask the soap to the woman.",
+                    ],
+                    "jawaban" => "Purchase the soap at the store.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 27,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Playing mobile phone behind the child",
+                        "Stopping the child playing mobile phone",
+                        "Giving a good example to the child",
+                        "Selling mobile phone as soon as possible",
+                    ],
+                    "jawaban" => "Giving a good example to the child",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 28,
+                    "soal" => "",
+                    "pilihan" => [
+                        "She guesses that the money she found is his.",
+                        "She goes to the stairs when he lost his money.",
+                        "She backs the man’s money.",
+                        "She lost her money too.",
+                    ],
+                    "jawaban" => "She guesses that the money she found is his.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 29,
+                    "soal" => "",
+                    "pilihan" => [
+                        "At Barbershop",
+                        "At Garage",
+                        "At Zoo",
+                        "At Home",
+                    ],
+                    "jawaban" => "At Zoo",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 30,
+                    "soal" => "",
+                    "pilihan" => [
+                        "At class",
+                        "At beach",
+                        "At station",
+                        "At gas station",
+                    ],
+                    "jawaban" => "At class",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 31-35.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 31,
+                    "soal" => "",
+                    "pilihan" => [
+                        "In French",
+                        "In Indonesia",
+                        "In Italy",
+                        "In Holland ",
+                    ],
+                    "jawaban" => "In French",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 32,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Because he was forced by his father.",
+                        "Because he didn’t want at home alone.",
+                        "Because Joe’s father was getting a job far from home.",
+                        "Because his mom joint.",
+                    ],
+                    "jawaban" => "Because Joe’s father was getting a job far from home.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 33,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Because he goes home soon.",
+                        "Because his phone was left in French.",
+                        "Because his father was angry with him.",
+                        "Because his mom joint to French.",
+                    ],
+                    "jawaban" => "Because his phone was left in French.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 34,
+                    "soal" => "",
+                    "pilihan" => [
+                        "In homestay",
+                        "On bed",
+                        "In the bathroom",
+                        "In the kitchen",
+                    ],
+                    "jawaban" => "On bed",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 35,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Being a calm man",
+                        "Being careful",
+                        "Going to French",
+                        "Asking for buying a new phone",
+                    ],
+                    "jawaban" => "Being a calm man",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 36-39.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 36,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Supporting the woman",
+                        "Giving a speech",
+                        "Listening to the woman’s speech",
+                        "Nothing to do",
+                    ],
+                    "jawaban" => "Supporting the woman",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 37,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Being sincere and humble man",
+                        "Being a kind man",
+                        "Going to library soon",
+                        "Staying with her",
+                    ],
+                    "jawaban" => "Being sincere and humble man",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 38,
+                    "soal" => "",
+                    "pilihan" => [
+                        "In the hospital",
+                        "In the school",
+                        "In the grave",
+                        "In the farm ",
+                    ],
+                    "jawaban" => "In the school",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 39,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Stay there ",
+                        "Do the homework",
+                        "Face the lecturer",
+                        "Go to library",
+                    ],
+                    "jawaban" => "Go to library",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 40-45.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 40,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Telling dreams",
+                        "The interest of future",
+                        "Man’s dream",
+                        "Being a good dreamer",
+                    ],
+                    "jawaban" => "Telling dreams",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 41,
+                    "soal" => "",
+                    "pilihan" => [
+                        "An English teacher",
+                        "A secretary",
+                        "A coach",
+                        "A student",
+                    ],
+                    "jawaban" => "An English teacher",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 42,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Being a good man",
+                        "Being a chef",
+                        "Being a secretary",
+                        "Being an English teacher",
+                    ],
+                    "jawaban" => "Being a secretary",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 43,
+                    "soal" => "",
+                    "pilihan" => [
+                        "In the class",
+                        "In the office",
+                        "In the library",
+                        "In the living room",
+                    ],
+                    "jawaban" => "In the class",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 44,
+                    "soal" => "",
+                    "pilihan" => [
+                        "He was lazy",
+                        "He was not interested in his dream",
+                        "He didn’t focus on his dream",
+                        "He had no strong intention",
+                    ],
+                    "jawaban" => "He had no strong intention",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 45,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Teaching in the class",
+                        "Going home soon",
+                        "Staying in the class",
+                        "Sleeping",
+                    ],
+                    "jawaban" => "Teaching in the class",
+                ]
+            ],
+            [
+                "tipe" => "audio",
+                "data" => "v7 46-50.mp3"
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 46,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Never ending talking about education",
+                        "The problem of education in the world",
+                        "Curriculum of education",
+                        "Government’s education",
+                    ],
+                    "jawaban" => "The problem of education in the world",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 47,
+                    "soal" => "",
+                    "pilihan" => [
+                        "A student",
+                        "A chef",
+                        "A coach",
+                        "A lecturer",
+                    ],
+                    "jawaban" => "A student",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 48,
+                    "soal" => "",
+                    "pilihan" => [
+                        "In the class",
+                        "In the library",
+                        "In the hotel",
+                        "In the meeting hall",
+                    ],
+                    "jawaban" => "In the class",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 49,
+                    "soal" => "",
+                    "pilihan" => [
+                        "From experience",
+                        "From parents",
+                        "From education",
+                        "From suggestion",
+                    ],
+                    "jawaban" => "From education",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 50,
+                    "soal" => "",
+                    "pilihan" => [
+                        "Going home ",
+                        "Coming back to the seat",
+                        "Staying front",
+                        "Going outside",
+                    ],
+                    "jawaban" => "Coming back to the seat",
+                ]
+            ],
+        ];
+
+        return $data;
+    }
+
+    public function get_soal_structurev7(){
+        $data = [
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    Questions number 1-15 are incomplete sentences. Beneath each sentence you will see four words or ‎phrases, marked (A), (B), (C), and (D). Choose the one word of phrase that best complets the sentence. Then, ‎on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the ‎answer you have chosen. Fill in the space so that the letter inside the oval cannot be seen.‎
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 1,
+                    "soal" => 'The teacher…………two interesting stories yesterday.',
+                    "pilihan" => [
+                        "gave",
+                        "give",
+                        "gived",
+                        "will give",
+                    ],
+                    "jawaban" => "gave",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 2,
+                    "soal" => 'They always ……… cups of tea every day.',
+                    "pilihan" => [
+                        "Drink",
+                        "Drinks",
+                        "Will drink",
+                        "Are drinking",
+                    ],
+                    "jawaban" => "Drink",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 3,
+                    "soal" => 'We were watering this plant yesterday morning. Anne……….. the flower at the same time tomorrow.',
+                    "pilihan" => [
+                        "Will water",
+                        "Will be watering",
+                        "Waters",
+                        "Was watering",
+                    ],
+                    "jawaban" => "Was watering",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 4,
+                    "soal" => ' Both Max and his friend have breakfast every morning, …………?',
+                    "pilihan" => [
+                        "Have they?",
+                        "Haven’t they?",
+                        "Don’t they?",
+                        "Do not they?",
+                    ],
+                    "jawaban" => "Don’t they?",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 5,
+                    "soal" => 'Ms. Jean was very thirsty. She ……… 3 glasses of water.',
+                    "pilihan" => [
+                        "Buyed",
+                        "Buys",
+                        "Bought",
+                        "Was buying",
+                    ],
+                    "jawaban" => "Bought",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 6,
+                    "soal" => 'James didn’t go anywhere. He just stayed at home…………..',
+                    "pilihan" => [
+                        "Every day",
+                        "Last night",
+                        "Bought",
+                        "Now",
+                    ],
+                    "jawaban" => "Last night",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 7,
+                    "soal" => 'They did the task seriously, ………. ?',
+                    "pilihan" => [
+                        "Didn’t they?",
+                        "Do they?",
+                        "Don’t they?",
+                        "Did they not?",
+                    ],
+                    "jawaban" => "Didn’t they?",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 8,
+                    "soal" => 'The man …….a new car last night.',
+                    "pilihan" => [
+                        "Stolen",
+                        "Stealed",
+                        "Stole",
+                        "Was stealing",
+                    ],
+                    "jawaban" => "Stole",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 9,
+                    "soal" => 'Yesterday morning  a cake …………… by my mom.',
+                    "pilihan" => [
+                        "Was made",
+                        "Was making",
+                        "Was being made",
+                        "Made",
+                    ],
+                    "jawaban" => "Was made",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 10,
+                    "soal" => '………….was late caused a lot of trouble.',
+                    "pilihan" => [
+                        "She",
+                        "You and I",
+                        "That she",
+                        "Because she",
+                    ],
+                    "jawaban" => "That she",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 11,
+                    "soal" => 'Jimmy is……………up Mary’s dirty socks',
+                    "pilihan" => [
+                        "Picking constantly",
+                        "Constantly picking",
+                        "To pick constantly",
+                        "To be picked",
+                    ],
+                    "jawaban" => "Constantly picking",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 12,
+                    "soal" => 'I like fresh air and like to have the windows open, but he………….the windows.',
+                    "pilihan" => [
+                        "Is closing",
+                        "Closes",
+                        "Closed",
+                        "Be closing",
+                    ],
+                    "jawaban" => "Is closing",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 13,
+                    "soal" => 'The police jumped up and down and………she heard the news.',
+                    "pilihan" => [
+                        "Shouted",
+                        "Shouted when",
+                        "When shouted",
+                        "Shouting",
+                    ],
+                    "jawaban" => "Shouted when",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 14,
+                    "soal" => 'With the coming of spring, the river…………….several villages.',
+                    "pilihan" => [
+                        "Flooded and inundated",
+                        "Flooding and inundating",
+                        "Flood and inundate",
+                        "Flooded and inundating",
+                    ],
+                    "jawaban" => "Flooded and inundated",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 15,
+                    "soal" => 'The airplane departed at six and ………. at eight.',
+                    "pilihan" => [
+                        "Landed",
+                        "Lands",
+                        "Landing",
+                        "Be landing",
+                    ],
+                    "jawaban" => "Landed",
+                ],
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    In questions 16-40 each sentences has four underlined words of phrases. The four underlined parts of the ‎sentence are marked (A), (B), (C), and (D). indentify the one underlined word of phrase that must be changed ‎in order for the sentence to be correct. Then, on your answer sheet, find the number of the question and fill in ‎the space that correspondends to the letter of the answer you have choosen.‎
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 16,
+                    "soal" => 'Mr. William <u>has</u> trouble with <u>his</u> car yesterday, <u>so</u> he was <u>late</u> to go to course at the time.',
+                    "pilihan" => [
+                        "has",
+                        "his",
+                        "so",
+                        "late",
+                    ],
+                    "jawaban" => "has",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 17,
+                    "soal" => 'Coffee usually <u>is drinking</u> by Ollie <u>everyday</u> but this morning he <u>drank</u> <u>a</u> cup of milk.',
+                    "pilihan" => [
+                        "is drinking",
+                        "everyday",
+                        "drank",
+                        "a",
+                    ],
+                    "jawaban" => "is drinking",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 18,
+                    "soal" => 'We <u>had</u> a wonderful dinner last night <u>to</u> celebrate our <u>25<sup>th</sup></u> wedding anniversary, <u>hadn’t</u> we?',
+                    "pilihan" => [
+                        "had",
+                        "to",
+                        "25<sup>th</sup>",
+                        "hadn’t",
+                    ],
+                    "jawaban" => "hadn’t",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 19,
+                    "soal" => 'When we <u>was</u> looking in on the baby Last night, <u>He</u> was sleeping. I <u>think</u> He dreamt <u>about</u> something nice because he smiled.',
+                    "pilihan" => [
+                        "was",
+                        "He",
+                        "think",
+                        "about",
+                    ],
+                    "jawaban" => "was",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 20,
+                    "soal" => 'The more you study <u>hard</u> without <u>caring</u> of everything, <u>better</u> you get the yield of <u>what you</u> did.',
+                    "pilihan" => [
+                        "hard",
+                        "caring",
+                        "better",
+                        "what you",
+                    ],
+                    "jawaban" => "better",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 21,
+                    "soal" => 'My <u>uncles</u> <u>would</u> be at the airport if the plane <u>was</u> there <u>in</u> time.',
+                    "pilihan" => [
+                        "uncles",
+                        "would",
+                        "was",
+                        "in",
+                    ],
+                    "jawaban" => "was",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 22,
+                    "soal" => '<u>Another</u> cars are coming <u>to</u> this country as <u>the</u> president’s <u>request</u>.',
+                    "pilihan" => [
+                        "Another",
+                        "to",
+                        "the",
+                        "request",
+                    ],
+                    "jawaban" => "Another",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 23,
+                    "soal" => '<u>Humor</u> can <u>easing</u> the trials <u>and</u> tribulations <u>of</u> life. ',
+                    "pilihan" => [
+                        "Humor",
+                        "easing",
+                        "and",
+                        "of",
+                    ],
+                    "jawaban" => "easing",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 24,
+                    "soal" => 'Jane <u>had</u> asked you <u>many</u> times <u>to not</u> take <u>a</u> part in that convoy.',
+                    "pilihan" => [
+                        "had",
+                        "many",
+                        "to not",
+                        "a",
+                    ],
+                    "jawaban" => "to not",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 25,
+                    "soal" => 'Based <u>on</u> the research, <u>a</u> dog is <u>more easy</u> to teach than <u>a</u> cat.',
+                    "pilihan" => [
+                        "on",
+                        "a",
+                        "more easy",
+                        "a",
+                    ],
+                    "jawaban" => "more easy",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 26,
+                    "soal" => 'I <u>can not</u> see <u>clear</u> if you block <u>the</u> <u>television</u>.',
+                    "pilihan" => [
+                        "can not",
+                        "clear",
+                        "the",
+                        "television",
+                    ],
+                    "jawaban" => "clear",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 27,
+                    "soal" => 'Mr james would like <u>to invite</u> both his <u>neighbour</u> <u>or</u> even <u>his</u> family.',
+                    "pilihan" => [
+                        "to invite",
+                        "neighbour",
+                        "or",
+                        "his",
+                    ],
+                    "jawaban" => "or",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 28,
+                    "soal" => 'The weather <u>in</u> the southern states <u>get</u> very hot <u>during</u> <u>the</u> summer.',
+                    "pilihan" => [
+                        "in",
+                        "get",
+                        "during",
+                        "the",
+                    ],
+                    "jawaban" => "get",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 29,
+                    "soal" => 'The results of Dr. Noll’s <u>experiment</u> <u>was</u> published <u>in</u> a <u>scientific</u> journal.',
+                    "pilihan" => [
+                        "experiment",
+                        "was",
+                        "in",
+                        "scientific",
+                    ],
+                    "jawaban" => "was",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 30,
+                    "soal" => 'The <u>most</u> we dream, <u>the</u> closer we reach <u>our</u> <u>dream</u>.',
+                    "pilihan" => [
+                        "most",
+                        "the",
+                        "our",
+                        "dream",
+                    ],
+                    "jawaban" => "most",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 31,
+                    "soal" => '<u>Each</u> student <u>in</u> the class <u>have</u> to have <u>a</u> book.',
+                    "pilihan" => [
+                        "Each",
+                        "in",
+                        "have",
+                        "a",
+                    ],
+                    "jawaban" => "have",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 32,
+                    "soal" => 'Mrs. Hoover gave <u>a</u> present <u>to</u> each <u>children</u> in <u>this</u> village.',
+                    "pilihan" => [
+                        "a",
+                        "to",
+                        "children",
+                        "this",
+                    ],
+                    "jawaban" => "children",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 33,
+                    "soal" => 'Tonight I <u>have</u> to read 20 pages in my history book, do 30 problems <u>in</u> algebra, and <u>writing</u> a composition <u>for</u> my English teacher.',
+                    "pilihan" => [
+                        "have",
+                        "in",
+                        "writing",
+                        "for",
+                    ],
+                    "jawaban" => "writing",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 34,
+                    "soal" => 'Ann took three <u>suitcase</u>, a <u>shoulder</u> bag, <u>and</u> <u>a</u> cosmetics case.',
+                    "pilihan" => [
+                        "suitcase",
+                        "shoulder",
+                        "and",
+                        "a",
+                    ],
+                    "jawaban" => "suitcase",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 35,
+                    "soal" => 'They have a rusty car <u>without</u> <u>a</u> engine, broken chairs, <u>and</u> an old refrigerator in <u>their</u> front yard.',
+                    "pilihan" => [
+                        "without",
+                        "a",
+                        "and",
+                        "their",
+                    ],
+                    "jawaban" => "a",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 36,
+                    "soal" => 'The Mississippi, the Amazon, and the Nile <u>are</u> <u>well</u>-known <u>river</u> <u>in</u> the world.',
+                    "pilihan" => [
+                        "are",
+                        "well",
+                        "river",
+                        "in",
+                    ],
+                    "jawaban" => "river",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 37,
+                    "soal" => 'I like to <u>listening</u> to <u>operas</u>, symphonies, <u>and</u> folk <u>songs</u>.',
+                    "pilihan" => [
+                        "listening",
+                        "operas",
+                        "and",
+                        "songs",
+                    ],
+                    "jawaban" => "listening",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 38,
+                    "soal" => 'In the last <u>couple</u> of <u>years</u>, I’ve <u>go</u> to France, India, and the <u>Soviet Union</u>.',
+                    "pilihan" => [
+                        "couple",
+                        "years",
+                        "go",
+                        "Soviet Union",
+                    ],
+                    "jawaban" => "go",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 39,
+                    "soal" => 'My sister <u>is</u> <u>sewing</u> either my <u>mom’s</u> grown <u>nor</u> my dad’s sarong.',
+                    "pilihan" => [
+                        "is",
+                        "sewing",
+                        "mom’s",
+                        "nor",
+                    ],
+                    "jawaban" => "nor",
+                ],
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 40,
+                    "soal" => 'I put some <u>bananas</u> peel, rotten <u>food</u>, and <u>broken</u> bottles in the waste <u>can</u>.',
+                    "pilihan" => [
+                        "bananas",
+                        "food",
+                        "broken",
+                        "can",
+                    ],
+                    "jawaban" => "bananas",
+                ],
+            ],
+            
+        ];
+
+        return $data;
+    }
+
+    public function get_soal_readingv7(){
+        $data = [
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    Questions 1 through 10
+                    The food we eat seems to have profound effects on our health. Although science has made enormous steps in making food more <b>fit</b> to eat, it has, at the same time, made many foods unfit to eat. Some research has shown that perhaps eighty percent of all human illness are related to diet and forty percent of cancer is related to the diet as well, especially cancer of the colon. People of different cultures are more <b>prone</b> to contract certain illness because of the characteristic foods they consume.
+                    That food is related to illness is not a new discovery. In 1945, government researchers realized that nitrates and nitrites (commonly used to persevere color in meats) as well as other food additives caused cancer. Yet, <b>these carcinogenic additives</b> remain in our food, and it becomes more difficult all the time to know which ingredients on the packaging labels of processed food are helpful or harmful. 
+                    The additives that we eat are not all so direct. Farmers often give penicillin to cattle and poultry, and because of this, penicillin has been found in the milk of treated cows. Sometimes similar drugs are administered to animal not for medicinal purposes, but for financial reasons. The farmers are simply trying to fatten the animals in order to obtain a higher price on the market. Although the Food and Drug Administration (FDA) has tried repeatedly to control these procedures, the practices continue.
+                    A healthy diet is directly related to good health. Often we are unaware of the detrimental substances we ingest. Sometimes well-meaning farmers or others who do not realize the consequences add these substances to food without our knowledge.
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 1,
+                    "soal" => "How has science done a disservice to people?",
+                    "pilihan" => [
+                        "Because of science, disease caused by contaminated food has been virtually eradicated.",
+                        "It has caused a lack of information concerning the value of food.",
+                        "As a result of scientific intervention, some potentially harmful substances have been added to our food.",
+                        "The scientists have preserved the color of meats, but not of vegetables.",
+                    ],
+                    "jawaban" => "As a result of scientific intervention, some potentially harmful substances have been added to our food.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 2,
+                    "soal" => "The word “prone” in the last line (paragraph 1) is nearest in meaning to………",
+                    "pilihan" => [
+                        "Supine",
+                        "Unlikely",
+                        "Healthy",
+                        "Predisposed",
+                    ],
+                    "jawaban" => "Predisposed",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 3,
+                    "soal" => "What are nitrates used for?",
+                    "pilihan" => [
+                        "The preserve flavor in packaging foods.",
+                        "They preserve the color of meats.",
+                        "They are the objects of research.",
+                        "They cause the animals to become fatter.",
+                    ],
+                    "jawaban" => "They preserve the color of meats.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 4,
+                    "soal" => "FDA means…………..",
+                    "pilihan" => [
+                        "Food Direct Additives",
+                        "Final Difficult Analysis",
+                        "Food and Drug Administration",
+                        "Federal Dairy Additives",
+                    ],
+                    "jawaban" => "Food and Drug Administration",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 5,
+                    "soal" => "The word “these” in paragraph 2 refers to …………..",
+                    "pilihan" => [
+                        "Meats",
+                        "Colors",
+                        "Researchers",
+                        "Nitrates and nitrites",
+                    ],
+                    "jawaban" => "Nitrates and nitrites",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 6,
+                    "soal" => "In paragraph 2, the word “carcinogenic” is closest meaning to …………….",
+                    "pilihan" => [
+                        "Trouble-making",
+                        "Color-retaining",
+                        "Money-making",
+                        "Cancer-making",
+                    ],
+                    "jawaban" => "Cancer-making",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 7,
+                    "soal" => "All of the following statements are true EXCEPT ……….",
+                    "pilihan" => [
+                        "Drugs are always given to animals for medical reasons.",
+                        "Some of the additives in our food are added to the food itself and some are given to the living animals.",
+                        "Researchers have known about the potential hazards of food additives for more than forty-five years.",
+                        "Food may cause forty percent of the cancer in the world.",
+                    ],
+                    "jawaban" => "Drugs are always given to animals for medical reasons.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 8,
+                    "soal" => "The word “additives” in paragraph 2 is closest meaning to ………….",
+                    "pilihan" => [
+                        "Added substances",
+                        "Dangerous substances",
+                        "Natural substances",
+                        "Benign substances",
+                    ],
+                    "jawaban" => "Added substances",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 9,
+                    "soal" => "What is the best title for this passage?",
+                    "pilihan" => [
+                        "Harmful and harmless substances in food",
+                        "Improving health through a natural diet",
+                        "The food you eat can affect your health",
+                        "Avoiding injurious substances in food",
+                    ],
+                    "jawaban" => "The food you eat can affect your health",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 10,
+                    "soal" => "In paragraph 1, the word “fit” is closest in meaning to …………..",
+                    "pilihan" => [
+                        "Athletic ",
+                        "Suitable",
+                        "Tasty",
+                        "Adaptable",
+                    ],
+                    "jawaban" => "Suitable",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 11,
+                    "soal" => "The fact that the topic has been known for some time is discussed in paragraphs?",
+                    "pilihan" => [
+                        "Paragraph 1",
+                        "Paragraph 2",
+                        "Paragraph 3",
+                        "Paragraph 4",
+                    ],
+                    "jawaban" => "Paragraph 2",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p>The ancient Egyptians firmly believed in the afterlife and spent their time on earth preparing for it. Elaborate burial ritual included preparing the burial site, providing for all of the deceased’s material needs (food, clothing, jewels, and tools of their trade), and preserving the corpse so that it would not <b>decay</b>. This preservation was <b>accomplished</b> through a process of mummification. The ancients left no written accounts as to examine mummies and establish their own theories. The embalming process might have taken up to seventy days for the pharaohs and nobility and only a few days for the poor. The embalmers spread a variety of compounds of salt, spices, and resins in and over the corpse to preserve it. <b>They</b> followed this with a prescribed wrapping, a procedure in which they wound strips of fine linen around, over, and under the body while placing various <b>amulets</b> within the wrappings to protect the deceased from harm on the long journey to the afterlife. They also painted resins over the wrapped linen. Finally, a pharaoh or noble would have been encased in a wooden box before being placed in a sarcophagus.</p>
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 12,
+                    "soal" => "How have we been able to learn about the mummification process?",
+                    "pilihan" => [
+                        "Accurate records have been handed down to us.",
+                        "Interviews with embalmers who still use the process have revealed the secret.",
+                        "After studying mummies, scientists have developed their own theories.",
+                        "Chemical analysis of the compounds has led us to an explanation of the method used.",
+                    ],
+                    "jawaban" => "After studying mummies, scientists have developed their own theories.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 13,
+                    "soal" => "The word “they” in sentence 7 refers to ……………..",
+                    "pilihan" => [
+                        "Embalmers",
+                        "Spices",
+                        "Pharaohs",
+                        "The poor",
+                    ],
+                    "jawaban" => "Embalmers",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 14,
+                    "soal" => "The embalming process can best be described as ………….",
+                    "pilihan" => [
+                        "Lengthy and complicated",
+                        "Short and simple",
+                        "Strict and unfaltering",
+                        "Wild and terrifying",
+                    ],
+                    "jawaban" => "Lengthy and complicated",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 15,
+                    "soal" => "The word “decay” in sentence 2 is closest meaning to …………..",
+                    "pilihan" => [
+                        "Die",
+                        "Deteriorate",
+                        "Embalm",
+                        "Rejuvenate",
+                    ],
+                    "jawaban" => "Deteriorate",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 16,
+                    "soal" => "All of the following statements are true EXCEPT …………..",
+                    "pilihan" => [
+                        "Bodies were preserved as a matter of religious belief.",
+                        "All mummies took seventy days to complete.",
+                        "Special compounds were used to embalm the bodies.",
+                        "It has been difficult to determine the process used.",
+                    ],
+                    "jawaban" => "All mummies took seventy days to complete.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 17,
+                    "soal" => "Why did the ancient Egyptians mummify the deceased?",
+                    "pilihan" => [
+                        "To preserve the body from destruction",
+                        "To scare tomb robbers",
+                        "To encase the body in a sarcophagus",
+                        "To protect the body from harm on the journey to the afterlife",
+                    ],
+                    "jawaban" => "To preserve the body from destruction",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 18,
+                    "soal" => "It can be inferred that the Egyptians buried food, clothing, jewels, and tools with the deceased because …………..",
+                    "pilihan" => [
+                        "The family did not want anyone else to share them.",
+                        "That was the wish of the deceased.",
+                        "They were afraid.",
+                        "The deceased would need them while en-route to the afterlife.",
+                    ],
+                    "jawaban" => "The deceased would need them while en-route to the afterlife.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 19,
+                    "soal" => "The word “amulets” in sentence 7 is closest meaning to ……………",
+                    "pilihan" => [
+                        "Weapons",
+                        "Coins",
+                        "Charms",
+                        "Curses",
+                    ],
+                    "jawaban" => "Charms",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 20,
+                    "soal" => "In sentence 3 “accomplished” is closest in meaning to ……………",
+                    "pilihan" => [
+                        "Performed",
+                        "Forsaken",
+                        "Reproduced",
+                        "Dwindled",
+                    ],
+                    "jawaban" => "Performed",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p>Theodore Seuss Geisel became a writer of children’s books quite by accident. After college in the United States, he did his graduate work in England and France, with the intention of becoming a professor of English. After graduation, instead of pursuing his intended goal, he was hired by the Standard Oil Company as <b>its</b> advertising artist. It was on a trip across the Atlantic from Europe in 1936 that his writing career was born; on that trip, he wrote a <b>nonsense</b> poem to the <b>beat</b> of the ship’s engine. This poem, “And to Think That I Saw It on Mulberry Street,” was published as a book in 1937.</p>
+                    <p>It took 20 years for Theodore Geisel to achieve fame as an author. It was the publication of {The Cat in The Hat} in 1957 that made him a household name. Using the <b>pseudonym</b> Dr. Seuss, Geisel founded the publishing company Beginner Books and began <b>churning out</b> hit after hit.</p>
+                    <p>A number of factors contributed to the success of the Dr. Seuss books. Some of the most frequently mentioned reasons are that his children’s books have a catchy rhythm pattern and rhyme scheme that differentiate them from all others and make them easy to read and imposible to forget. Furthermore, his tales are of a preposterous nature, with unusual characters and objects that provide a sense of wonder to children and adults alike. Finally, these tales are accompanied by whimsical drawings that are as enjoyable to look at as the stories are fun to read.</p>
+                    <p>Theodore Seuss Geisel authored more than 50 books in the years from 1937 to 1990, and one of the books, {How the Grinch Stole Christmas}, was even turned into a holiday cartoon for television. His last book, called {Oh, the Places You’ll Go}, was published in 1990, one year before his death. This beloved writer will remain a favorite author of children for generations to come.</p>
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 21,
+                    "soal" => "It is stated in the passage that Theodore Geisel ......",
+                    "pilihan" => [
+                        "Planned to be an English professor",
+                        "Intended to live permanently in Europe",
+                        "Wrote hundreds of books",
+                        "Had a friend who owned a publishing company",
+                    ],
+                    "jawaban" => "Planned to be an English professor",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 22,
+                    "soal" => "The possessive “its” in paragraph 1 refers to .......",
+                    "pilihan" => [
+                        "A professor of English",
+                        "His intended goal",
+                        "The Standard Oil Company",
+                        "A trip across the Atlantic",
+                    ],
+                    "jawaban" => "The Standard Oil Company",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 23,
+                    "soal" => "According to the passage, Theodore Seuss Geisel wrote the poem “And to Think That I Saw It on Mulberry Street.” .........",
+                    "pilihan" => [
+                        "In college",
+                        "While living in England",
+                        "On an ocean voyage",
+                        "On Mulberry Street",
+                    ],
+                    "jawaban" => "On an ocean voyage",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 24,
+                    "soal" => "The word “nonsense” in paragraph 1 is closest in meaning to which of the following?",
+                    "pilihan" => [
+                        "Insensitive",
+                        "Paradoxical",
+                        "Inspirational",
+                        "Senseless",
+                    ],
+                    "jawaban" => "Senseless",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 25,
+                    "soal" => "The word “beat” in paragraph 1 could best be replaced by ......",
+                    "pilihan" => [
+                        "Rhythm",
+                        "Pressure",
+                        "Win",
+                        "Power",
+                    ],
+                    "jawaban" => "Rhythm",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 26,
+                    "soal" => "A “pseudonym” in paragraph 2 is most likely ......",
+                    "pilihan" => [
+                        "A publishing company",
+                        "A fictitious name",
+                        "A book title",
+                        "A kind of profession",
+                    ],
+                    "jawaban" => "A fictitious name",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 27,
+                    "soal" => "The expression “churning out” in paragraph 2 could best be replaced by ......",
+                    "pilihan" => [
+                        "Reading",
+                        "Naming",
+                        "Producing",
+                        "Solving",
+                    ],
+                    "jawaban" => "Producing",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 28,
+                    "soal" => "Where in the passage does the author mention the illustrations that Dr. Seuss included with his stories?",
+                    "pilihan" => [
+                        "The fourth sentence in paragraph 1",
+                        "The second sentence in paragraph 2",
+                        "The fourth sentence in paragraph 3",
+                        "The second sentence in paragraph 4",
+                    ],
+                    "jawaban" => "The fourth sentence in paragraph 3",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 29,
+                    "soal" => "It can be determined from the passage that Theodore Geisel died .......",
+                    "pilihan" => [
+                        "In 1957",
+                        "In 1989",
+                        "In 1990",
+                        "In 1991",
+                    ],
+                    "jawaban" => "In 1991",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 30,
+                    "soal" => "Which paragraph explains the reasons for the success of the Dr. Seuss books ......",
+                    "pilihan" => [
+                        "The first paragraph",
+                        "The second paragraph",
+                        "The third paragraph",
+                        "The last paragraph",
+                    ],
+                    "jawaban" => "The third paragraph",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p>During a relatively short period at the end of the nineteenth century, George Eastman was instrumental in transforming the labor-intensive and expensive art of photography into a popular and <b>affordable</b> hobby. The phenomenal success that Eastman had in these early years of his business was in most part due to the successful innovation that opened up photography to the population as a whole.</p>
+                    <p>While Eastman was working as a bookkeeper in a bank on Rochester, New York, he spent his leisure time working on a process for making dry plates. By 1880, Eastman had perfected the process. Without leaving his job at the bank, he established the Eastman Dry Plate Company. The business grew so quickly that by 1881 Eastman had <b>given up</b> his job at the bank in order to develop the business.</p>
+                    <p>Changes to simplify the process of taking photographs followed one after another. In 1884, Eastman took a step that made photography a less cumbersome process: he replaced the unwieldy glass plates with paper backed roll film. Four years later, the hand-held kodak was introduced. This camera came loaded with enough film to take a hundred photographs and produced round-shaped pictures approximately six centimeters in diameter. Something that made this camera very popular was that a photographer did not need to know how to develope film in order to use it; after using up the film, the photographer sent the loaded camera back to the factory, where the photographs were processed and the camera was reloaded and returned to its owner. In 1892, another innovation, film that could be loaded in the daylight, allowed amateur photographers to load their own film successfully.</p>
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 31,
+                    "soal" => "The word “affordable” in paragraph 1 is closest in meaning to .........",
+                    "pilihan" => [
+                        "Costly",
+                        "Priceless",
+                        "Cheap",
+                        "Valued",
+                    ],
+                    "jawaban" => "Cheap",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 32,
+                    "soal" => "How did photography apparently change at the end of the nineteenth century?",
+                    "pilihan" => [
+                        "It required more labor.",
+                        "It began costing more.",
+                        "It became more widespread.",
+                        "It became more of an art.",
+                    ],
+                    "jawaban" => "It became more widespread.",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 33,
+                    "soal" => "According to the passage, what contributed to Eastman’s incredible success?",
+                    "pilihan" => [
+                        "His ability as a photographer",
+                        " His ability to come up with new ideas",
+                        "A phenomenal amount of luck",
+                        "His ability to relate to the population as a whole",
+                    ],
+                    "jawaban" => " His ability to come up with new ideas",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 34,
+                    "soal" => "It can be inferred from the passage that Eastman kept his job at the bank for how long after he established his own company?",
+                    "pilihan" => [
+                        "One year",
+                        "Two years",
+                        "Twelve years",
+                        "Four years",
+                    ],
+                    "jawaban" => "One year",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 35,
+                    "soal" => "The expression “given up” in paragraph 2 is closest in meaning to which of the following?",
+                    "pilihan" => [
+                        "Quit",
+                        "Handed it",
+                        "Misunderstood",
+                        "Gotten",
+                    ],
+                    "jawaban" => "Quit",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 36,
+                    "soal" => "It can be inferred from the passage that, prior to 1884, photography .......",
+                    "pilihan" => [
+                        "Used paper-backed film",
+                        "Required glass plates",
+                        "Was possible with a hand-held camera",
+                        "Was a simple process",
+                    ],
+                    "jawaban" => "Required glass plates",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 37,
+                    "soal" => "Where in the passage does the author indicate what product came on the market in 1888 ?",
+                    "pilihan" => [
+                        "The second sentence in paragraph 1",
+                        "The first sentence in paragraph 2",
+                        "The third sentence in paragraph 3",
+                        "The sixth sentence in paragraph 3",
+                    ],
+                    "jawaban" => "The third sentence in paragraph 3",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 38,
+                    "soal" => "To get the film for the hand-held kodak developed, the photographer .......",
+                    "pilihan" => [
+                        "Developed the film at home",
+                        "Took the film to a local film developer",
+                        "Mailed the film to the factory",
+                        "Sent the camera, with film, to the factory",
+                    ],
+                    "jawaban" => "Sent the camera, with film, to the factory",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 39,
+                    "soal" => "Who apparently loaded the film into a hand-held kodak ?",
+                    "pilihan" => [
+                        "The camera’s owner",
+                        "An amateur photographer",
+                        "A factory worker",
+                        "A professional photographer",
+                    ],
+                    "jawaban" => "A factory worker",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 40,
+                    "soal" => "The paragraph following the passage most likely discusses ........",
+                    "pilihan" => [
+                        "Another company started by Eastman",
+                        "The effect of daylight-loading film on amateur photography",
+                        "The predecessor to the hand-held kodak developed by Eastman",
+                        "Further innovations in professional photography",
+                    ],
+                    "jawaban" => "The effect of daylight-loading film on amateur photography",
+                ]
+            ],
+            [
+                "tipe" => "petunjuk",
+                "data" => "
+                    <p>In 1796, George Washington, the first president of the United States, resigned after completing two four-year term in office. He had remained in the service of his country until he was assured that it could continue and succeed without his leadership. John Adam took over Washington’s position as president in a smooth and <b>bloodless</b> change of power that was unusual for its time.</p>
+                    <p>By the end of Washington’s presidency, the American government had been established. The three branches of government had been set up and were in <b>working</b> order. The debt had been assumed, and funds had been collected; treaties with major European powers had been signed, and challenges to the new government authorities had been firmly met. However, when Washington left office, there were still some unresolved problems. Internationally, France was in turmoil and on the brink of war; <b>domestically</b>, the contest for political control was a major concern. In addition, there was still some resistance to governmental policies.</p>
+                    <p>It was within this context that Washington made his farewell address to the nation. In the address published in a Philadelphia newspaper, Washington advised his fellow politicians to base their views and decisions on the bedrock of enduring principles. He further recommended a firm adherence to the Constitution because he felt that this was necessary for the <b>survival</b> of the young country. He asked that credit be used sparingly and expressed concerns about the unity, the independence, and the future of the young country. In regard to relations with foreign powers, he encouraged the country not to be divided by the conflicts in Europe. Stating that foreign influences were the foe of the republican government, he maintained that relations were to be strictly commercial and not political. He pleaded with the American public to guard their freedoms jealously. Finally, he reminded all citizens of the need for religion and morality and stated his belief that one cannot have one without the other.</p>
+                "
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 41,
+                    "soal" => "The paragraph preceding the passage most probably discussed ......",
+                    "pilihan" => [
+                        "The Revolutionary war",
+                        "George Washington’s presidency",
+                        "European wars",
+                        "The writing of the Constitution",
+                    ],
+                    "jawaban" => "George Washington’s presidency",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 42,
+                    "soal" => "Which of the following would be the best title for this passage?",
+                    "pilihan" => [
+                        "The First President of the United States",
+                        "John Adams Takes Over the Presidency",
+                        "Challenges Facing the New U.S Government",
+                        "George Washington’s Farewell to office",
+                    ],
+                    "jawaban" => "George Washington’s Farewell to office",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 43,
+                    "soal" => "The pronoun “it” in paragraph 1 refers to .......",
+                    "pilihan" => [
+                        "Office",
+                        "Service",
+                        "Country",
+                        "Leadership",
+                    ],
+                    "jawaban" => "Country",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 44,
+                    "soal" => "It can be inferred from the passage that John Adams .......",
+                    "pilihan" => [
+                        "Was the second president of the United States",
+                        "Had a new idea",
+                        "Also served as president for eight years",
+                        "Was a part of a bloody change of power",
+                    ],
+                    "jawaban" => "Was the second president of the United States",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 45,
+                    "soal" => "The word “bloodless” in paragraph 1 could best be replaced by ........",
+                    "pilihan" => [
+                        "Unhealthy",
+                        "Deathly",
+                        "Inorganic",
+                        "Nonviolent",
+                    ],
+                    "jawaban" => "Nonviolent",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 46,
+                    "soal" => "The word “working” in paragraph 2 is closest in meaning to which of the following?",
+                    "pilihan" => [
+                        "Laboring",
+                        "Functioning",
+                        "Toiling",
+                        "Producing",
+                    ],
+                    "jawaban" => "Functioning",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 47,
+                    "soal" => "According to the passage, what had occurred by the end of George Washington’s presidency?",
+                    "pilihan" => [
+                        "The debt had been paid off",
+                        "A three-branch government was being considered",
+                        "Treaties were in place with European governments",
+                        "The government had begun distributing funds",
+                    ],
+                    "jawaban" => "Treaties were in place with European governments",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 48,
+                    "soal" => "The word “domestically” in paragraph 2 is closest in meaning to the expression ......",
+                    "pilihan" => [
+                        "Within the individual",
+                        "Within the home",
+                        "Within the country",
+                        "Within the world",
+                    ],
+                    "jawaban" => "Within the country",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 49,
+                    "soal" => "The word “survival” in paragraph 3 is closest in meaning to .......",
+                    "pilihan" => [
+                        "Continued life",
+                        "Renewed birth",
+                        "Successful transition",
+                        "Systematic growth",
+                    ],
+                    "jawaban" => "Continued life",
+                ]
+            ],
+            [
+                "tipe" => "soal",
+                "data" => [
+                    "no" => 50,
+                    "soal" => "Where in the passage does the author mention Washington’s belief about a U.S document?",
+                    "pilihan" => [
+                        "The second sentence in paragraph 1",
+                        "The fourth sentence in paragraph 2",
+                        "The third sentence in paragraph 3",
+                        "The sixth sentence in paragraph 3",
+                    ],
+                    "jawaban" => "The third sentence in paragraph 3",
+                ]
+            ]
         ];
 
         return $data;
